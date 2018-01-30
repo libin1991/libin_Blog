@@ -903,4 +903,1840 @@ CSS预加载：
 
 ## [vue-cli 自定义路径别名 assets和static文件夹的区别 --save-dev和--save的区别](http://link.zhihu.com/?target=https%3A//juejin.im/post/59be4d325188257e764c8485)
 
-## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9)
+## [前端面试之webpack篇](http://link.zhihu.com/?target=https%3A//juejin.im/post/59cb6307f265da064e1f65b9
+
+
+
+
+
+
+
+
+## [BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
+
+## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
+
+## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
+
+## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
+
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
+
+## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
+
+## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
+
+## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
+
+## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
+
+## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
+
+## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
+
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+
+## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
+
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+
+## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  【扫盲】
+
+## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
+
+## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
+
+## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
+
+## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
+
+## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+
+## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
+
+## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
+
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+
+## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
+## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)  【干货】
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
+
+## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
+
+## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
+
+## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
+
+## [如何使用GitHub Pages在线加载静态网页](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/28/%25E5%25A6%2582%25E4%25BD%2595%25E4%25BD%25BF%25E7%2594%25A8GitHub-Pages%25E5%259C%25A8%25E7%25BA%25BF%25E5%258A%25A0%25E8%25BD%25BD%25E9%259D%2599%25E6%2580%2581%25E7%25BD%2591%25E9%25A1%25B5/)
+
+## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
+
+## [Vue 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb)
+
+## [编码过程中，我的常用网站工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8b53f6fb9a02480710150)
+
+## [前端实用的在线工具推荐系列](http://link.zhihu.com/?target=http%3A//www.jackpu.com/qian-duan-shi-yong-de-zai-xian-gong-ju-tui-jian/)
+
+## [meta 标签大全](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8052)
+
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+
+##                                                                   面试
+
+## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
+
+## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+
+## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
+
+## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
+
+## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
+
+## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
+
+## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
+
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
+## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
+
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+
+## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+
+## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
+
+## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
+
+## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
+
+## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
+
+## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)
+
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+
+## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
+
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
+
+## [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
+
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+
+## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
+
+## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
+
+## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
+
+## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
+
+## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
+
+## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
+
+## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
+
+## [zepto的tap点透问题](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6388106194552044344)
+
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
+
+## [周末读fastclick.js源码有感](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6391406262738698559) 在touchend合成一个事件立即触发解决300ms问题
+
+    fastclick是将事件绑定到你传的元素（一般是document.body）
+    ② 在touchstart和touchend后（会手动获取当前点击el），如果是类click事件便手动触发了dom元素的click事件
+    所以click事件在touchend便被触发，整个响应速度就起来了，触发实际与zepto tap一样
+    既然浏览器有这300ms的延迟，那么我们来代替浏览器判断，手动触发click事件，这也是fastClick的解决方案。
+    
+    // 自定义事件
+    var eve = new Event('自定义事件名');
+    el.addEventListener('自定义事件名', function(){
+        console.log('自定义事件')
+    });
+    el.dispatchEvent(eve);
+    //
+    
+    fastClick的核心代码
+    
+    FastClick.prototype.onTouchEnd = function(event){
+    
+      // 一些状态监测代码 
+    
+      // 从这里开始，
+      if (!this.needsClick(targetElement)) {
+        // 如果这不是一个需要使用原生click的元素，则屏蔽原生事件，避免触发两次click
+        event.preventDefault(); 
+        // 触发一次模拟的click
+        this.sendClick(targetElement, event);
+      }
+    }
+    这里可以看到，FastClick在touchEnd的时候，在符合条件的情况下，主动触发了click事件，这样避免了浏览器默认的300毫秒等待判断。为了防止原生的click被触发，这里还通过event.preventDefault()屏蔽了原生的click事件。
+    
+    我们来看看他是怎么模拟click事件的
+    
+    FastClick.prototype.sendClick = function(targetElement, event) {
+    
+      // 这里是一些状态检查逻辑
+    
+      // 创建一个鼠标事件
+      clickEvent = document.createEvent('MouseEvents');
+      // 初始化鼠标事件为click事件
+      clickEvent.initMouseEvent(this.determineEventType(targetElement), true, true, window, 1, touch.screenX, touch.screenY, touch.clientX, touch.clientY, false, false, false, false, 0, null);
+    
+      // fastclick的内部变量，用来识别click事件是原生还是模拟
+      clickEvent.forwardedTouchEvent = true;
+    
+      // 在目标元素上触发该鼠标事件，
+      targetElement.dispatchEvent(clickEvent);
+    我们在网上搜索fastClick，大部分都在说他解决了zepto的点击穿透问题，他是怎么解决的呢？就是上面最后一句，他模拟的click事件是在touchEnd获取的真实元素上触发的，而不是通过坐标计算出来的元素。
+     
+    
+
+## [读 Zepto 源码 ](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
+
+## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
+
+## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
+
+## [margin-right右边距失效](http://link.zhihu.com/?target=http%3A//blog.cssforest.org/2017/06/21/margin-right%25E5%258F%25B3%25E8%25BE%25B9%25E8%25B7%259D%25E5%25A4%25B1%25E6%2595%2588.html)
+
+## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+
+## [前端精读周刊](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly)
+
+## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
+
+## [https://github.com/microzz](http://link.zhihu.com/?target=https%3A//github.com/microzz)
+
+## [https://lenshen.com/](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
+
+## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
+
+## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
+
+## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
+
+## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
+
+## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
+
+## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
+
+## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
+
+## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
+
+## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
+
+## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
+
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
+
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+
+## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
+
+【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+
+## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
+
+## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
+
+## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
+
+## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
+
+## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
+
+##                                                                         React：
+
+## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
+
+## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+
+## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
+
+## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
+
+## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
+
+## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
+
+## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
+
+## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
+
+## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
+
+## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
+
+## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
+
+## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
+
+## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
+
+## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
+
+## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
+
+## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
+
+##                                                                          Vue：
+
+## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
+
+## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
+
+## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
+
+## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
+
+## [vue组件之间的通信](http://link.zhihu.com/?target=http%3A//whutzkj.space/2017/08/05/vue%25E7%25BB%2584%25E4%25BB%25B6%25E4%25B9%258B%25E9%2597%25B4%25E7%259A%2584%25E9%2580%259A%25E4%25BF%25A1%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589/)
+
+## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
+
+## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
+
+## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
+
+## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
+
+## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
+
+## [vue 填坑系列总结——scoped](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a81205f265da249600e240) 【干货】
+
+## [从Vue.js源码角度再看数据绑定](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abfa29f265da24734458c6)
+
+## [用addRoutes实现动态路由](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/01/%25E7%2594%25A8addRoutes%25E5%25AE%259E%25E7%258E%25B0%25E5%258A%25A8%25E6%2580%2581%25E8%25B7%25AF%25E7%2594%25B1/)
+
+## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
+
+## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
+
+## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
+
+## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)
+
+## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+##                                                                       Webpack
+
+## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
+
+## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
+
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+
+## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
+
+## [webpack 从入门到工程实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjEwNTQ4Mw%3D%3D%26mid%3D2651577617%26idx%3D1%26sn%3D5d74f835ccb4e8070c2a03a215ee199e%26chksm%3D8cd9c3f5bbae4ae3fbca8d88c7b5844a3bc7b5b8e2277200932074c26765ac04f4dfbc37637c%23rd)
+
+## [Webpack你的包](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/webpack-your-bags-921.html)
+
+[67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)[BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
+
+## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
+
+## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
+
+## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
+
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
+
+## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
+
+## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
+
+## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
+
+## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
+
+## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
+
+## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
+
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+
+## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
+
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+
+## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  【扫盲】
+
+## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
+
+## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
+
+## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
+
+## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
+
+## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+
+## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
+
+## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
+
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+
+## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
+## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)  【干货】
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
+
+## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
+
+## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
+
+## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
+
+## [如何使用GitHub Pages在线加载静态网页](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/28/%25E5%25A6%2582%25E4%25BD%2595%25E4%25BD%25BF%25E7%2594%25A8GitHub-Pages%25E5%259C%25A8%25E7%25BA%25BF%25E5%258A%25A0%25E8%25BD%25BD%25E9%259D%2599%25E6%2580%2581%25E7%25BD%2591%25E9%25A1%25B5/)
+
+## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
+
+## [Vue 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb)
+
+## [编码过程中，我的常用网站工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8b53f6fb9a02480710150)
+
+## [前端实用的在线工具推荐系列](http://link.zhihu.com/?target=http%3A//www.jackpu.com/qian-duan-shi-yong-de-zai-xian-gong-ju-tui-jian/)
+
+## [meta 标签大全](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8052)
+
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+
+##                                                                   面试
+
+## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
+
+## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+
+## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
+
+## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
+
+## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
+
+## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
+
+## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
+
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
+## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
+
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+
+## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+
+## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
+
+## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
+
+## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
+
+## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
+
+## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)
+
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+
+## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
+
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
+
+## [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
+
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+
+## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
+
+## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
+
+## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
+
+## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
+
+## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
+
+## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
+
+## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
+
+## [zepto的tap点透问题](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6388106194552044344)
+
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
+
+## [周末读fastclick.js源码有感](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6391406262738698559) 在touchend合成一个事件立即触发解决300ms问题
+
+    fastclick是将事件绑定到你传的元素（一般是document.body）
+    ② 在touchstart和touchend后（会手动获取当前点击el），如果是类click事件便手动触发了dom元素的click事件
+    所以click事件在touchend便被触发，整个响应速度就起来了，触发实际与zepto tap一样
+    既然浏览器有这300ms的延迟，那么我们来代替浏览器判断，手动触发click事件，这也是fastClick的解决方案。
+    
+    // 自定义事件
+    var eve = new Event('自定义事件名');
+    el.addEventListener('自定义事件名', function(){
+        console.log('自定义事件')
+    });
+    el.dispatchEvent(eve);
+    //
+    
+    fastClick的核心代码
+    
+    FastClick.prototype.onTouchEnd = function(event){
+    
+      // 一些状态监测代码 
+    
+      // 从这里开始，
+      if (!this.needsClick(targetElement)) {
+        // 如果这不是一个需要使用原生click的元素，则屏蔽原生事件，避免触发两次click
+        event.preventDefault(); 
+        // 触发一次模拟的click
+        this.sendClick(targetElement, event);
+      }
+    }
+    这里可以看到，FastClick在touchEnd的时候，在符合条件的情况下，主动触发了click事件，这样避免了浏览器默认的300毫秒等待判断。为了防止原生的click被触发，这里还通过event.preventDefault()屏蔽了原生的click事件。
+    
+    我们来看看他是怎么模拟click事件的
+    
+    FastClick.prototype.sendClick = function(targetElement, event) {
+    
+      // 这里是一些状态检查逻辑
+    
+      // 创建一个鼠标事件
+      clickEvent = document.createEvent('MouseEvents');
+      // 初始化鼠标事件为click事件
+      clickEvent.initMouseEvent(this.determineEventType(targetElement), true, true, window, 1, touch.screenX, touch.screenY, touch.clientX, touch.clientY, false, false, false, false, 0, null);
+    
+      // fastclick的内部变量，用来识别click事件是原生还是模拟
+      clickEvent.forwardedTouchEvent = true;
+    
+      // 在目标元素上触发该鼠标事件，
+      targetElement.dispatchEvent(clickEvent);
+    我们在网上搜索fastClick，大部分都在说他解决了zepto的点击穿透问题，他是怎么解决的呢？就是上面最后一句，他模拟的click事件是在touchEnd获取的真实元素上触发的，而不是通过坐标计算出来的元素。
+     
+    
+
+## [读 Zepto 源码 ](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
+
+## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
+
+## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
+
+## [margin-right右边距失效](http://link.zhihu.com/?target=http%3A//blog.cssforest.org/2017/06/21/margin-right%25E5%258F%25B3%25E8%25BE%25B9%25E8%25B7%259D%25E5%25A4%25B1%25E6%2595%2588.html)
+
+## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+
+## [前端精读周刊](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly)
+
+## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
+
+## [https://github.com/microzz](http://link.zhihu.com/?target=https%3A//github.com/microzz)
+
+## [https://lenshen.com/](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
+
+## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
+
+## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
+
+## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
+
+## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
+
+## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
+
+## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
+
+## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
+
+## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
+
+## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
+
+## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
+
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
+
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+
+## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
+
+【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+
+## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
+
+## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
+
+## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
+
+## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
+
+## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
+
+##                                                                         React：
+
+## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
+
+## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+
+## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
+
+## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
+
+## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
+
+## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
+
+## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
+
+## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
+
+## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
+
+## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
+
+## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
+
+## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
+
+## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
+
+## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
+
+## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
+
+## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
+
+##                                                                          Vue：
+
+## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
+
+## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
+
+## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
+
+## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
+
+## [vue组件之间的通信](http://link.zhihu.com/?target=http%3A//whutzkj.space/2017/08/05/vue%25E7%25BB%2584%25E4%25BB%25B6%25E4%25B9%258B%25E9%2597%25B4%25E7%259A%2584%25E9%2580%259A%25E4%25BF%25A1%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589/)
+
+## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
+
+## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
+
+## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
+
+## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
+
+## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
+
+## [vue 填坑系列总结——scoped](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a81205f265da249600e240) 【干货】
+
+## [从Vue.js源码角度再看数据绑定](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abfa29f265da24734458c6)
+
+## [用addRoutes实现动态路由](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/01/%25E7%2594%25A8addRoutes%25E5%25AE%259E%25E7%258E%25B0%25E5%258A%25A8%25E6%2580%2581%25E8%25B7%25AF%25E7%2594%25B1/)
+
+## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
+
+## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
+
+## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
+
+## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)
+
+## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+##                                                                       Webpack
+
+## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
+
+## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
+
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+
+## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
+
+## [webpack 从入门到工程实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjEwNTQ4Mw%3D%3D%26mid%3D2651577617%26idx%3D1%26sn%3D5d74f835ccb4e8070c2a03a215ee199e%26chksm%3D8cd9c3f5bbae4ae3fbca8d88c7b5844a3bc7b5b8e2277200932074c26765ac04f4dfbc37637c%23rd)
+
+## [Webpack你的包](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/webpack-your-bags-921.html)
+
+[67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)[BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
+
+## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
+
+## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
+
+## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
+
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
+
+## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
+
+## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
+
+## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
+
+## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
+
+## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
+
+## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
+
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+
+## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
+
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+
+## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  【扫盲】
+
+## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
+
+## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
+
+## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
+
+## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
+
+## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+
+## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
+
+## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
+
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+
+## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
+## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)  【干货】
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
+
+## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
+
+## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
+
+## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
+
+## [如何使用GitHub Pages在线加载静态网页](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/28/%25E5%25A6%2582%25E4%25BD%2595%25E4%25BD%25BF%25E7%2594%25A8GitHub-Pages%25E5%259C%25A8%25E7%25BA%25BF%25E5%258A%25A0%25E8%25BD%25BD%25E9%259D%2599%25E6%2580%2581%25E7%25BD%2591%25E9%25A1%25B5/)
+
+## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
+
+## [Vue 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb)
+
+## [编码过程中，我的常用网站工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8b53f6fb9a02480710150)
+
+## [前端实用的在线工具推荐系列](http://link.zhihu.com/?target=http%3A//www.jackpu.com/qian-duan-shi-yong-de-zai-xian-gong-ju-tui-jian/)
+
+## [meta 标签大全](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8052)
+
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+
+##                                                                   面试
+
+## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
+
+## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+
+## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
+
+## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
+
+## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
+
+## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
+
+## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
+
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
+## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
+
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+
+## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+
+## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
+
+## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
+
+## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
+
+## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
+
+## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)
+
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+
+## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
+
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
+
+## [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
+
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+
+## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
+
+## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
+
+## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
+
+## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
+
+## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
+
+## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
+
+## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
+
+## [zepto的tap点透问题](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6388106194552044344)
+
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
+
+## [周末读fastclick.js源码有感](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6391406262738698559) 在touchend合成一个事件立即触发解决300ms问题
+
+    fastclick是将事件绑定到你传的元素（一般是document.body）
+    ② 在touchstart和touchend后（会手动获取当前点击el），如果是类click事件便手动触发了dom元素的click事件
+    所以click事件在touchend便被触发，整个响应速度就起来了，触发实际与zepto tap一样
+    既然浏览器有这300ms的延迟，那么我们来代替浏览器判断，手动触发click事件，这也是fastClick的解决方案。
+    
+    // 自定义事件
+    var eve = new Event('自定义事件名');
+    el.addEventListener('自定义事件名', function(){
+        console.log('自定义事件')
+    });
+    el.dispatchEvent(eve);
+    //
+    
+    fastClick的核心代码
+    
+    FastClick.prototype.onTouchEnd = function(event){
+    
+      // 一些状态监测代码 
+    
+      // 从这里开始，
+      if (!this.needsClick(targetElement)) {
+        // 如果这不是一个需要使用原生click的元素，则屏蔽原生事件，避免触发两次click
+        event.preventDefault(); 
+        // 触发一次模拟的click
+        this.sendClick(targetElement, event);
+      }
+    }
+    这里可以看到，FastClick在touchEnd的时候，在符合条件的情况下，主动触发了click事件，这样避免了浏览器默认的300毫秒等待判断。为了防止原生的click被触发，这里还通过event.preventDefault()屏蔽了原生的click事件。
+    
+    我们来看看他是怎么模拟click事件的
+    
+    FastClick.prototype.sendClick = function(targetElement, event) {
+    
+      // 这里是一些状态检查逻辑
+    
+      // 创建一个鼠标事件
+      clickEvent = document.createEvent('MouseEvents');
+      // 初始化鼠标事件为click事件
+      clickEvent.initMouseEvent(this.determineEventType(targetElement), true, true, window, 1, touch.screenX, touch.screenY, touch.clientX, touch.clientY, false, false, false, false, 0, null);
+    
+      // fastclick的内部变量，用来识别click事件是原生还是模拟
+      clickEvent.forwardedTouchEvent = true;
+    
+      // 在目标元素上触发该鼠标事件，
+      targetElement.dispatchEvent(clickEvent);
+    我们在网上搜索fastClick，大部分都在说他解决了zepto的点击穿透问题，他是怎么解决的呢？就是上面最后一句，他模拟的click事件是在touchEnd获取的真实元素上触发的，而不是通过坐标计算出来的元素。
+     
+    
+
+## [读 Zepto 源码 ](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
+
+## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
+
+## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
+
+## [margin-right右边距失效](http://link.zhihu.com/?target=http%3A//blog.cssforest.org/2017/06/21/margin-right%25E5%258F%25B3%25E8%25BE%25B9%25E8%25B7%259D%25E5%25A4%25B1%25E6%2595%2588.html)
+
+## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+
+## [前端精读周刊](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly)
+
+## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
+
+## [https://github.com/microzz](http://link.zhihu.com/?target=https%3A//github.com/microzz)
+
+## [https://lenshen.com/](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
+
+## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
+
+## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
+
+## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
+
+## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
+
+## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
+
+## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
+
+## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
+
+## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
+
+## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
+
+## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
+
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
+
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+
+## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
+
+【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+
+## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
+
+## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
+
+## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
+
+## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
+
+## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
+
+##                                                                         React：
+
+## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
+
+## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+
+## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
+
+## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
+
+## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
+
+## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
+
+## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
+
+## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
+
+## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
+
+## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
+
+## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
+
+## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
+
+## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
+
+## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
+
+## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
+
+## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
+
+##                                                                          Vue：
+
+## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
+
+## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
+
+## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
+
+## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
+
+## [vue组件之间的通信](http://link.zhihu.com/?target=http%3A//whutzkj.space/2017/08/05/vue%25E7%25BB%2584%25E4%25BB%25B6%25E4%25B9%258B%25E9%2597%25B4%25E7%259A%2584%25E9%2580%259A%25E4%25BF%25A1%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589/)
+
+## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
+
+## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
+
+## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
+
+## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
+
+## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
+
+## [vue 填坑系列总结——scoped](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a81205f265da249600e240) 【干货】
+
+## [从Vue.js源码角度再看数据绑定](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abfa29f265da24734458c6)
+
+## [用addRoutes实现动态路由](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/01/%25E7%2594%25A8addRoutes%25E5%25AE%259E%25E7%258E%25B0%25E5%258A%25A8%25E6%2580%2581%25E8%25B7%25AF%25E7%2594%25B1/)
+
+## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
+
+## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
+
+## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
+
+## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)
+
+## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+##                                                                       Webpack
+
+## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
+
+## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
+
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+
+## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
+
+## [webpack 从入门到工程实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjEwNTQ4Mw%3D%3D%26mid%3D2651577617%26idx%3D1%26sn%3D5d74f835ccb4e8070c2a03a215ee199e%26chksm%3D8cd9c3f5bbae4ae3fbca8d88c7b5844a3bc7b5b8e2277200932074c26765ac04f4dfbc37637c%23rd)
+
+## [Webpack你的包](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/webpack-your-bags-921.html)
+
+## [67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)[BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
+
+## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
+
+## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
+
+## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
+
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
+
+## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
+
+## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
+
+## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
+
+## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
+
+## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
+
+## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
+
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+
+## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
+
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+
+## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  【扫盲】
+
+## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
+
+## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
+
+## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
+
+## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
+
+## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+
+## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
+
+## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
+
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+
+## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
+## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)  【干货】
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
+
+## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
+
+## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
+
+## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
+
+## [如何使用GitHub Pages在线加载静态网页](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/28/%25E5%25A6%2582%25E4%25BD%2595%25E4%25BD%25BF%25E7%2594%25A8GitHub-Pages%25E5%259C%25A8%25E7%25BA%25BF%25E5%258A%25A0%25E8%25BD%25BD%25E9%259D%2599%25E6%2580%2581%25E7%25BD%2591%25E9%25A1%25B5/)
+
+## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
+
+## [Vue 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb)
+
+## [编码过程中，我的常用网站工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8b53f6fb9a02480710150)
+
+## [前端实用的在线工具推荐系列](http://link.zhihu.com/?target=http%3A//www.jackpu.com/qian-duan-shi-yong-de-zai-xian-gong-ju-tui-jian/)
+
+## [meta 标签大全](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8052)
+
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+
+##                                                                   面试
+
+## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
+
+## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+
+## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
+
+## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
+
+## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
+
+## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
+
+## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
+
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
+## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
+
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+
+## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+
+## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
+
+## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
+
+## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
+
+## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
+
+## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)
+
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+
+## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
+
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
+
+## [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
+
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+
+## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
+
+## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
+
+## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
+
+## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
+
+## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
+
+## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
+
+## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
+
+## [zepto的tap点透问题](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6388106194552044344)
+
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
+
+## [周末读fastclick.js源码有感](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6391406262738698559) 在touchend合成一个事件立即触发解决300ms问题
+
+    fastclick是将事件绑定到你传的元素（一般是document.body）
+    ② 在touchstart和touchend后（会手动获取当前点击el），如果是类click事件便手动触发了dom元素的click事件
+    所以click事件在touchend便被触发，整个响应速度就起来了，触发实际与zepto tap一样
+    既然浏览器有这300ms的延迟，那么我们来代替浏览器判断，手动触发click事件，这也是fastClick的解决方案。
+    
+    // 自定义事件
+    var eve = new Event('自定义事件名');
+    el.addEventListener('自定义事件名', function(){
+        console.log('自定义事件')
+    });
+    el.dispatchEvent(eve);
+    //
+    
+    fastClick的核心代码
+    
+    FastClick.prototype.onTouchEnd = function(event){
+    
+      // 一些状态监测代码 
+    
+      // 从这里开始，
+      if (!this.needsClick(targetElement)) {
+        // 如果这不是一个需要使用原生click的元素，则屏蔽原生事件，避免触发两次click
+        event.preventDefault(); 
+        // 触发一次模拟的click
+        this.sendClick(targetElement, event);
+      }
+    }
+    这里可以看到，FastClick在touchEnd的时候，在符合条件的情况下，主动触发了click事件，这样避免了浏览器默认的300毫秒等待判断。为了防止原生的click被触发，这里还通过event.preventDefault()屏蔽了原生的click事件。
+    
+    我们来看看他是怎么模拟click事件的
+    
+    FastClick.prototype.sendClick = function(targetElement, event) {
+    
+      // 这里是一些状态检查逻辑
+    
+      // 创建一个鼠标事件
+      clickEvent = document.createEvent('MouseEvents');
+      // 初始化鼠标事件为click事件
+      clickEvent.initMouseEvent(this.determineEventType(targetElement), true, true, window, 1, touch.screenX, touch.screenY, touch.clientX, touch.clientY, false, false, false, false, 0, null);
+    
+      // fastclick的内部变量，用来识别click事件是原生还是模拟
+      clickEvent.forwardedTouchEvent = true;
+    
+      // 在目标元素上触发该鼠标事件，
+      targetElement.dispatchEvent(clickEvent);
+    我们在网上搜索fastClick，大部分都在说他解决了zepto的点击穿透问题，他是怎么解决的呢？就是上面最后一句，他模拟的click事件是在touchEnd获取的真实元素上触发的，而不是通过坐标计算出来的元素。
+     
+    
+
+## [读 Zepto 源码 ](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
+
+## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
+
+## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
+
+## [margin-right右边距失效](http://link.zhihu.com/?target=http%3A//blog.cssforest.org/2017/06/21/margin-right%25E5%258F%25B3%25E8%25BE%25B9%25E8%25B7%259D%25E5%25A4%25B1%25E6%2595%2588.html)
+
+## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+
+## [前端精读周刊](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly)
+
+## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
+
+## [https://github.com/microzz](http://link.zhihu.com/?target=https%3A//github.com/microzz)
+
+## [https://lenshen.com/](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
+
+## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
+
+## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
+
+## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
+
+## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
+
+## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
+
+## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
+
+## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
+
+## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
+
+## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
+
+## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
+
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
+
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+
+## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
+
+【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+
+## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
+
+## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
+
+## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
+
+## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
+
+## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
+
+##                                                                         React：
+
+## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
+
+## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+
+## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
+
+## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
+
+## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
+
+## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
+
+## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
+
+## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
+
+## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
+
+## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
+
+## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
+
+## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
+
+## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
+
+## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
+
+## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
+
+## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
+
+##                                                                          Vue：
+
+## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
+
+## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
+
+## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
+
+## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
+
+## [vue组件之间的通信](http://link.zhihu.com/?target=http%3A//whutzkj.space/2017/08/05/vue%25E7%25BB%2584%25E4%25BB%25B6%25E4%25B9%258B%25E9%2597%25B4%25E7%259A%2584%25E9%2580%259A%25E4%25BF%25A1%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589/)
+
+## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
+
+## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
+
+## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
+
+## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
+
+## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
+
+## [vue 填坑系列总结——scoped](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a81205f265da249600e240) 【干货】
+
+## [从Vue.js源码角度再看数据绑定](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abfa29f265da24734458c6)
+
+## [用addRoutes实现动态路由](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/01/%25E7%2594%25A8addRoutes%25E5%25AE%259E%25E7%258E%25B0%25E5%258A%25A8%25E6%2580%2581%25E8%25B7%25AF%25E7%2594%25B1/)
+
+## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
+
+## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
+
+## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
+
+## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)
+
+## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+##                                                                       Webpack
+
+## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
+
+## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
+
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+
+## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
+
+## [webpack 从入门到工程实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjEwNTQ4Mw%3D%3D%26mid%3D2651577617%26idx%3D1%26sn%3D5d74f835ccb4e8070c2a03a215ee199e%26chksm%3D8cd9c3f5bbae4ae3fbca8d88c7b5844a3bc7b5b8e2277200932074c26765ac04f4dfbc37637c%23rd)
+
+## [Webpack你的包](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/webpack-your-bags-921.html)
+
+## [67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)[BFC和 websocket](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/fc4c2d8a0018)
+
+## [10分钟学会ES7+ES8](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/xEBmqnGQbOij8iUd0H4pgA) ，[精读AsyncAwait](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly/blob/master/4.%25E7%25B2%25BE%25E8%25AF%25BBAsyncAwait%25E4%25BC%2598%25E8%25B6%258A%25E4%25B9%258B%25E5%25A4%2584.md)
+
+## [25个最基本的JavaScript面试问题及答案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/sinat_17775997/article/details/77865314)
+
+## [javascript 之模块化篇](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000011063732)
+
+## [vue2实践，填坑筆記（持续更新）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008688050)  【***】
+
+## [JavaScript数组所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/04/28/array/%23reduce) 【干货】
+
+## [JavaScript字符串所有API全解密](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/01/12/js.String/)  【干货】
+
+## [数组扁平化、去重、排序，又搞定了一道校招题](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d8fcd04864bb)
+
+## [数组的32场演唱会](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/TYZdloWYMCOOYAysV5o6ww)
+
+## [详解JS之Arguments对象](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2015/12/15/arguments/)
+
+## [JS中可能用得到的全部的排序算法](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/12/23/sort/)
+
+## [js 深拷贝 vs 浅拷贝](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ac1c4ef265da248e75892b)  【扫盲】
+
+## [你做的拷贝是真的深拷贝吗](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Yo36j5QCIMjz0g2vAomsig)
+
+## [Vue.js 2.0 快速上手精华梳理  ，Vue教程](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa1248518825392656a86a) 【扫盲】
+
+## [https://www.w3ctech.com/](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/)  【干货】
+
+## [等比例缩放的盒子](http://link.zhihu.com/?target=https%3A//www.w3ctech.com/topic/1483) 【干货】       
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)  【扫盲】
+
+## [css中如何做到容器按比例缩放](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/blob/master/fe/css%25E4%25B8%25AD%25E5%25A6%2582%25E4%25BD%2595%25E5%2581%259A%25E5%2588%25B0%25E5%25AE%25B9%25E5%2599%25A8%25E6%258C%2589%25E6%25AF%2594%25E4%25BE%258B%25E7%25BC%25A9%25E6%2594%25BE/README.md)
+
+## [http://www.javascript.fun/](http://link.zhihu.com/?target=http%3A//www.javascript.fun/)  *
+
+## [http://dunizb.com/](http://link.zhihu.com/?target=http%3A//dunizb.com/) *
+
+## [Grid布局学习](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/29/20170829-grid-layout/)  【干货】
+
+## [js实现手机横竖屏事件](http://link.zhihu.com/?target=https%3A//github.com/zuopf769/notebook/tree/master/fe/js%25E5%25AE%259E%25E7%258E%25B0%25E6%2589%258B%25E6%259C%25BA%25E6%25A8%25AA%25E7%25AB%2596%25E5%25B1%258F%25E4%25BA%258B%25E4%25BB%25B6)
+
+## [前端工程师都有用哪些比较靠谱的小工具？](https://www.zhihu.com/question/20241338/answer/169621428)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [CreateJS中文网](http://link.zhihu.com/?target=http%3A//www.createjs.cc/)  *
+
+## [Hover Buttons](http://link.zhihu.com/?target=https%3A//github.com/Varin6/Hover-Buttons) *
+
+## [javaScript的数据结构与算法](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues) 【干货】
+
+## [Alloy周刊](http://link.zhihu.com/?target=http%3A//www.alloyteam.com/alloyshare/weekly/p/20)
+
+## [CSS 动画技巧与细节](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/)  【干货】
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4) 【扫盲】
+
+## [前端每周清单](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/FE-Weekly)
+
+## [教你从零开始搭建一款前端脚手架工具](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000006190814)
+
+## [feather - 一个开源的SVG图标库](http://link.zhihu.com/?target=https%3A//github.com/colebemis/feather)
+
+## [如何使用GitHub Pages在线加载静态网页](http://link.zhihu.com/?target=http%3A//barryliu1995.studio/2017/08/28/%25E5%25A6%2582%25E4%25BD%2595%25E4%25BD%25BF%25E7%2594%25A8GitHub-Pages%25E5%259C%25A8%25E7%25BA%25BF%25E5%258A%25A0%25E8%25BD%25BD%25E9%259D%2599%25E6%2580%2581%25E7%25BD%2591%25E9%25A1%25B5/)
+
+## [读Zepto源码](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [用纯CSS实现跳跳球动画](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html%3Ft%3Dnew)
+
+## [Vue 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb)
+
+## [编码过程中，我的常用网站工具](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8b53f6fb9a02480710150)
+
+## [前端实用的在线工具推荐系列](http://link.zhihu.com/?target=http%3A//www.jackpu.com/qian-duan-shi-yong-de-zai-xian-gong-ju-tui-jian/)
+
+## [meta 标签大全](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8052)
+
+## [通过JS判断网络状态调研及实例demo说明](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/310dd7dd0255)
+
+##                                                                   面试
+
+## [lensh](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [路易斯](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/)
+
+## [玩转prototype](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ad186af265da24903528a0)
+
+## [前端性能优化之 DOM 篇](http://link.zhihu.com/?target=http%3A//fsux.me/%25E9%259A%258F%25E7%25AC%2594/%25E6%259E%25B6%25E6%259E%2584/%25E6%25B5%2585%25E8%25B0%2588%25E5%2589%258D%25E7%25AB%25AF/2017/04/13/Front-end-performance-optimization-dom.html) 【5星级】
+
+## [JS 的正则表达式](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b5e50f51882519777c4815)
+
+## [CSS 伪类选择器](http://link.zhihu.com/?target=https%3A//github.com/ccforward/cc/issues/68)
+
+## [vh,vw单位你知道多少？](http://link.zhihu.com/?target=https%3A//hopkinson.github.io/2017/06/30/vh%2Cvw%25E5%258D%2595%25E4%25BD%258D%25E4%25BD%25A0%25E7%259F%25A5%25E9%2581%2593%25E5%25A4%259A%25E5%25B0%2591%25EF%25BC%259F/) 【扫盲】
+
+## [Event Loop](http://link.zhihu.com/?target=http%3A//blog.kaolafed.com/2017/04/21/JavaScript%25E5%25B9%25B6%25E5%258F%2591%25E6%25A8%25A1%25E5%259E%258B%25E4%25B8%258EEvent%2520Loop/)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [CSS技巧：逐帧动画抖动解决方案](http://link.zhihu.com/?target=https%3A//aotu.io/notes/2017/08/14/fix-sprite-anim/index.html)
+
+## [理解构造函数与原型对象](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
+
+## [设计模式系列课程-委托模式实战微博发布功能](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7471471.html)
+
+## [Javascript 黑科技](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html%3Ft%3Dnew) 【4星级】
+
+## [【整理】CSS布局方案](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010989110)
+
+## [getElementsByClassName与classList兼容性问题与解决方案](http://link.zhihu.com/?target=http%3A//blog.csdn.net/wmaoshu/article/details/52131741)
+
+## [Ajax知识体系大梳理](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/ajax/%23getResponseHeader)
+
+## [Fetch进阶指南](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2016/11/02/fetch/%23%25E5%25A6%2582%25E4%25BD%2595%25E8%25AF%2595%25E8%25BF%2590%25E8%25A1%258Casync-await)
+
+## [Promise使用手册](http://link.zhihu.com/?target=http%3A//louiszhai.github.io/2017/03/12/promise/)
+
+## [你不知道的CSS](http://link.zhihu.com/?target=https%3A//smohan.net/blog/6gr77h) 【干货】
+
+## [CSS实现长宽比的几种方案](http://link.zhihu.com/?target=https%3A//www.w3cplus.com/css/aspect-ratio.html)
+
+## [高性能滚动 scroll 及页面渲染优化 ，函数节流](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/coco1s/p/5499469.html) 【干货】
+
+## [JS面试高级技巧](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab7b36f265da24934b2470)  【干货】
+
+## [你不知道的JS](http://link.zhihu.com/?target=https%3A//juejin.im/post/59ab85d0518825243d1f2329)  【扫盲】
+
+## [你不知道的CSS（二）](http://link.zhihu.com/?target=https%3A//smohan.net/blog/farjdx)
+
+## [浮动两端对齐](http://link.zhihu.com/?target=http%3A//www.ddcat.net/web/css/float-justify/float-justify.html) 【扫盲】
+
+## [面试必备之JS继承方式总结](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0MDIwNTQ1Mg%3D%3D%26mid%3D2676491918%26idx%3D1%26sn%3D2a30b02356595e974537c78b2a82f8eb%26chksm%3Df362cd6dc415447b96cd97db4857b40146ee1b8ba1191ecffdb30644152c6386373a2b5717c1%23rd)  【干货】
+
+## [整理下《前端江湖面试》对自己有益的题目。](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010868439)
+
+## [阿里校招前端面经](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/27/alibaba-interview/) 【干货】
+
+## [重新认识JS的this](http://link.zhihu.com/?target=https%3A//juejin.im/post/59aa71d56fb9a0248d24fae3)
+
+## [H5拖放和WebWorker](http://link.zhihu.com/?target=https%3A//lenshen.com/2015/10/17/h5-drag-webworker/) 【扫盲】
+
+## [史上前端面试最全知识点（附答案）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010869619) 【干货】
+
+## [JSONP原理及简单实现](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/30/jsonp-principle-and-simple-implementation/) 【扫盲】
+
+## [移动端Click点击300毫秒延迟及其解决办法](http://link.zhihu.com/?target=https%3A//lenshen.com/2016/09/28/webapp-event/)
+
+## [zepto的tap点透问题](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6388106194552044344)
+
+## [JS开发中的一些小技巧和方法](http://link.zhihu.com/?target=https%3A//mrsunny123.github.io/2016/09/19/JS-Tips/)
+
+## [周末读fastclick.js源码有感](http://link.zhihu.com/?target=https%3A//www.talkingcoder.com/article/6391406262738698559) 在touchend合成一个事件立即触发解决300ms问题
+
+    fastclick是将事件绑定到你传的元素（一般是document.body）
+    ② 在touchstart和touchend后（会手动获取当前点击el），如果是类click事件便手动触发了dom元素的click事件
+    所以click事件在touchend便被触发，整个响应速度就起来了，触发实际与zepto tap一样
+    既然浏览器有这300ms的延迟，那么我们来代替浏览器判断，手动触发click事件，这也是fastClick的解决方案。
+    
+    // 自定义事件
+    var eve = new Event('自定义事件名');
+    el.addEventListener('自定义事件名', function(){
+        console.log('自定义事件')
+    });
+    el.dispatchEvent(eve);
+    //
+    
+    fastClick的核心代码
+    
+    FastClick.prototype.onTouchEnd = function(event){
+    
+      // 一些状态监测代码 
+    
+      // 从这里开始，
+      if (!this.needsClick(targetElement)) {
+        // 如果这不是一个需要使用原生click的元素，则屏蔽原生事件，避免触发两次click
+        event.preventDefault(); 
+        // 触发一次模拟的click
+        this.sendClick(targetElement, event);
+      }
+    }
+    这里可以看到，FastClick在touchEnd的时候，在符合条件的情况下，主动触发了click事件，这样避免了浏览器默认的300毫秒等待判断。为了防止原生的click被触发，这里还通过event.preventDefault()屏蔽了原生的click事件。
+    
+    我们来看看他是怎么模拟click事件的
+    
+    FastClick.prototype.sendClick = function(targetElement, event) {
+    
+      // 这里是一些状态检查逻辑
+    
+      // 创建一个鼠标事件
+      clickEvent = document.createEvent('MouseEvents');
+      // 初始化鼠标事件为click事件
+      clickEvent.initMouseEvent(this.determineEventType(targetElement), true, true, window, 1, touch.screenX, touch.screenY, touch.clientX, touch.clientY, false, false, false, false, 0, null);
+    
+      // fastclick的内部变量，用来识别click事件是原生还是模拟
+      clickEvent.forwardedTouchEvent = true;
+    
+      // 在目标元素上触发该鼠标事件，
+      targetElement.dispatchEvent(clickEvent);
+    我们在网上搜索fastClick，大部分都在说他解决了zepto的点击穿透问题，他是怎么解决的呢？就是上面最后一句，他模拟的click事件是在touchEnd获取的真实元素上触发的，而不是通过坐标计算出来的元素。
+     
+    
+
+## [读 Zepto 源码 ](http://link.zhihu.com/?target=https%3A//juejin.im/user/57ccd20f7db2a200789c33d5)
+
+## [你可能不知道的 border-radius](http://link.zhihu.com/?target=http%3A//www.vince.studio/2017/08/30/%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%258D%25E7%259F%25A5%25E9%2581%2593%25E7%259A%2584-border-radius/)
+
+## [VS Code 折腾记](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a61edc5188252428611c6a)
+
+## [浏览器兼容性问题解决方案 · 总结](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3f2fe6fb9a0249471cbb4)
+
+## [页面卡顿？操作慢？](http://link.zhihu.com/?target=https%3A//github.com/wengjq/Blog/issues/15)
+
+## [margin-right右边距失效](http://link.zhihu.com/?target=http%3A//blog.cssforest.org/2017/06/21/margin-right%25E5%258F%25B3%25E8%25BE%25B9%25E8%25B7%259D%25E5%25A4%25B1%25E6%2595%2588.html)
+
+## [JavaScript 专题之函数记忆](http://link.zhihu.com/?target=https%3A//juejin.im/post/59af56a96fb9a0248f4aadb8)
+
+## [前端精读周刊](http://link.zhihu.com/?target=https%3A//github.com/dt-fe/weekly)
+
+## [封装一个简易的异步队列](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/ghostwu/p/7496370.html)
+
+## [https://github.com/microzz](http://link.zhihu.com/?target=https%3A//github.com/microzz)
+
+## [https://lenshen.com/](http://link.zhihu.com/?target=https%3A//lenshen.com/)
+
+## [https://microzz.com/](http://link.zhihu.com/?target=https%3A//microzz.com/)
+
+## [谦龙](http://link.zhihu.com/?target=https%3A//juejin.im/user/568f480700b09aa221669d4d)
+
+## [(void 0) 与 undefined 之间的小九九](http://link.zhihu.com/?target=https%3A//juejin.im/post/591153ceac502e450281e22f)
+
+## [MVVM —— 如何进行 DOM 的操作](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a365f8f265da247e7dad80)
+
+## [给axios做个挺靠谱的封装](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a22e71518825242c422604)
+
+## [这些Zepto中实用的方法集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a182195188252433707ae3) 【干货】
+
+## [10个有趣的Javascript和CSS库](http://link.zhihu.com/?target=https%3A//www.helloweba.com/view-blog-436.html%3Futm_source%3Dtuicool%26utm_medium%3Dreferral) 【干货】
+
+## [改写你的checkout input默认样式](http://link.zhihu.com/?target=https%3A//juejin.im/post/591873170ce4630069f3013d) 【干货】
+
+## [HTML/CSS/JS编码规范](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ececb5188252423583c27) 【扫盲】
+
+## [写一个挺靠谱的Vue组件](http://link.zhihu.com/?target=https%3A//juejin.im/user/575ebdbd5bbb5000638173fb) 【扫盲】
+
+## [99%的人都理解错了HTTP中GET与POST的区别](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzIzMzg3Mw%253D%253D%26mid%3D100000054%26idx%3D1%26sn%3D71f6c214f3833d9ca20b9f7dcd9d33e4)
+
+## [网易前端面经](http://link.zhihu.com/?target=http%3A//yrq110.me/2017/08/22/20170822-netease-intership/) 【干货】
+
+## [JavaScript异步编程面试题](http://link.zhihu.com/?target=https%3A//juejin.im/post/599ff3d5f265da24843e6276) 【干货】
+
+## [巧用margin/padding的百分比值实现高度自适应（多用于占位，避免闪烁）](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000004231995) 【干货】
+
+【当margin/padding取形式为百分比的值时，无论是left/right，还是top/bottom，都是以父元素的width为参照物的！】
+
+## [阿里校招前端笔试题](http://link.zhihu.com/?target=https%3A//lenshen.com/2017/08/25/alibaba/)
+
+## [koa2进阶学习笔记](http://link.zhihu.com/?target=https%3A//github.com/lensh/koa2-note)
+
+## [Node.js 包教不包会](http://link.zhihu.com/?target=https%3A//github.com/lensh/node-lessons)
+
+## [纯前端实现人脸识别-提取-合成](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/06/%25E7%25BA%25AF%25E5%2589%258D%25E7%25AB%25AF%25E5%25AE%259E%25E7%258E%25B0%25E4%25BA%25BA%25E8%2584%25B8%25E8%25AF%2586%25E5%2588%25AB-%25E6%258F%2590%25E5%258F%2596-%25E5%2590%2588%25E6%2588%2590/)
+
+## [从零开始教你写一个NPM包](https://zhuanlan.zhihu.com/p/29204311)
+
+##                                                                         React：
+
+## [React 高阶组件浅析](http://link.zhihu.com/?target=http%3A//blog.hypers.io/2017/08/24/react-hoc-simple-analysis/)
+
+## [React高阶组件实践](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b36b416fb9a00a636a207e)
+
+## [从 setState promise 化的探讨](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a699fd6fb9a0247d4f5970)
+
+## [npm 入门教程](http://link.zhihu.com/?target=http%3A//www.qianduandaxue.com/index.php/index/index/show/catid/16/id/104.html)
+
+## [Nestjs 文档](https://zhuanlan.zhihu.com/p/28621374)
+
+## [Boss-UI](http://link.zhihu.com/?target=http%3A//www.wetalks.cn/boss-ui-doc/%23/info/index) 【干货】
+
+## [从零开始使用vue搭建带有SSR服务端渲染的前后台项目weeklyPlus](http://link.zhihu.com/?target=http%3A//wuyanwen.cc/2017/08/30/weeklyPlus.html)
+
+## [React组件类型](http://link.zhihu.com/?target=https%3A//yubolun.com/react-learn-2-2/)
+
+## [[React技术内幕] key带来了什么](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abb01c518825243f1b6dad)  【干货】
+
+## [React技术内幕](http://link.zhihu.com/?target=https%3A//juejin.im/user/576e377bd342d30057c2e265)  【干货】
+
+## [无状态组件你真的知道](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/980abadd8a18)
+
+## [Redux store 的动态注入](http://link.zhihu.com/?target=https%3A//qiutc.me/post/react-redux-dynamic-injection.html)
+
+## [理解 React-redux connect](http://link.zhihu.com/?target=http%3A//varnull.cn/react-redux-connect-explain/)
+
+## [React、Redux与复杂业务组件的复用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b4eb216fb9a00a616f07a3)
+
+## [koa源码--基础篇](http://link.zhihu.com/?target=https%3A//github.com/carolineLH/vue_eleme/blob/master/README.md)
+
+## [Redux中间件对闭包的一个巧妙使用](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b69aed5188257e81537275)
+
+## [总结个人使用过的移动端布局方法](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000010211016)
+
+##                                                                          Vue：
+
+## [AT-UI](http://link.zhihu.com/?target=https%3A//at.aotu.io/%23/zh)  【干货】
+
+## [Vue 进阶教程之：非父子组件通信方法（非Vuex）](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/d3036001f6d3)
+
+## [JavaScript Event Loop 机制详解与Vue.js 中 nextTick ](http://link.zhihu.com/?target=https%3A//juejin.im/post/59afc6adf265da2485360168)  【干货】
+
+## [从event loop看vue的nextTick](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b499e86fb9a00a4e677825)  【干货】
+
+## [Vuejs渡劫系列一：日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+## [HTML5新特性之Mutation Observer，监听DOM变化](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/jscode/p/3600060.html)
+
+## [剖析vue实现原理，自己动手实现mvvm](http://link.zhihu.com/?target=https%3A//github.com/lensh/mvvm)
+
+## [vue组件之间的通信](http://link.zhihu.com/?target=http%3A//whutzkj.space/2017/08/05/vue%25E7%25BB%2584%25E4%25BB%25B6%25E4%25B9%258B%25E9%2597%25B4%25E7%259A%2584%25E9%2580%259A%25E4%25BF%25A1%25EF%25BC%2588%25E4%25B8%2580%25EF%25BC%2589/)
+
+## [Vue.js数据绑定原理](http://link.zhihu.com/?target=https%3A//juejin.im/post/599aac10f265da24874cffef)
+
+## [Vue.js 依赖收集](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a3771e6fb9a0248b4097ae)
+
+## [Vue2.4组件间通信新姿势](http://link.zhihu.com/?target=http%3A//shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/) 【干货】
+
+## [重复造轮子：从0开始实现Vue数据绑定](http://link.zhihu.com/?target=http%3A//shellming.com/2017/08/02/vue-data-binding/)
+
+## [MVVM 开发总结 —— Vue 组件](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a4bc7c518825244c0cfc10)
+
+## [vue 填坑系列总结——scoped](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a81205f265da249600e240) 【干货】
+
+## [从Vue.js源码角度再看数据绑定](http://link.zhihu.com/?target=https%3A//juejin.im/post/59abfa29f265da24734458c6)
+
+## [用addRoutes实现动态路由](http://link.zhihu.com/?target=http%3A//refined-x.com/2017/09/01/%25E7%2594%25A8addRoutes%25E5%25AE%259E%25E7%258E%25B0%25E5%258A%25A8%25E6%2580%2581%25E8%25B7%25AF%25E7%2594%25B1/)
+
+## [浅谈axios](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/065294e2711c)
+
+## [axios 中文文档 翻译](http://link.zhihu.com/?target=https%3A//segmentfault.com/a/1190000008470355)
+
+## [处理 Vue 单页面 Meta SEO的另一种思路](https://zhuanlan.zhihu.com/p/29148760)
+
+## [说说VNode节点(Vue.js实现)](http://link.zhihu.com/?target=https%3A//juejin.im/post/59b53a595188257e7406fe3d)
+
+## [日常开发中必须掌握的细节](http://link.zhihu.com/?target=http%3A//moweide.com/2017/09/02/vue_started/)
+
+##                                                                       Webpack
+
+## [数据模拟神器 easy-mock 正式开源](http://link.zhihu.com/?target=https%3A//juejin.im/post/59a8f15ef265da246c4a3822)
+
+## [加载优化](http://link.zhihu.com/?target=http%3A//www.javascript.fun/article/)
+
+## [RxJS 数据板，将数据当作水流一样，集中管理和监视数据流， 监控每一次数据流动。](http://link.zhihu.com/?target=https%3A//github.com/libin1991/rx-hub)
+
+## [npm scripts : 每个前端开发都应知道的一些使用提示](http://link.zhihu.com/?target=http%3A//www.css88.com/archives/8029)
+
+## [基于React/Mobx/React-Router v4/Webpack v3的脚手架。](http://link.zhihu.com/?target=https%3A//github.com/YutHelloWorld/vortex-react/tree/mobx)
+
+## [快一点, 再快一点](http://link.zhihu.com/?target=http%3A//limn.me/2018/%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9%25EF%25BC%258C%25E5%2586%258D%25E5%25BF%25AB%25E4%25B8%2580%25E7%2582%25B9/)
+
+## [webpack 从入门到工程实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjEwNTQ4Mw%3D%3D%26mid%3D2651577617%26idx%3D1%26sn%3D5d74f835ccb4e8070c2a03a215ee199e%26chksm%3D8cd9c3f5bbae4ae3fbca8d88c7b5844a3bc7b5b8e2277200932074c26765ac04f4dfbc37637c%23rd)
+
+## [Webpack你的包](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/webpack-your-bags-921.html)
+
+## [67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)
+
+## [jQuery源码学习总结](http://link.zhihu.com/?target=https%3A//github.com/ttian226/learn_jquery)
