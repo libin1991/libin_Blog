@@ -1,5 +1,6 @@
 web前端学习资源分享
 转载自：
+# [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 [个人分享--web前端学习资源分享 - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c1956f265da430a501f51%23comment)
 
 [小技巧|移动端网页调试神器Eruda使用技巧](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/10/16/erdua/)
