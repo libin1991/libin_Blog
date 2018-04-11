@@ -2,6 +2,7 @@ web前端学习资源分享
 转载自：
 # [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 # [Vue.js源码剖析 https://github.com/answershuto/learnVue](https://github.com/answershuto/learnVue)
+### [JavaScript数组所有API全解密](https://www.w3cplus.com/javascript/javascript-array-api.html)
 [个人分享--web前端学习资源分享 - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5a0c1956f265da430a501f51%23comment)
 
 [小技巧|移动端网页调试神器Eruda使用技巧](https://link.zhihu.com/?target=https%3A//blog.dunizb.com/2017/10/16/erdua/)
