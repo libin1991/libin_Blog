@@ -3,3 +3,4 @@
 ### [从Vue.js源码看nextTick机制](https://github.com/libin1991/libin_Blog/issues/100)
 ### [浏览器和Node不同的事件循环（Event Loop)](https://github.com/libin1991/libin_Blog/issues/378)
 ### [Vue源码详解之nextTick：MutationObserver只是浮云，microtask才是核心！](https://segmentfault.com/a/1190000008589736)
+### [Promise 必知必会（十道题）](https://github.com/libin1991/libin_Blog/issues/179)
