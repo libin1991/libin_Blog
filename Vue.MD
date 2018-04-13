@@ -5,3 +5,4 @@
 ### [Vue源码详解之nextTick：MutationObserver只是浮云，microtask才是核心！](https://segmentfault.com/a/1190000008589736)
 ### [Promise 必知必会（十道题）](https://github.com/libin1991/libin_Blog/issues/179)
 ### [全面解析Vue.nextTick实现原理](https://mp.weixin.qq.com/s/mCcW4OYj3p3471ghMBylBw)
+### [Vue.js 源码解析响应式原理](https://github.com/libin1991/libin_Blog/issues/535)
