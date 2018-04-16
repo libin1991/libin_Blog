@@ -8,3 +8,4 @@
 ### [Vue.js 源码解析响应式原理](https://github.com/libin1991/libin_Blog/issues/535)
 ### [Vuex源码阅读分析](https://github.com/libin1991/libin_Blog/issues/537)
 ### [Vue render深入窥探之谜](https://juejin.im/post/5aceb4b0518825556534e0f6)
+### [Vue.js最佳实践（五招让你成为Vue.js大师）](https://mp.weixin.qq.com/s/cVYtYWOB2mie-bjZmSw9AQ)
