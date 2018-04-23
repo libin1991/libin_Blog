@@ -5,3 +5,4 @@
 ### [React 深入系列３：Props 和 State](https://juejin.im/post/5ad458c7f265da239c7bd37c)
 ### [浅入浅出图解domDIff](https://juejin.im/post/5ad550f06fb9a028b4118d99)
 ### [Redux：全揭秘](https://juejin.im/post/5ad6880c6fb9a028cc61bddb)
+### [Redux 进阶 --- 编写和使用中间件](https://juejin.im/post/5add5821518825671f2f5f24)
