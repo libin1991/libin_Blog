@@ -1,4 +1,5 @@
 ### [Vue还有这种骚操作？浅析几个新手常常忽略的API](https://juejin.im/post/5adc99f56fb9a07abd0d3ee7)
+### [用Vue写一个分页器](https://juejin.im/post/5ad8898f5188256735640c66)
 ### [基于vue-simplemde实现图片拖拽、粘贴功能的一些思考](https://juejin.im/post/5acdcc6f51882548fe4a7b60)
 ### [Vue.js 源码解析系列文章](https://github.com/wendzhue/blog/projects/1)
 ### [Vue面试题](https://juejin.im/post/5ad56d86518825556534ff4b)
