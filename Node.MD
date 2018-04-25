@@ -4,3 +4,4 @@
 ### [node ( 5 ) -----process详解（这个标题不讨喜……）](https://juejin.im/post/5ad4d5066fb9a028e25e0a8a)
 ### [Koa：核心探秘与入坑指北](https://juejin.im/post/5ad466d25188253edd4d898a)
 ### [node实现登录图片验证码](https://juejin.im/post/5ad82856f265da50463e3ae7)
+### [node打造微信个人号机器人](https://juejin.im/post/5ae00f966fb9a07aaf34dfcd)
