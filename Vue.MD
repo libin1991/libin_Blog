@@ -1,6 +1,6 @@
 ### [Vue还有这种骚操作？浅析几个新手常常忽略的API](https://juejin.im/post/5adc99f56fb9a07abd0d3ee7)
 ### [Vue 使用中的小技巧](https://juejin.im/post/5ae02f39518825672f198ac2)
-### [vue技术分享-你可能不知道的7个秘密](http://www.haorooms.com/post/vue_7secret)
+### [vue技术分享-你可能不知道的7个秘密 https://github.com/libin1991/libin_Blog/issues/548](http://www.haorooms.com/post/vue_7secret)
 ### [分析Vue源码](https://github.com/libin1991/blogs)
 ### [手拉手带你过一遍vue部分源码](https://juejin.im/post/5adff30f518825672d33d596)
 ### [用Vue写一个分页器](https://juejin.im/post/5ad8898f5188256735640c66)
