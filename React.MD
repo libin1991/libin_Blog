@@ -9,3 +9,4 @@
 ### [Redux：全揭秘](https://juejin.im/post/5ad6880c6fb9a028cc61bddb)
 ### [Redux 进阶 --- 编写和使用中间件](https://juejin.im/post/5add5821518825671f2f5f24)
 ### [探索 Redux4.0 版本迭代](https://juejin.im/post/5adf1663f265da0ba4696f72)
+### [Redux 高级 -- 源码分析](https://juejin.im/post/5ae000c9518825671d2039d9)
