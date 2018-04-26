@@ -1,5 +1,6 @@
 ## [浅谈微信小程序登陆与Oauth,OAuth 2.0](https://juejin.im/post/5adf3a07f265da0ba567322d)
 转载自：
+![5bf1afb1-6eb7-45f1-a3e7-8e7f515601fe](https://user-images.githubusercontent.com/16753554/39294375-2b25ebe0-496e-11e8-9637-deb503535dfd.png)
 # [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
 # [Vue.js源码剖析 https://github.com/answershuto/learnVue](https://github.com/answershuto/learnVue)
 ### [JavaScript数组所有API全解密](https://www.w3cplus.com/javascript/javascript-array-api.html)
