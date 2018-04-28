@@ -15,6 +15,7 @@
 ### [Vue SSR Demo](https://github.com/youngwind/blog/issues/112)
 ### [改造vue-cli,使用mockjs搭建mock server](https://juejin.im/post/5acdb5345188255c5668caa5)
 ### [从Vue.js源码看nextTick机制](https://github.com/libin1991/libin_Blog/issues/100)
+### [Vue nextTick 机制](https://juejin.im/post/5ae3f0956fb9a07ac90cf43e)
 ### [浏览器和Node不同的事件循环（Event Loop)](https://github.com/libin1991/libin_Blog/issues/378)
 ### [Vue源码详解之nextTick：MutationObserver只是浮云，microtask才是核心！](https://segmentfault.com/a/1190000008589736)
 ### [Promise 必知必会（十道题）](https://github.com/libin1991/libin_Blog/issues/179)
