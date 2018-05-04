@@ -5,6 +5,7 @@
 ### [vue技术分享-你可能不知道的7个秘密 https://github.com/libin1991/libin_Blog/issues/548](http://www.haorooms.com/post/vue_7secret)
 ### [分析Vue源码](https://github.com/libin1991/blogs)
 ### [手拉手带你过一遍vue部分源码](https://juejin.im/post/5adff30f518825672d33d596)
+### [Vue二次封装axios为插件使用](https://juejin.im/post/5ae432aaf265da0b9c1063c8)
 ### [用Vue写一个分页器](https://juejin.im/post/5ad8898f5188256735640c66)
 ### [实现VUE 中 MVVM](http://blog.acohome.cn/2018/04/11/vue-defineproperty/)
 ### [基于vue-simplemde实现图片拖拽、粘贴功能的一些思考](https://juejin.im/post/5acdcc6f51882548fe4a7b60)
