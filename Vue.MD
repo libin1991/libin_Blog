@@ -28,3 +28,4 @@
 ### [从零开始搭建前端脚手架](https://github.com/iq9891/blog/issues/2)
 ### [谈谈Vue数据双向绑定原理，看看你的回答能打几分](https://juejin.im/post/5ae0260a518825671775f9a4#comment)
 ### [一起来为 Vue.js 写 Date/Time Picker 组件](https://github.com/wendzhue/blog/issues/9)
+### [vue+canvas如何实现b站萌系登录界面](https://juejin.im/post/5ae802a46fb9a07ac55fec04#comment)
