@@ -1,5 +1,6 @@
 ### [最好的虚拟滚动，虚拟卷帘的轮子](https://github.com/libin1991/libin_Blog/issues/550)
 ### [Vue还有这种骚操作？浅析几个新手常常忽略的API](https://juejin.im/post/5adc99f56fb9a07abd0d3ee7)
+### [Vue.js中 watch 的高级用法](https://juejin.im/post/5ae91fa76fb9a07aa7677543)
 ### [Vue 使用中的小技巧](https://juejin.im/post/5ae02f39518825672f198ac2)
 ### [vue技术分享-你可能不知道的7个秘密 https://github.com/libin1991/libin_Blog/issues/548](http://www.haorooms.com/post/vue_7secret)
 ### [分析Vue源码](https://github.com/libin1991/blogs)
