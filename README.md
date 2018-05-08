@@ -1,4 +1,5 @@
 ## [浅谈微信小程序登陆与Oauth,OAuth 2.0](https://juejin.im/post/5adf3a07f265da0ba567322d)
+## [前端资源大全](https://github.com/iq9891/awesome-frontend)
 转载自：
 ![5bf1afb1-6eb7-45f1-a3e7-8e7f515601fe](https://user-images.githubusercontent.com/16753554/39294375-2b25ebe0-496e-11e8-9637-deb503535dfd.png)
 # [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
