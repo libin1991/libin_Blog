@@ -6,3 +6,4 @@
 ### [58行代码实现3D相册](https://juejin.im/post/5aeafb0f6fb9a07ac76ea983)
 ### [纯css改变输入框光标颜色](https://juejin.im/post/5ae92f20f265da0b873a4ced)
 ### [CSS实现多重边框的5种方式](https://juejin.im/post/5aec7e2351882567147d40ff)
+### [SVG 小技巧：CSS filter:drop-shadow 妙用](http://svgtrick.com/tricks/187be02e6bac2a1130ff57be84427dde)
