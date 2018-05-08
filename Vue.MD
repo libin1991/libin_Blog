@@ -32,3 +32,4 @@
 ### [一起来为 Vue.js 写 Date/Time Picker 组件](https://github.com/wendzhue/blog/issues/9)
 ### [vue+canvas如何实现b站萌系登录界面](https://juejin.im/post/5ae802a46fb9a07ac55fec04#comment)
 ### [详解Vue路由钩子及应用场景](https://m.jb51.net/article/127678.htm)
+### [Vue源码简析(版本vue-2.4.4)](https://juejin.im/post/5ab07a63f265da2389258b12#heading-2)
