@@ -1,3 +1,4 @@
+##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
 ### [最好的虚拟滚动，虚拟卷帘的轮子](https://github.com/libin1991/libin_Blog/issues/550)
 ### [Vue还有这种骚操作？浅析几个新手常常忽略的API](https://juejin.im/post/5adc99f56fb9a07abd0d3ee7)
 ### [Vue.js中 watch 的高级用法](https://juejin.im/post/5ae91fa76fb9a07aa7677543)
