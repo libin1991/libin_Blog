@@ -5,3 +5,4 @@
 ### [Koa：核心探秘与入坑指北](https://juejin.im/post/5ad466d25188253edd4d898a)
 ### [node实现登录图片验证码](https://juejin.im/post/5ad82856f265da50463e3ae7)
 ### [node打造微信个人号机器人](https://juejin.im/post/5ae00f966fb9a07aaf34dfcd)
+### [node.js 命令行工具(cli)](https://juejin.im/post/5af2a2cbf265da0b9c109f59)
