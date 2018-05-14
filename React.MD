@@ -14,3 +14,4 @@
 ### [Redux 高级 -- 源码分析](https://juejin.im/post/5ae000c9518825671d2039d9)
 ### [前面有一个Redux，我们去撩(聊)一下它。](https://juejin.im/post/5adf0b4df265da0b8070620a)
 ### [React 深入系列3：Props 和 State](https://juejin.im/post/5ae2b4b1f265da0b9e64c9d3)
+### [浅析Redux源码](https://juejin.im/post/5af8eef9f265da0ba2671760)
