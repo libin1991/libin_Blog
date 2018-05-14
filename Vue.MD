@@ -40,3 +40,4 @@
 ### [从零开始徒手撸一个vue的toast弹窗组件](https://juejin.im/post/5af55f906fb9a07aae153c1c)
 ### [看完这篇关于MVVM的文章，面试通过率提升了80%](https://juejin.im/post/5af8eb55f265da0b814ba766)
 ### [为Vue-Cli添砖加瓦](https://juejin.im/post/5af6f00e51882542c832d3cd)
+### [从开发到发布一款基于Vue2x的图片预览插件](https://juejin.im/post/5af820cdf265da0b7964f968)
