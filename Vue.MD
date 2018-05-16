@@ -1,4 +1,5 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+### [vue-cli#4.7项目结构分析](https://bailinlin.github.io/2018/05/07/vue-cli-webpack/)
 ### [深入理解Vue的watch实现原理及其实现方式](https://juejin.im/post/5af908ea5188254265399009)
 ### [彻底搞懂Vue针对数组和双向绑定(MVVM)的处理方式](https://juejin.im/post/5af665186fb9a07aa83ecde0)
 ### [最好的虚拟滚动，虚拟卷帘的轮子](https://github.com/libin1991/libin_Blog/issues/550)
