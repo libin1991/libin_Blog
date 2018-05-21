@@ -44,3 +44,4 @@
 ### [为Vue-Cli添砖加瓦](https://juejin.im/post/5af6f00e51882542c832d3cd)
 ### [从开发到发布一款基于Vue2x的图片预览插件](https://juejin.im/post/5af820cdf265da0b7964f968)
 ### [Vue首页登录判断逻辑](https://github.com/libin1991/libin_Blog/issues/560)
+### [详解vue的diff算法](https://juejin.im/post/5affd01551882542c83301da)
