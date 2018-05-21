@@ -1,4 +1,6 @@
+### [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
 ### [你对CSS权重真的足够了解吗？](https://juejin.im/post/5afa98bf51882542c832e5ec)
+
 ```
 权重的五个等级及其权重:
 !important;
