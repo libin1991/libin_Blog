@@ -26,3 +26,4 @@ class,属性选择器和伪类选择器，权重:10;
 ### [SVG 小技巧：CSS filter:drop-shadow 妙用](http://svgtrick.com/tricks/187be02e6bac2a1130ff57be84427dde)
 ### [移动端常见bug汇总](https://juejin.im/post/5af918636fb9a07ac5603ecb)
 ### [一个关于fixed抖动的小bug](https://juejin.im/post/5afac17151882542714fea44)
+### [CSS 专家提示](https://juejin.im/post/5aff9631f265da0b814bcfd9)
