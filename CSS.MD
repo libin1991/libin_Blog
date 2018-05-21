@@ -1,3 +1,19 @@
+```
+权重的五个等级及其权重:
+!important;
+行内样式;
+ID选择器, 权重:100;
+
+class,属性选择器和伪类选择器，权重:10;
+  属性选择器指的是:根据元素的属性及属性值来选择元素，比如button的type属性等。
+  伪类选择器: :active :focus等选项.
+  
+标签选择器和伪元素选择器，权重:1;
+  伪元素选择器： :before :after
+  
+等级关系:
+    !important>行内样式>ID选择器 > 类选择器 | 属性选择器 | 伪类选择器 > 元素选择器
+```
 ### [学习CSS网格布局](http://topic.42du.cn/grid)
 ### [CSS网格布局（Grid）完全教程](https://www.zcfy.cc/article/learn-css-grid-a-guide-to-learning-css-grid-jonathan-suh)
 ### [你应该掌握的CSS自定义属性技术点](https://www.w3cplus.com/css/everything-you-need-to-know-about-css-variables.html)
