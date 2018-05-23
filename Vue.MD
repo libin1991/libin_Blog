@@ -1,5 +1,6 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
 ### [Vue单页及多页应用全局配置404页面实践](https://juejin.im/post/5b019ad7f265da0ba567d259)
+### [关于vue-router那些事](https://juejin.im/post/5b0281b851882542845257e7)
 ### [vue-cli#4.7项目结构分析](https://bailinlin.github.io/2018/05/07/vue-cli-webpack/)
 ### [深入理解Vue的watch实现原理及其实现方式](https://juejin.im/post/5af908ea5188254265399009)
 ### [彻底搞懂Vue针对数组和双向绑定(MVVM)的处理方式](https://juejin.im/post/5af665186fb9a07aa83ecde0)
