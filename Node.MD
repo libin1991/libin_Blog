@@ -7,3 +7,4 @@
 ### [node打造微信个人号机器人](https://juejin.im/post/5ae00f966fb9a07aaf34dfcd)
 ### [node.js 命令行工具(cli)](https://juejin.im/post/5af2a2cbf265da0b9c109f59)
 ### [Node.js执行系统命令](https://juejin.im/post/5b07eb1c5188254e28710d80)
+### [Node.js 服务端图片处理利器——sharp 进阶操作指南](https://juejin.im/post/5b0bd60e6fb9a00a1610e4be)
