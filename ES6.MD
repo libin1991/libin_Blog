@@ -3,3 +3,4 @@
 ### [你知道为什么会有 Generator 吗](https://juejin.im/post/5adae8246fb9a07aa541e150)
 ### [双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
 ### [ES6 系列之 let 和 const](https://juejin.im/post/5b0238f66fb9a07aca7a74ba#comment)
+### [ES6 系列之模板字符串](https://juejin.im/post/5b0e2e1cf265da08e12f11fd)
