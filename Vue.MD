@@ -1,4 +1,5 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+### [2018年最值得关注的30个Vue开源项目](https://blog.fundebug.com/2018/05/29/30-amazing-vuejs-open-source/)
 ### [Vue单页及多页应用全局配置404页面实践](https://juejin.im/post/5b019ad7f265da0ba567d259)
 ### [关于vue-router那些事](https://juejin.im/post/5b0281b851882542845257e7)
 ### [vue-cli#4.7项目结构分析](https://bailinlin.github.io/2018/05/07/vue-cli-webpack/)
