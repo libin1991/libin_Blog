@@ -31,3 +31,4 @@ class,属性选择器和伪类选择器，权重:10;
 ### [移动端常见bug汇总](https://juejin.im/post/5af918636fb9a07ac5603ecb)
 ### [一个关于fixed抖动的小bug](https://juejin.im/post/5afac17151882542714fea44)
 ### [CSS 专家提示](https://juejin.im/post/5aff9631f265da0b814bcfd9)
+### [进一步了解flex布局—来实现这些常见布局吧](https://juejin.im/post/5b0d6ca76fb9a009fd0e9329)
