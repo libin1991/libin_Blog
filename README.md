@@ -1,3 +1,8 @@
+### 正则表达式匹配版本
+```
+"Mozilla/5.0 (Linux; Android 6.0.1; MI NOTE LTE Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 Mobile Safari/537.36 Weibo (Xiaomi-MI NOTE LTE__weibo__8.5.3__android__android6.0.1)".match(/(__weibo__)([\d.]*)(__android|__iphone)/)[2]
+"8.5.3"
+```
 ## [浅谈微信小程序登陆与Oauth,OAuth 2.0](https://juejin.im/post/5adf3a07f265da0ba567322d)
 ```
 // 解决键盘弹出后挡表单的问题
