@@ -4,3 +4,4 @@
 ### [双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
 ### [ES6 系列之 let 和 const](https://juejin.im/post/5b0238f66fb9a07aca7a74ba#comment)
 ### [ES6 系列之模板字符串](https://juejin.im/post/5b0e2e1cf265da08e12f11fd)
+### [ES6-Generator 函数 和 async 函数](https://juejin.im/post/5b1751d551882513756f0bdc)
