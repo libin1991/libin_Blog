@@ -1,5 +1,5 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
-### [为什么Vue不能观察到数组length的变化？](https://juejin.im/post/5b18997ef265da6e443259f3)
+## [为什么Vue不能观察到数组length的变化？](https://juejin.im/post/5b18997ef265da6e443259f3)
 ### [Vue2.4组件间通信新姿势](http://shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/)
 ### [2018年最值得关注的30个Vue开源项目](https://blog.fundebug.com/2018/05/29/30-amazing-vuejs-open-source/)
 ### [Vue单页及多页应用全局配置404页面实践](https://juejin.im/post/5b019ad7f265da0ba567d259)
