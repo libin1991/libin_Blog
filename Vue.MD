@@ -54,3 +54,4 @@
 ### [详解vue的diff算法](https://juejin.im/post/5affd01551882542c83301da)
 ### [你或许不知道Vue的这些小技巧](https://juejin.im/post/5b1230c1f265da6e603933ad)
 ### [如何优雅地用 Vue 创建数据驱动的用户界面](https://juejin.im/post/5b14a9b46fb9a01e780a4323)
+### [从Vue数组响应化所引发的思考](https://juejin.im/post/5b213e956fb9a01e4f47ce69)
