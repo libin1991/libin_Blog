@@ -1,6 +1,7 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
 ## [vue-router详解](https://www.jianshu.com/p/4c5c99abb864)
 ## [为什么Vue不能观察到数组length的变化？](https://juejin.im/post/5b18997ef265da6e443259f3)
+## [从最简单的数据劫持了解vue双向绑定原理](https://juejin.im/post/5b285c576fb9a00e2f601f09)
 ### [用vue做项目的一些总结](https://juejin.im/post/5b1e2b01f265da6e494def6b)
 ### [你或许不知道Vue的这些小技巧](https://juejin.im/post/5b1230c1f265da6e603933ad)
 ### [Vue2.4组件间通信新姿势](http://shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/)
