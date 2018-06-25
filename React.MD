@@ -2,6 +2,7 @@
 ### [关于React面试题汇总](https://juejin.im/post/5b2215f76fb9a00e8f795cd1)
 ### [styled-components：让组件名副其实](https://juejin.im/post/5acdaf8a518825619d4d2034)
 ### [使用react-router v4和react-transition-group实现页面路由切换动画效果](http://www.qiqiboy.com/post/111)
+### [Redux源码分析--中间件篇](https://juejin.im/post/5b2c4b34e51d4557aa542e3e)
 ### [图解Redux中middleware的洋葱模型](https://juejin.im/post/5adec636518825670b33b7e8)
 ### [深入React高阶组件(HOC)](https://juejin.im/post/5adddc57f265da0b8635de56)
 ### [Raect高阶组件HOC](https://github.com/libin1991/libin_Blog/issues/551)
