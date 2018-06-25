@@ -58,3 +58,4 @@
 ### [如何优雅地用 Vue 创建数据驱动的用户界面](https://juejin.im/post/5b14a9b46fb9a01e780a4323)
 ### [从Vue数组响应化所引发的思考](https://juejin.im/post/5b213e956fb9a01e4f47ce69)
 ### [手把手撸vue移动UI框架： 滑动删除](https://juejin.im/entry/5b208423f265da6e1f1dc476/detail)
+### [vue使用vue-router beforEach实现判断用户登录跳转路由筛选](https://juejin.im/post/5b2b65d66fb9a00e420d8a82)
