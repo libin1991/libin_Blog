@@ -14,3 +14,4 @@
 ### [手写node可读流之流动模式](https://juejin.im/post/5b0f4cb3f265da08d51d3f3c)
 ### [全面理解 koa-router](http://zhangxiang958.github.io/2018/06/03/%E5%85%A8%E9%9D%A2%E7%90%86%E8%A7%A3%20koa-router/)
 ### [Event Loop 必知必会（六道题）](https://zhuanlan.zhihu.com/p/34182184)
+### [求不更学不动之Node.js多线程](https://segmentfault.com/a/1190000015383666)
