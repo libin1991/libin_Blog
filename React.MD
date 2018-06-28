@@ -23,3 +23,4 @@
 ### [React性能优化方案之PureRenderMixin](https://juejin.im/post/5b10dcc35188257d367e53cc)
 ### [利用 Jest 为 React 组件编写单元测试](https://loveky.github.io/2018/06/05/unit-testing-react-component-with-jest/)
 ## [React 知识梳理（三）：手写一个自己的 React-redux](https://juejin.im/post/5b07d3986fb9a07aa114a102)
+### [Redux、rematch、dva的替代品：smox](https://juejin.im/post/5b31ab38f265da598524b208)
