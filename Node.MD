@@ -16,3 +16,4 @@
 ### [Event Loop 必知必会（六道题）](https://zhuanlan.zhihu.com/p/34182184)
 ### [求不更学不动之Node.js多线程](https://segmentfault.com/a/1190000015383666)
 ### [一站到底 ---前端基础之网络](https://juejin.im/post/5b3357556fb9a00e5a4b63df)
+### [node.js的小美好](https://juejin.im/post/5b3352abe51d4558ab7b454a#heading-7)
