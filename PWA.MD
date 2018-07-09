@@ -2,3 +2,4 @@
 ### [PWA学习与实践](https://juejin.im/post/5ac8a67c5188255c5668b0b8)
 ### [前端应该了解的PWA](https://juejin.im/post/5af2fd776fb9a07a9c04372f)
 ### [Service Worker 的生命周期与使用场景](https://juejin.im/post/5b0f9e50518825155911e7be)
+### [在Vue里用Service Worker来搞个中间层（React同理）](https://juejin.im/post/5b4017c1f265da0fb0184fae)
