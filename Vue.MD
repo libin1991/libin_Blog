@@ -1,5 +1,6 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
 ### [keep-alive：组件级缓存](https://juejin.im/post/5b407c2a6fb9a04fa91bcf0d)
+### [vue-cli配置环境变量](https://juejin.im/post/5b41e5d65188251ac60befc3)
 ### [Vue 项目里戳中你痛点的问题及解决办法](https://juejin.im/post/5b174de8f265da6e410e0b4e)
 ### [试着用Proxy 实现一个简单mvvm](https://juejin.im/post/5b39fbb0e51d45589271b490)
 ##  [Vue-插件开发](https://juejin.im/post/5b30b6d5e51d45587b48146b)
