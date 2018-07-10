@@ -5,3 +5,4 @@
 ### [实战笔记：Jenkins打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
 ### [GitHub常用命令](https://shimo.im/docs/m2m3ZhdmJqgXY7JA)
 ### [git基本操作](https://juejin.im/post/5ae072906fb9a07a9e4ce596)
+### [您必须知道的 Git 分支开发规范](https://juejin.im/post/5b4328bbf265da0fa21a6820)
