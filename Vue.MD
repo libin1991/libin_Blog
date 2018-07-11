@@ -72,3 +72,4 @@
 ### [Vue中eventbus很头疼？我来帮你](https://juejin.im/post/5b45971ff265da0f9c678b55#comment)
 ### [Vue UI：Vue开发者必不可少的工具](https://blog.fundebug.com/2018/07/10/vue-ui/)
 # [一款 youtube 风格的 vue 进度条组件](https://github.com/libin1991/vue-ins-progress-bar)
+### [vue项目通过命令行传参实现多环境配置(基于@vue/cli)](https://juejin.im/post/5b457dd3f265da0f51404741)
