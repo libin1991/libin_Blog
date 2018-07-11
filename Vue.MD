@@ -70,3 +70,4 @@
 ### [vue使用vue-router beforEach实现判断用户登录跳转路由筛选](https://juejin.im/post/5b2b65d66fb9a00e420d8a82)
 ### [使用VUE实现textarea固定输入行数与添加下划线样式.](https://juejin.im/post/5b309ff16fb9a00e5326e50d)
 ### [Vue中eventbus很头疼？我来帮你](https://juejin.im/post/5b45971ff265da0f9c678b55#comment)
+### [Vue UI：Vue开发者必不可少的工具](https://blog.fundebug.com/2018/07/10/vue-ui/)
