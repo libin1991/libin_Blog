@@ -19,3 +19,4 @@
 ### [node.js的小美好](https://juejin.im/post/5b3352abe51d4558ab7b454a#heading-7)
 ### [node基础面试事件环？微任务、宏任务？一篇带你飞](https://juejin.im/post/5b35cdfa51882574c020d685)
 ### [面试高级前端工程师必问之流-stream](https://juejin.im/post/5b421b5ee51d45198651159b)
+### [带你一起撸一遍 nodejs 常用核心模块（二）](https://juejin.im/post/5b417842f265da0f96286f2b)
