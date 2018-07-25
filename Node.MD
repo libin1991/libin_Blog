@@ -23,3 +23,4 @@
 ### [带你一起撸一遍 nodejs 常用核心模块（二）](https://juejin.im/post/5b417842f265da0f96286f2b)
 ## [node-"fs-extra"模块代替fs使用](https://juejin.im/post/5b52fd21e51d4519234468f1)
 ## [node.js判断换行](https://github.com/libin1991/libin_Blog/issues/596)
+### [循序渐进教你实现一个完整的node的EventEmitter模块](https://github.com/forthealllight/blog/issues/21)
