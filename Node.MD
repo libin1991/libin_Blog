@@ -22,3 +22,4 @@
 ### [面试高级前端工程师必问之流-stream](https://juejin.im/post/5b421b5ee51d45198651159b)
 ### [带你一起撸一遍 nodejs 常用核心模块（二）](https://juejin.im/post/5b417842f265da0f96286f2b)
 ## [node-"fs-extra"模块代替fs使用](https://juejin.im/post/5b52fd21e51d4519234468f1)
+## [node.js判断换行](https://github.com/libin1991/libin_Blog/issues/596)
