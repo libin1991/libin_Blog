@@ -30,3 +30,4 @@
 ### [React Native 性能优化总结](https://github.com/amandakelake/blog/issues/49)
 ### [React Diff理解](https://juejin.im/post/5b3658f0518825522609e4c0)
 ### [基于react-intl实现手动国际化切换](https://juejin.im/post/5b497add5188251af3633c65)
+## [create-react-app源码解读](https://juejin.im/post/5b56e84351882569fd2873ab)
