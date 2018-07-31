@@ -77,3 +77,4 @@
 ### [手把手教你封装 Vue 组件，并使用 npm 发布](https://juejin.im/post/5b45df255188251b1d474860)
 ### [vue权限路由实现方式总结](https://juejin.im/post/5b5bfd5b6fb9a04fdd7d687a)
 ### [Vue UI：Vue开发者必不可少的工具](https://juejin.im/post/5b5e6dd8e51d45194a525628)
+### [Vue项目全局配置页面缓存，实现按需读取缓存](https://juejin.im/post/5b5eb85d6fb9a04fb745e8f8)
