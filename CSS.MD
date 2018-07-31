@@ -1,4 +1,5 @@
 ### [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
+## [如何在 JavaScript 中获取 CSS 值](http://www.css88.com/archives/9411)
 ### [一篇全面的CSS布局学习指南 [译]](https://juejin.im/post/5b3b56a1e51d4519646204bb#comment)
 ### [CSS世界中那些说起来很冷的知识](https://juejin.im/post/5b406f40e51d45194832b759)
 ### [Columns —— CSS多栏布局](https://denzel.netlify.com/css/columns.html)
