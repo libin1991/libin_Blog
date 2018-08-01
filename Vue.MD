@@ -80,3 +80,4 @@
 ### [Vue项目全局配置页面缓存keep-alive，实现按需读取缓存](https://juejin.im/post/5b5eb85d6fb9a04fb745e8f8)
 ### [Vue父子组件如何双向绑定传值](https://juejin.im/post/5b5c2d986fb9a04f897840ac)
 ### [Vue-router的使用姿势](https://juejin.im/post/5b5a7780f265da0f455a10d3)
+## [Vue 全站缓存之 keep-alive ： 动态移除缓存](https://juejin.im/post/5b610da4e51d45195c07720d)
