@@ -32,4 +32,4 @@
 ### [基于react-intl实现手动国际化切换](https://juejin.im/post/5b497add5188251af3633c65)
 ## [create-react-app源码解读](https://juejin.im/post/5b56e84351882569fd2873ab)
 ## [React Native 在「元气阅读」的实践](https://juejin.im/post/5b61479b6fb9a04f9963be77)
-## [Vue 全站缓存之 keep-alive ： 动态移除缓存](https://juejin.im/post/5b610da4e51d45195c07720d)
+
