@@ -5,3 +5,4 @@
 ### [webpack怎么能只是会用呢,核心中的核心tapable了解下?](https://juejin.im/post/5b5889b3e51d451949093ef0)
 ### [三十分钟掌握Webpack性能优化](https://juejin.im/post/5b652b036fb9a04fa01d616b)
 ### [Webpack4 和单页应用入门](https://github.com/libin1991/libin_Blog/issues/599)
+### [手摸手，带你用合理的姿势使用webpack4（上）](https://juejin.im/post/5b56909a518825195f499806)
