@@ -7,3 +7,4 @@
 ### [ES6 系列之模板字符串](https://juejin.im/post/5b0e2e1cf265da08e12f11fd)
 ### [ES6-Generator 函数 和 async 函数](https://juejin.im/post/5b1751d551882513756f0bdc)
 ### [ES2018 新增特性清单](https://juejin.im/post/5b353534f265da595f0d3f7e)
+### [ES9已经来了 Are you ready?](https://juejin.im/post/5b685ed1e51d4533f52859e8)
