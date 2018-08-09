@@ -4,4 +4,4 @@
 ### [教科书式的正则匹配](https://juejin.im/post/5b0cf331f265da0905017b48)
 ### [面试官！让我们聊聊正则](https://juejin.im/post/5b62717ee51d4519873f858a)
 ### [【译】ES2018 新特性: 正则表达式的 s (dotAll) 标志](https://juejin.im/post/5b6a86f2f265da0f9c67c999)
-
+### [一篇文章搞定 javascript 正则表达式](https://juejin.im/post/5b6adc7ee51d4534b8587560)
