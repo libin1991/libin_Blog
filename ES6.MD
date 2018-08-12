@@ -8,3 +8,4 @@
 ### [ES6-Generator 函数 和 async 函数](https://juejin.im/post/5b1751d551882513756f0bdc)
 ### [ES2018 新增特性清单](https://juejin.im/post/5b353534f265da595f0d3f7e)
 ### [ES9已经来了 Are you ready?](https://juejin.im/post/5b685ed1e51d4533f52859e8)
+### [ES6核心，值得驻足花一天时间来学习](https://juejin.im/post/5b6d6f8ae51d453509566974#heading-25)
