@@ -34,3 +34,4 @@
 ## [React Native 在「元气阅读」的实践](https://juejin.im/post/5b61479b6fb9a04f9963be77)
 ## [单枪匹马撸个聊天室, 支持Web/Android/iOS三端](https://juejin.im/post/5b626a096fb9a04fdd7d7433)
 ## [基于react/vue的移动端vw终极适配方案（更新css-modules配置）](https://juejin.im/post/5ad56aad51882532ce65affa#comment)
+### [React 折腾记 - (3) 结合Mobx实现一个比较靠谱的动态tab水平菜单,同时关联侧边栏](https://juejin.im/post/5b6d395fe51d4517c564f2d2)
