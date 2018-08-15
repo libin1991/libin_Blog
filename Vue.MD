@@ -1,4 +1,5 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+## [浅谈Vue-router的部分高级用法](https://juejin.im/post/5b73a50df265da27f7590737)
 ## [Vue(ES6)中的data属性为什么不能是一个对象？](https://juejin.im/post/5b4c0a715188251acc22fdd7#comment)
 ### [keep-alive：组件级缓存](https://juejin.im/post/5b407c2a6fb9a04fa91bcf0d)
 ### [vue-router中scrollBehavior的妙用](https://juejin.im/post/5b3f0860f265da0f8c0297ae)
