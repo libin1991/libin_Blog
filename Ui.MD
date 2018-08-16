@@ -19,3 +19,9 @@
 ## 框架
 #### [vue-style-codebase](https://github.com/libin1991/vue-style-codebase)
 ### [【5星级】一个骚气的文章目录自动生成器了解一下](https://github.com/libin1991/progress-catalog)
+
+
+
+
+## charts
+### [Vue.js 轻量级组件化 SVG 图表库](https://github.com/libin1991/laue)
