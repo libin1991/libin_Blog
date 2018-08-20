@@ -1,5 +1,6 @@
 ### [React组件生命周期详解](https://juejin.im/post/5b077f04f265da0dc073caa6)
 ### [关于React面试题汇总](https://juejin.im/post/5b2215f76fb9a00e8f795cd1)
+## [React高级指南之高阶组件HOC](https://juejin.im/post/5b7666b1e51d45560c1554a3)
 # 好文[你真的理解setState吗？](https://juejin.im/post/5b45c57c51882519790c7441#heading-4)
 # [React 16 加载性能优化指南](https://juejin.im/post/5b506ae0e51d45191a0d4ec9)
 ### [styled-components：让组件名副其实](https://juejin.im/post/5acdaf8a518825619d4d2034)
