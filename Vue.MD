@@ -1,5 +1,5 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
-# [前后端分离使用 Token 登录解决方案](https://juejin.im/post/5b7ea1366fb9a01a0b319612#comment)
+# [前后端分离使用 Token 登录解决方案,权限控制，登录拦截](https://juejin.im/post/5b7ea1366fb9a01a0b319612#comment)
 ## [浅谈Vue-router的部分高级用法](https://juejin.im/post/5b73a50df265da27f7590737)
 ## [Vue(ES6)中的data属性为什么不能是一个对象？](https://juejin.im/post/5b4c0a715188251acc22fdd7#comment)
 ### [keep-alive：组件级缓存](https://juejin.im/post/5b407c2a6fb9a04fa91bcf0d)
