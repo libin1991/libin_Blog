@@ -1,5 +1,6 @@
 ### [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
 ### [彻底搞懂word-break、word-wrap、white-space](https://juejin.im/post/5b8905456fb9a01a105966b4)
+## [css加载会造成阻塞吗？](https://juejin.im/post/5b88ddca6fb9a019c7717096)
 ## [前端性能优化之雅虎35条军规](https://juejin.im/post/5b73ef38f265da281e048e51)
 ## [如何在 JavaScript 中获取 CSS 值](http://www.css88.com/archives/9411)
 ### [关于BFC理解](https://juejin.im/post/5b704f18e51d4566612667c2)
