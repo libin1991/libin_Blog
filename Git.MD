@@ -6,3 +6,4 @@
 ### [GitHub常用命令](https://shimo.im/docs/m2m3ZhdmJqgXY7JA)
 ### [git基本操作](https://juejin.im/post/5ae072906fb9a07a9e4ce596)
 ### [您必须知道的 Git 分支开发规范](https://juejin.im/post/5b4328bbf265da0fa21a6820)
+### [规范 commit 与 changelog 生成](https://github.com/Mcbai/Blog/issues/19)
