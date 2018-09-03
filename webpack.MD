@@ -9,3 +9,4 @@
 ### [手摸手，带你用合理的姿势使用webpack4（下）](https://juejin.im/post/5b5d6d6f6fb9a04fea58aabc)
 ### [glob 在webpack中的使用。](https://www.cnblogs.com/waitforyou/p/7044171.html)
 ### [使用webpack4打造自己的前端工作流](https://juejin.im/post/5b7f7bcf6fb9a019d137d06f)
+### [体积减少80%！释放webpack tree-shaking的真正潜力](https://juejin.im/post/5b8ce49df265da438151b468)
