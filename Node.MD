@@ -31,3 +31,4 @@
 ### [探索 PM2 Cluster 模式下 Log4js 日志丢失](https://juejin.im/post/5b7ea1e56fb9a01a0f24979a)
 ### [对node工程进行压力测试与性能分析](https://juejin.im/post/5b827cbbe51d4538c021f2da)
 ### [【Node】简单快捷的图片压缩脚本](https://juejin.im/post/5b8a9769e51d4538c17e121c)
+### [nodejs“并行”处理尝试](https://juejin.im/post/5b8a36f551882542c7638bae)
