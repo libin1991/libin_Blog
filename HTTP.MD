@@ -5,4 +5,5 @@
 ### [前端也要懂Http缓存机制](https://juejin.im/post/5b70edd4f265da27df0938bc)
 ### [HTTP 缓存的那些事儿](https://juejin.im/post/5b7c6d5b51882542cc2f4722)
 ### [HTTP三种缓存方式](https://juejin.im/post/5b8d10c66fb9a019f82fc16e)
+### [浏览器缓存技术介绍](https://juejin.im/post/5b9346dcf265da0aac6fbe57)
 ### [http请求头与响应头的应用](https://juejin.im/post/5b854ddef265da43635d9302)
