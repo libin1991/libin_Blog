@@ -1,6 +1,7 @@
 ### [值得了解的webpack高级技能](https://juejin.im/post/5aefc770f265da0b9c108c40)
 ## [基于webpack4[.3+]构建可预测的持久化缓存方案[5星级]](https://juejin.im/post/5b977a19f265da0ac4469057)
 ## [使用 webpack 进行 web 性能优化（一）：减小前端资源大小](https://juejin.im/post/5b976f4b5188255c865e0240)
+### [webpack性能优化不完全指北](https://juejin.im/post/5b8ac03ff265da431c627f8e)
 ### [一步一步的了解webpack4的splitChunk插件](https://juejin.im/post/5af1677c6fb9a07ab508dabb)
 ### [webpack 4 ：从0配置到项目搭建](https://juejin.im/post/5b3daf2ee51d451962727fbe)
 ### [webpack 4.x + Vue基础配置，顺利启动项目](https://juejin.im/post/5b4f60f5e51d45190a431396)
