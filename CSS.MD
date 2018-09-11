@@ -55,3 +55,4 @@ class,属性选择器和伪类选择器，权重:10;
 ## [从零开始学前端动画 —— 简单的特效登录](https://juejin.im/post/5b3b2ac9e51d4519972faa62)
 ## [不定期更新的CSS奇淫技巧（二）](https://juejin.im/post/5b607a0b6fb9a04fd260aa70)
 ## [不定期更新的CSS奇淫技巧（一）](https://juejin.im/post/5b12ae3de51d4506d73f0bb4)
+# [CSS 变量和 JavaScript 让应用支持动态主题](https://juejin.im/post/5b9528de6fb9a05cf3710e00)
