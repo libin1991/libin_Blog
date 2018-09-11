@@ -32,3 +32,4 @@
 ### [对node工程进行压力测试与性能分析](https://juejin.im/post/5b827cbbe51d4538c021f2da)
 ### [【Node】简单快捷的图片压缩脚本](https://juejin.im/post/5b8a9769e51d4538c17e121c)
 ### [nodejs“并行”处理尝试](https://juejin.im/post/5b8a36f551882542c7638bae)
+### [使用 Node 构建命令行应用](https://juejin.im/post/5b952f4ce51d450e7632caaf)
