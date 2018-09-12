@@ -2,3 +2,4 @@
 ### [一个Vue媒体多段裁剪组件](https://juejin.im/post/5b6960d8e51d4519115d5d2f)
 ### [Vue实现左右菜单联动实现](https://juejin.im/post/5b6ea54cf265da0f6436f77a#comment)
 ### [vue2实现搜索结果中的搜索关键字高亮](https://juejin.im/post/5b73e5a3f265da28201d9831#comment)
+### [弹弹弹，弹走鱼尾纹的弹出菜单（vue）](https://juejin.im/post/5b976bfcf265da0ac372ef14)
