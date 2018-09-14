@@ -56,3 +56,4 @@ class,属性选择器和伪类选择器，权重:10;
 ## [不定期更新的CSS奇淫技巧（二）](https://juejin.im/post/5b607a0b6fb9a04fd260aa70)
 ## [不定期更新的CSS奇淫技巧（一）](https://juejin.im/post/5b12ae3de51d4506d73f0bb4)
 # [CSS 变量和 JavaScript 让应用支持动态主题](https://juejin.im/post/5b9528de6fb9a05cf3710e00)
+### [从酷炫的果冻菜单谈起 CSS3 filter 属性 #18](https://github.com/justemit/coding-note/issues/18)
