@@ -34,3 +34,4 @@
 ### [nodejs“并行”处理尝试](https://juejin.im/post/5b8a36f551882542c7638bae)
 ### [使用 Node 构建命令行应用](https://juejin.im/post/5b952f4ce51d450e7632caaf)
 ## [使用node构建文件重命名脚本工具](https://juejin.im/post/5b99d59de51d450e9c55468e)
+## [Node中的两种遍历方式-深度优先和广度优先（附Node删除文件例子进行详解）](https://juejin.im/post/5b976a7a6fb9a05cdf307795)
