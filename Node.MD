@@ -1,4 +1,5 @@
 ### [一点感悟：《Node.js学习笔记》star数突破1000+](https://juejin.im/post/5b1717a86fb9a01e3e5ce540)
+## [Node中fs模块 API详解](https://juejin.im/post/5b9768b2e51d450e9942eb98)
 ### [七天学不会nodejs——流](https://juejin.im/post/5b54a7f95188251afc257dac)
 ### [Node.js 中间件模式](https://juejin.im/post/5b1e3f28e51d4506bd72db7c)
 ### [express使用笔记](https://github.com/chyingp/Express-learning-guide)
