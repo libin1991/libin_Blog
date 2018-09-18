@@ -22,6 +22,7 @@
 ### [神奇的选择器 :focus-within](https://juejin.im/post/5b62839d6fb9a04fd260af17)
 ### [滚动视差？CSS 不在话下](https://juejin.im/post/5b6d0756e51d4562b31ad23c)
 ## [CSS 在按钮上做个涟漪效果（Ripple Animation）水波纹](https://codesky.me/archives/css-do-a-ripple-animation.wind)
+## [[译]《Smashing》: 用 CSS 形状打造高级排版](https://juejin.im/post/5b9dfc3a5188255c3a2d3655)
 ```
 权重的五个等级及其权重:
 !important;
