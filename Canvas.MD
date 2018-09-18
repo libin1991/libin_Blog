@@ -5,3 +5,4 @@
 ### [canvas像素点获取 —— 拾色器、放大器](https://juejin.im/post/5b95d5df6fb9a05d11176489)
 ### [canvas绘图之钟表](https://juejin.im/post/5b95cfef6fb9a05d1a12b8db)
 ### [用 canvas 的 getImageData 做点有趣的事](https://juejin.im/post/5ba06596f265da0acc7957e4)
+### [通过canvas生成图片并保存到本地](https://juejin.im/post/5b9a3113f265da0aaa04fffc)
