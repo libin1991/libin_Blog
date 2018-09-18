@@ -25,3 +25,4 @@
 
 ## charts
 ### [Vue.js 轻量级组件化 SVG 图表库](https://github.com/libin1991/laue)
+### [一个为移动端而生的炫酷的图表库](https://github.com/antvis/f2)
