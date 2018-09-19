@@ -6,7 +6,7 @@
 ### [mint-ui](https://github.com/ElemeFE/mint-ui/)
 ### [cube-ui](https://github.com/didi/cube-ui)
 ### [2017 年 4 月：15 个有趣的 JS 和 CSS 库](https://zhuanlan.zhihu.com/p/26317328)
-
+### [多端统一开发框架 Taro 1.0 正式发布](https://juejin.im/post/5ba2222be51d450e8a65fd4a)
 
 
 ## PC
