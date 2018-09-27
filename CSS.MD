@@ -60,3 +60,4 @@ class,属性选择器和伪类选择器，权重:10;
 # [CSS 变量和 JavaScript 让应用支持动态主题](https://juejin.im/post/5b9528de6fb9a05cf3710e00)
 ### [从酷炫的果冻菜单谈起 CSS3 filter 属性 #18](https://github.com/justemit/coding-note/issues/18)
 ### [精准操控的滚动体验，浅谈新标准 Scroll Snap](https://juejin.im/post/5ba079e86fb9a05d1227fddb)
+### [【实例】通过 CSS自定义属性（CSS变量）和 JavaScript 实现高级CSS主题切换](http://www.css88.com/archives/9598)
