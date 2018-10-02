@@ -1,0 +1,5 @@
+### [简洁轻便的博客平台: Hexo详解](https://blog.csdn.net/kingice1014/article/details/52924523)
+### [Hexo博客主题推荐](https://www.jianshu.com/p/bcdbe7347c8d)
+### [hexo的Next创建tags](https://blog.csdn.net/lcyaiym/article/details/76762105?locationNum=5&fps=1)
+### [2018最新版Hexo博客Next主题6.0配置优化](https://blog.csdn.net/qq_32454537/article/details/79482896)
+### [梦魇小栈](https://github.com/ihoey/blog)
