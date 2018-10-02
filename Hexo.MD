@@ -34,6 +34,10 @@ deploy:
 ```
 hexo new post "article title"
 ```
+新建一个页面，命名为tags。命令如下：
+```
+hexo new page "tags"
+```
 > 这时候在我的 电脑的目录下 F:\hexo\source\ _posts 将会看到  article title.md 文件
 
 > 用MarDown编辑器打开就可以编辑文章了。文章编辑好之后，运行生成、部署命令：
