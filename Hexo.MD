@@ -9,3 +9,40 @@
 ### [手把手教你用Hexo+Github 搭建属于自己的博客](https://blog.csdn.net/gdutxiaoxu/article/details/53576018)
 ### [2018最新版hexo+Github搭建个人博客教程（2018-1-22 更新）](https://blog.csdn.net/qq_32454537/article/details/79482908)
 ## [用Hexo + github搭建自己的博客 --- 再也不用羡慕别人了！](https://blog.csdn.net/Hoshea_chx/article/details/78826689)
+
+
+> 配置Deployment
+
+> 同样在_config.yml文件中，找到Deployment，然后按照如下修改：
+
+
+```
+deploy:
+  type: git
+  repo: git@github.com:yourname/yourname.github.io.git
+  branch: master
+```
+> 比如我的仓库的地址是git@github.com:gdutxiaoxu/gdutxiaoxu.github.io.git，所以配置如下
+```
+deploy:
+  type: git
+  repo: git@github.com:gdutxiaoxu/gdutxiaoxu.github.io.git
+  branch: master
+```
+> 写博客、发布文章
+> 新建一篇博客，执行下面的命令：
+```
+hexo new post "article title"
+```
+> 这时候在我的 电脑的目录下 F:\hexo\source\ _posts 将会看到  article title.md 文件
+
+> 用MarDown编辑器打开就可以编辑文章了。文章编辑好之后，运行生成、部署命令：
+```
+hexo g   // 生成
+hexo d   // 部署12
+
+当然你也可以执行下面的命令，相当于上面两条命令的效果
+
+hexo d -g #在部署前先生成
+ 
+ ```
