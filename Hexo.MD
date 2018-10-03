@@ -2,6 +2,7 @@
 ### [Hexo博客主题推荐](https://www.jianshu.com/p/bcdbe7347c8d)
 ### [hexo的Next创建tags](https://blog.csdn.net/lcyaiym/article/details/76762105?locationNum=5&fps=1)
 ### [2018最新版Hexo博客Next主题6.0配置优化](https://blog.csdn.net/qq_32454537/article/details/79482896)
+### [Hexo-NexT配置超炫网页效果](https://www.jianshu.com/p/9f0e90cc32c2)
 ### [梦魇小栈](https://github.com/ihoey/blog)
 ## [chunge16.github.io](https://github.com/chunge16/chunge16.github.io)
 ### [使用Hexo+Github一步步搭建属于自己的博客（基础）](https://www.cnblogs.com/fengxiongZz/p/7707219.html)
@@ -12,6 +13,7 @@
 ## [用Hexo + github搭建自己的博客 --- 再也不用羡慕别人了！](https://blog.csdn.net/Hoshea_chx/article/details/78826689)
 ## [Hexo个人免费博客(一) 从零到发布Github](https://blog.csdn.net/linshuhe1/article/details/52415449)
 ## [Hexo 最常用的几个命令](https://blog.ihoey.com/posts/Hexo/2015-08-28-hello-world.html)
+### [Hexo NexT主题添加点击爱心效果](https://asdfv1929.github.io/2018/01/26/click-love/)
 > 配置Deployment
 
 > 同样在_config.yml文件中，找到Deployment，然后按照如下修改：
