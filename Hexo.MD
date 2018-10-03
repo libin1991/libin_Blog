@@ -14,6 +14,7 @@
 ## [Hexo个人免费博客(一) 从零到发布Github](https://blog.csdn.net/linshuhe1/article/details/52415449)
 ## [Hexo 最常用的几个命令](https://blog.ihoey.com/posts/Hexo/2015-08-28-hello-world.html)
 ### [Hexo NexT主题添加点击爱心效果](https://asdfv1929.github.io/2018/01/26/click-love/)
+### [Hexo-NexT配置超炫网页效果](https://www.jianshu.com/p/9f0e90cc32c2)
 > 配置Deployment
 
 > 同样在_config.yml文件中，找到Deployment，然后按照如下修改：
