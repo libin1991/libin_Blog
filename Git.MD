@@ -8,3 +8,4 @@
 ### [您必须知道的 Git 分支开发规范](https://juejin.im/post/5b4328bbf265da0fa21a6820)
 ### [规范 commit 与 changelog 生成](https://github.com/Mcbai/Blog/issues/19)
 ### [版本管理工具git的使用总结](https://www.imooc.com/article/251132)
+### [Git 的 4 个阶段的撤销更改](https://mp.weixin.qq.com/s/_fbkqgEtYGxttWWip8Esjw)
