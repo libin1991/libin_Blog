@@ -11,7 +11,7 @@
 ### [2018最新版hexo+Github搭建个人博客教程（2018-1-22 更新）](https://blog.csdn.net/qq_32454537/article/details/79482908)
 ## [用Hexo + github搭建自己的博客 --- 再也不用羡慕别人了！](https://blog.csdn.net/Hoshea_chx/article/details/78826689)
 ## [Hexo个人免费博客(一) 从零到发布Github](https://blog.csdn.net/linshuhe1/article/details/52415449)
-
+## [Hexo 最常用的几个命令](https://blog.ihoey.com/posts/Hexo/2015-08-28-hello-world.html)
 > 配置Deployment
 
 > 同样在_config.yml文件中，找到Deployment，然后按照如下修改：
