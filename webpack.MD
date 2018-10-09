@@ -17,3 +17,4 @@
 ### [体积减少80%！释放webpack tree-shaking的真正潜力](https://juejin.im/post/5b8ce49df265da438151b468)
 ### [webpack loader—自己写一个按需加载插件](https://juejin.im/post/5b8e3162f265da432f655639)
 ### [用实验的思路优化webpack4项目编译速度](https://juejin.im/post/5b89ea97518825284910db48)
+### [优秀前端必知的话题：我们应该做些力所能及的优化](https://juejin.im/post/5bbc1b0c6fb9a05cf230140c)
