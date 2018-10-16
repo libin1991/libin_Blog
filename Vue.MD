@@ -91,3 +91,4 @@
 ### [为什么Vue.mixin中的定义的data全局可用](https://juejin.im/post/5b7bb9b56fb9a019f671266a)
 ## [记一次Vue全页面SSR深坑之旅 - 微弱的内存/CPU泄漏](https://juejin.im/post/5b8d31d3f265da43594407e2)
 ### [Vue项目数据动态过滤实践](https://juejin.im/post/5b9394fff265da0af406ed53)
+## [vue组件通信--注意事项及经验总结](https://juejin.im/post/5bc092806fb9a05cf2301f25)
