@@ -1,4 +1,5 @@
 ### [React组件生命周期详解](https://juejin.im/post/5b077f04f265da0dc073caa6)
+##  [当初要是看了这篇，React高阶组件早会了。](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484443&idx=1&sn=1c6e95022ab7ad96aa236bf667c26a0f&chksm=fbb58fd2ccc206c466144af329606a654d034f20e0504434b1e047790595f2dda7dc65970032&token=753322155&lang=zh_CN&rd2werd=1#wechat_redirect)
 ### [关于React面试题汇总](https://juejin.im/post/5b2215f76fb9a00e8f795cd1)
 ## [React高级指南之高阶组件HOC](https://juejin.im/post/5b7666b1e51d45560c1554a3)
 # 好文[你真的理解setState吗？](https://juejin.im/post/5b45c57c51882519790c7441#heading-4)
