@@ -41,3 +41,4 @@
 ### [react-redux 学习以及模块化配置方案](https://juejin.im/post/5b969625e51d450e9704aa99)
 ## [React性能分析利器来了，妈妈再也不用担心我的React应用慢了](https://juejin.im/post/5ba1f995f265da0a972e1657)
 ## [React Profiler 介绍](https://juejin.im/post/5ba0f8e4f265da0ab915bcf2)
+## [高阶组件HOC + New Context API = ?](https://juejin.im/post/5bc40f4ef265da0af40735cb)
