@@ -93,3 +93,4 @@
 ### [Vue项目数据动态过滤实践](https://juejin.im/post/5b9394fff265da0af406ed53)
 ## [vue组件通信--注意事项及经验总结](https://juejin.im/post/5bc092806fb9a05cf2301f25)
 ## [皮肤开发过程中遇到的3个问题](https://juejin.im/post/5bbf98b9e51d4527ed006d16)
+# [vue单页应用前进刷新后退不刷新方案探讨](https://www.cnblogs.com/wonyun/p/8763314.html)
