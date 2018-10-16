@@ -5,3 +5,4 @@
 ### [通过vue-cli3构建一个SSR应用程序](https://juejin.im/post/5b98e5875188255c8320f88a#comment)
 ### [带你五步学会Vue SSR](https://juejin.im/post/5bbda9ed5188255c8f06c0dc#comment)
 ### [React服务端渲染（前后端路由同构）](https://juejin.im/post/5bbedfca5188255c5e670682#heading-1)
+### [基于vue-cli3 SSR 程序实现热更新功能](https://juejin.im/post/5bc4321b6fb9a05d1e0e824b)
