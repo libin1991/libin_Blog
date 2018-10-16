@@ -8,3 +8,4 @@
 ### [通过canvas生成图片并保存到本地](https://juejin.im/post/5b9a3113f265da0aaa04fffc)
 ###  [小程序导出朋友圈海报详细记录](https://juejin.im/post/5b9dab12f265da0acf0ad156)
 ### [【5星级】html2img小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片](https://github.com/libin1991/Painter)
+### [小哥哥～手把手教你如何绘制一辆会跑车](https://juejin.im/post/5bc34db36fb9a05d36350315)
