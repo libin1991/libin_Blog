@@ -92,3 +92,4 @@
 ## [记一次Vue全页面SSR深坑之旅 - 微弱的内存/CPU泄漏](https://juejin.im/post/5b8d31d3f265da43594407e2)
 ### [Vue项目数据动态过滤实践](https://juejin.im/post/5b9394fff265da0af406ed53)
 ## [vue组件通信--注意事项及经验总结](https://juejin.im/post/5bc092806fb9a05cf2301f25)
+## [皮肤开发过程中遇到的3个问题](https://juejin.im/post/5bbf98b9e51d4527ed006d16)
