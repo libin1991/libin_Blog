@@ -1,5 +1,6 @@
 ### [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
 ## [border-radius结合动画创建酷炫的效果](border-radius结合动画创建酷炫的效果)
+### [有趣的border-radius](https://juejin.im/post/5bb815056fb9a05d171d5660)
 ### [木桶布局，了解一下](https://juejin.im/post/5bc057fb6fb9a05d0e2e895e)
 ### [可能是最全面最易懂的解析前端浮动的文章](https://juejin.im/post/5bbe1054f265da0af2138c5e)
 ### [聊一聊CSS3的渐变——gradient](https://juejin.im/post/5bc2fb09f265da0ac55e75e7)
