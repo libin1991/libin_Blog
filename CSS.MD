@@ -1,4 +1,5 @@
 ### [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
+### [可能是最全面最易懂的解析前端浮动的文章](https://juejin.im/post/5bbe1054f265da0af2138c5e)
 ### [聊一聊CSS3的渐变——gradient](https://juejin.im/post/5bc2fb09f265da0ac55e75e7)
 ## [最全～Grid vs Flex](https://zhuanlan.zhihu.com/p/46757975)
 ### [彻底搞懂word-break、word-wrap、white-space](https://juejin.im/post/5b8905456fb9a01a105966b4)
