@@ -38,3 +38,4 @@
 ## [Node中的两种遍历方式-深度优先和广度优先（附Node删除文件例子进行详解）](https://juejin.im/post/5b976a7a6fb9a05cdf307795)
 ## [redux, koa, express 中间件实现对比解析](https://juejin.im/post/5b9a23a45188255c9c751b07)
 ## [动手制作nodejs命令行工具 iconfont-cli](https://juejin.im/post/5ba231b06fb9a05ce873d609)
+## [必知必会的Node-CLI开发基础](https://juejin.im/post/5bc496196fb9a05d0f170694)
