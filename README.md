@@ -1,4 +1,4 @@
-###移动端关闭虚拟键盘
+### 移动端关闭虚拟键盘
 ```
 document.activeElement.blur();
 ```
