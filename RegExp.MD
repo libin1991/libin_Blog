@@ -5,3 +5,4 @@
 ### [面试官！让我们聊聊正则](https://juejin.im/post/5b62717ee51d4519873f858a)
 ### [【译】ES2018 新特性: 正则表达式的 s (dotAll) 标志](https://juejin.im/post/5b6a86f2f265da0f9c67c999)
 ### [一篇文章搞定 javascript 正则表达式](https://juejin.im/post/5b6adc7ee51d4534b8587560)
+### [出来混总是要还的-JS正则常用的有四种操作： 验证、切分、提取、替换](https://juejin.im/post/5bcd3703518825778c497908)
