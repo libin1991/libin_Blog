@@ -1,3 +1,7 @@
+###移动端关闭虚拟键盘
+```
+document.activeElement.blur();
+```
 ### 正则表达式匹配版本
 ```
 "Mozilla/5.0 (Linux; Android 6.0.1; MI NOTE LTE Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 Mobile Safari/537.36 Weibo (Xiaomi-MI NOTE LTE__weibo__8.5.3__android__android6.0.1)".match(/(__weibo__)([\d.]*)(__android|__iphone)/)[2]
