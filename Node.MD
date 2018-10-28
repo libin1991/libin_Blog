@@ -40,3 +40,4 @@
 ## [动手制作nodejs命令行工具 iconfont-cli](https://juejin.im/post/5ba231b06fb9a05ce873d609)
 ## [必知必会的Node-CLI开发基础](https://juejin.im/post/5bc496196fb9a05d0f170694)
 ## [[译]你不知道的Node](https://houxingyi.github.io/2018/10/20/2018-10-10-you-dont-know-Node/)
+### [手把手教你用node撸一个图片压缩工具](https://juejin.im/post/5bd350a76fb9a05d2d02697c)
