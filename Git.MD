@@ -9,3 +9,4 @@
 ### [规范 commit 与 changelog 生成](https://github.com/Mcbai/Blog/issues/19)
 ### [版本管理工具git的使用总结](https://www.imooc.com/article/251132)
 ### [Git 的 4 个阶段的撤销更改](https://mp.weixin.qq.com/s/_fbkqgEtYGxttWWip8Esjw)
+### [超详实Git简明教程与命令大全](https://juejin.im/post/5bd2a0d8e51d457a4e0d4fd5)
