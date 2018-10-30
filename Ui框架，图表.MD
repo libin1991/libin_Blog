@@ -20,7 +20,8 @@
 #### [vue-style-codebase](https://github.com/libin1991/vue-style-codebase)
 ### [【5星级】一个骚气的文章目录自动生成器了解一下](https://github.com/libin1991/progress-catalog)
 
-
+## weex
+### [基于weex的有赞无线开发框架](https://juejin.im/post/5bd7feb85188257100456a85)
 
 
 ## charts
@@ -30,3 +31,6 @@
 
 ## 库
 ### [前端常用插件、工具类库汇总，不要重复造轮子啦！！！](https://juejin.im/post/5ba7d5dd5188255c6140cc9d)
+
+## 小程序
+### [Taro + 小程序云开发实战](https://juejin.im/post/5bd7f93f6fb9a05cff326537)
