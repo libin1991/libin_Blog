@@ -1,4 +1,5 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+## [vue组件通信全揭秘(共7章)](https://juejin.im/post/5bd97e7c6fb9a022852a71cf#heading-52)
 # [vue移动端项目缓存问题实践](https://juejin.im/post/5bd5715f6fb9a05d27794ff9)
 # [Vue 全站缓存之 keep-alive ： 动态移除缓存](http://wanyaxing.com/blog/20180723114341.html)
 ## [处理 Vue 单页面应用 SEO 的另一种思路](https://www.cnblogs.com/tiedaweishao/p/7493971.html)
