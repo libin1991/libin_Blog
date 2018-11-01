@@ -16,7 +16,7 @@
 ### [Hexo NexT主题添加点击爱心效果](https://asdfv1929.github.io/2018/01/26/click-love/)
 ### [Hexo-NexT配置超炫网页效果](https://www.jianshu.com/p/9f0e90cc32c2)
 > 配置Deployment
-
+### [Hexo 最常用的几个命令](https://blog.csdn.net/dxxzst/article/details/76135935)
 > 同样在_config.yml文件中，找到Deployment，然后按照如下修改：
 
 
@@ -49,6 +49,7 @@ hexo new page "tags"
 hexo g   // 生成
 hexo s   // 本地启动
 hexo d   // 部署发布
+hexo clean    //清除缓存文件 db.json 和已生成的静态文件 public
 
 当然你也可以执行下面的命令，相当于上面两条命令的效果
 
