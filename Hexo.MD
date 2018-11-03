@@ -58,3 +58,20 @@ hexo d -g #在部署前先生成
 注意需要提前安装一个扩展：
 npm install hexo-deployer-git --save
  ```
+
+```
+# 本地预览
+hexo s
+
+# 删除旧的静态文件，即 public 文件
+hexo clean
+
+# 生成新的静态文件，即 public 文件（或者 hexo g）
+hexo generate
+
+# 部署到远程站点，即 GitHub（或者 hexo d）
+hexo deploye
+
+# 当然你也可以执行下面的组合命令
+hexo d -g
+```
