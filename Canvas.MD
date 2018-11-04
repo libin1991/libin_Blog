@@ -10,3 +10,4 @@
 ### [【5星级】html2img小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片](https://github.com/libin1991/Painter)
 ### [html2canvas-实现页面截图](https://juejin.im/post/5bcdac8d6fb9a05d3017910d)
 ### [小哥哥～手把手教你如何绘制一辆会跑车](https://juejin.im/post/5bc34db36fb9a05d36350315)
+### [canvas生成海报大小错误、模糊以及跨域的问题](https://juejin.im/post/5bddac7d6fb9a049ee7fe452)
