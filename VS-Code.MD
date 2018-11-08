@@ -3,3 +3,4 @@
 ### [VS Code 快速使用指南](https://juejin.im/post/5bc86b0b5188255ca00cc58f)
 ### [30个极大提高开发效率的Visual Studio Code插件](https://juejin.im/post/5b99a927f265da0a922399cd)
 ### [Markdown 中的 Table 一键排序](https://juejin.im/post/5be1963df265da61620cde1f)
+### [JavaScript 开发者 10 种必备 VS Code 扩展](https://www.css88.com/archives/10004)
