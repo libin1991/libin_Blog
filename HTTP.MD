@@ -7,3 +7,4 @@
 ### [HTTP三种缓存方式](https://juejin.im/post/5b8d10c66fb9a019f82fc16e)
 ### [浏览器缓存技术介绍](https://juejin.im/post/5b9346dcf265da0aac6fbe57)
 ### [http请求头与响应头的应用](https://juejin.im/post/5b854ddef265da43635d9302)
+### [http缓存与cdn缓存配置指南](https://juejin.im/post/5be3f486e51d45053d5c38ca)
