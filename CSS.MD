@@ -34,6 +34,7 @@
 ### [滚动视差？CSS 不在话下](https://juejin.im/post/5b6d0756e51d4562b31ad23c)
 ## [CSS 在按钮上做个涟漪效果（Ripple Animation）水波纹](https://codesky.me/archives/css-do-a-ripple-animation.wind)
 ## [[译]《Smashing》: 用 CSS 形状打造高级排版](https://juejin.im/post/5b9dfc3a5188255c3a2d3655)
+### [CSS 来实现多行文字截断](https://juejin.im/post/5be2dd8fe51d451bb447e0a5)
 ```
 权重的五个等级及其权重:
 !important;
