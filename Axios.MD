@@ -1,4 +1,5 @@
 ### [记一次axios源码排查](https://juejin.im/post/5b9b7be8e51d450e704258a0)
+## [axios 二次封装 api的统筹管理 配合async await实际项目中的运用](https://www.jianshu.com/p/6b626d72ea78)
 ### [axios源码分析——拦截器](https://juejin.im/post/5b272758e51d4558a04a2dbf)
 ### [Axios-源码分析](http://hejx.space/2017/08/25/Axios-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 ### [Vue+axios 实现http拦截及路由拦截](https://www.cnblogs.com/parkboyoung/p/6761863.html)
