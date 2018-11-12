@@ -8,29 +8,31 @@
 ### [2017 年 4 月：15 个有趣的 JS 和 CSS 库](https://zhuanlan.zhihu.com/p/26317328)
 ### [多端统一开发框架 Taro 1.0 正式发布](https://juejin.im/post/5ba2222be51d450e8a65fd4a)
 ### [一只基于Vue2.x的移动端&微信UI。 -YDUI Touch](http://vue.ydui.org/)
-
+---
 ## PC
 ### [https://2ue.github.io/vui/#/select](https://2ue.github.io/vui/#/select)
 ### [https://github.com/museui/muse-ui](https://github.com/museui/muse-ui)
 ### [HeyUI](https://github.com/heyui/heyui)
 ### [vue-ydui](https://github.com/libin1991/vue-ydui)
-
+---
 
 ## 框架
+## [Vue应用框架整合与实战--Vue技术生态圈篇](https://www.jianshu.com/p/22a99426b524)
 #### [vue-style-codebase](https://github.com/libin1991/vue-style-codebase)
 ### [【5星级】一个骚气的文章目录自动生成器了解一下](https://github.com/libin1991/progress-catalog)
-
+---
 ## weex
 ### [基于weex的有赞无线开发框架](https://juejin.im/post/5bd7feb85188257100456a85)
 
-
+---
 ## charts
 ### [Vue.js 轻量级组件化 SVG 图表库](https://github.com/libin1991/laue)
 ### [一个为移动端而生的炫酷的图表库](https://github.com/antvis/f2)
 
-
+---
 ## 库
 ### [前端常用插件、工具类库汇总，不要重复造轮子啦！！！](https://juejin.im/post/5ba7d5dd5188255c6140cc9d)
-
+---
 ## 小程序
 ### [Taro + 小程序云开发实战](https://juejin.im/post/5bd7f93f6fb9a05cff326537)
+---
