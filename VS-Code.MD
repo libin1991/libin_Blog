@@ -5,3 +5,4 @@
 ### [Markdown 中的 Table 一键排序](https://juejin.im/post/5be1963df265da61620cde1f)
 ### [JavaScript 开发者 10 种必备 VS Code 扩展](https://www.css88.com/archives/10004)
 ### [VS Code书写vue项目配置 eslint+prettier 统一代码风格](https://juejin.im/post/5be5429de51d4511a808f4ac)
+### [写给前端开发者不一样的VSCode配置(JS/React)](https://juejin.im/post/5bea48c4e51d454e5b5f19e8)
