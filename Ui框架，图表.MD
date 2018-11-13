@@ -20,6 +20,7 @@
 ## [Vue应用框架整合与实战--Vue技术生态圈篇](https://www.jianshu.com/p/22a99426b524)
 #### [vue-style-codebase](https://github.com/libin1991/vue-style-codebase)
 ### [【5星级】一个骚气的文章目录自动生成器了解一下](https://github.com/libin1991/progress-catalog)
+### [vue 项目快速输出微信、支付宝、百度小程序](https://juejin.im/post/5be9748d6fb9a049dd7fcf32)
 ---
 ## weex
 ### [基于weex的有赞无线开发框架](https://juejin.im/post/5bd7feb85188257100456a85)
