@@ -99,3 +99,4 @@
 ## [vue组件通信--注意事项及经验总结](https://juejin.im/post/5bc092806fb9a05cf2301f25)
 ## [皮肤开发过程中遇到的3个问题](https://juejin.im/post/5bbf98b9e51d4527ed006d16)
 # [vue单页应用前进刷新后退不刷新方案探讨](https://www.cnblogs.com/wonyun/p/8763314.html)
+# [vue单页应用中 返回列表记住上次滚动位置、keep-alive缓存之后更新列表数据 那点事](https://juejin.im/post/5bea9a8651882517165d9089)
