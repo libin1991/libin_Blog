@@ -7,3 +7,4 @@
 ### [React服务端渲染（前后端路由同构）](https://juejin.im/post/5bbedfca5188255c5e670682#heading-1)
 ### [基于vue-cli3 SSR 程序实现热更新功能](https://juejin.im/post/5bc4321b6fb9a05d1e0e824b)
 ### [Vue SSR（ Vue2 + Koa2 + Webpack4）配置指南](https://juejin.im/post/5be85c7af265da612909b436)
+### [Vue 服务端渲染（SSR）、Nuxt.js - 从入门到实践](https://juejin.im/post/5be4e31ef265da616623f770#comment)
