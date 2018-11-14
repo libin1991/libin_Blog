@@ -81,3 +81,4 @@ class,属性选择器和伪类选择器，权重:10;
 ### [CSS三角的写法（兼容IE6）](https://juejin.im/post/5be407d8e51d452add4d81a0)
 ### [实现一个沙漏⏳组件](https://juejin.im/post/5be8d187e51d4515a13ff538)
 ### [你所不知道的 CSS 阴影技巧与细节](https://juejin.im/post/5bea9bb26fb9a049e4123e60)
+## [初识css自定义属性](https://juejin.im/post/5beacb02f265da61542d2c2f)
