@@ -43,3 +43,4 @@
 ### [手把手教你用node撸一个图片压缩工具](https://juejin.im/post/5bd350a76fb9a05d2d02697c)
 ### [教你如何用node.js开发微信公众号（一）](https://juejin.im/post/5be3af8ae51d4554b54b0a0d)
 ## [Node.js 10 LTS 值得关注的特性](https://zhuanlan.zhihu.com/p/49429391)
+## [【手把手撸一个脚手架】第一步, 创建第一个命令](https://juejin.im/post/5bead1b25188251e1a1f4d34)
