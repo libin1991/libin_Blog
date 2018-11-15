@@ -1,4 +1,5 @@
 ##  [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+# [关于这一次h5踩到的坑](https://juejin.im/post/5be92ae2e51d4572fd18c4c6)
 ### [最近在 Vue 项目中用到的一些小技巧，或许有用](https://juejin.im/post/5bdd57f451882517165d75cc)
 ## [vue组件通信全揭秘(共7章)](https://juejin.im/post/5bd97e7c6fb9a022852a71cf#heading-52)
 ### [标注图+部分举例聊聊Vue生命周期](https://juejin.im/post/5bd6962e51882558bd3f0696)
