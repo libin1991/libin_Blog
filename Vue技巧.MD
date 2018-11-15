@@ -2,3 +2,4 @@
 ## [这些vue技巧你肯定不知道](https://juejin.im/post/5bc937285188255c63763ae2#comment)
 # [vue源码-内部运行机制剖析](https://github.com/libin1991/vue-1?organization=libin1991&organization=libin1991)
 ### [关于做常规的数字定时滚动效果](https://juejin.im/post/5be14a296fb9a049a62c0930)
+## [一份超级详细的Vue-cli3.0使用教程[赶紧来试试！]](https://juejin.im/post/5bdec6e8e51d4505327a8952)
