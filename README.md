@@ -3419,3 +3419,4 @@ CSS奇巧淫技：
 ## [67 个拯救前端开发者的工具、库和资源](http://link.zhihu.com/?target=http%3A//www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html%3Ft%3Dnew)
 
 ## [jQuery源码学习总结](http://link.zhihu.com/?target=https%3A//github.com/ttian226/learn_jquery)
+## [类似淘票票 选座功能（svg）](https://juejin.im/post/5bed39096fb9a049b3478caf)
