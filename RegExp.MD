@@ -7,3 +7,4 @@
 ### [一篇文章搞定 javascript 正则表达式](https://juejin.im/post/5b6adc7ee51d4534b8587560)
 ### [出来混总是要还的-JS正则常用的有四种操作： 验证、切分、提取、替换](https://juejin.im/post/5bcd3703518825778c497908)
 ### [22分钟学会书写正则](https://segmentfault.com/a/1190000016964825)
+## [正则表达式详解及实战](https://juejin.im/post/5bf174396fb9a049ca36f13d)
