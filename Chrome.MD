@@ -3,3 +3,4 @@
 ### [如何使用原生 JavaScript 构建简单的 Chrome 扩展程序](https://juejin.im/post/5b98a58b6fb9a05cec4d92e0)
 ### [网站性能调优开发工具: Lighthouse, Puppeteer 以及进阶部分丨 Google 开发者大会 2018](https://juejin.im/post/5ba73d1de51d450e551a0d08)
 ### [如何实现一个 鼠标点击特效的 chrome插件](https://juejin.im/post/5bea918c51882516b9377c4f)
+### [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
