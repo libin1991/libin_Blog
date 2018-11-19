@@ -8,3 +8,4 @@
 ### [浏览器缓存技术介绍](https://juejin.im/post/5b9346dcf265da0aac6fbe57)
 ### [http请求头与响应头的应用](https://juejin.im/post/5b854ddef265da43635d9302)
 ### [http缓存与cdn缓存配置指南](https://juejin.im/post/5be3f486e51d45053d5c38ca)
+### [浅谈浏览器缓存机制](https://juejin.im/post/5be4e76f5188250e8601b4a6)
