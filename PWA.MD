@@ -5,3 +5,4 @@
 ### [在Vue里用Service Worker来搞个中间层（React同理）](https://juejin.im/post/5b4017c1f265da0fb0184fae)
 ### [浅谈web前端的发展趋势PWA](https://juejin.im/post/5b440eeae51d4519195a9bd3)
 ### [[贝聊科技]PWA初探](https://juejin.im/post/5b751dabf265da28072f1833)
+### [浅谈PWA](https://juejin.im/post/5bed580cf265da6166240a1e)
