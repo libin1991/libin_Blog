@@ -9,3 +9,4 @@
 ### [http请求头与响应头的应用](https://juejin.im/post/5b854ddef265da43635d9302)
 ### [http缓存与cdn缓存配置指南](https://juejin.im/post/5be3f486e51d45053d5c38ca)
 ### [浅谈浏览器缓存机制](https://juejin.im/post/5be4e76f5188250e8601b4a6)
+### [浅聊HTTP缓存 (HTTP Cache)](https://juejin.im/post/5bf3c28ee51d4514df5b7625)
