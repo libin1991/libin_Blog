@@ -12,3 +12,4 @@
 ### [axios源码分析——取消请求 ](https://github.com/libin1991/libin_Blog/issues/575)
 ### [axios源码分析——拦截器](https://github.com/libin1991/libin_Blog/issues/574)
 ### [vue中Axios的封装和API接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
+## [前端实现文件下载和拖拽上传](https://juejin.im/post/5bf543d851882518eb1f5cc4)
