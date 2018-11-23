@@ -1,3 +1,4 @@
+### [二分查找、二分边界查找算法的模板代码总结](https://segmentfault.com/a/1190000016825704)
 ### 移动端关闭虚拟键盘
 ```
 document.activeElement.blur();
