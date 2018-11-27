@@ -7,3 +7,4 @@
 ### [VS Code书写vue项目配置 eslint+prettier 统一代码风格](https://juejin.im/post/5be5429de51d4511a808f4ac)
 ### [写给前端开发者不一样的VSCode配置(JS/React)](https://juejin.im/post/5bea48c4e51d454e5b5f19e8)
 ### [一个vue前端的VSCODE插件分享（2018）](https://juejin.im/post/5be53004f265da615b70f7a0)
+### [vscode下的vue文件格式化](https://juejin.im/post/5bfcdee25188251d9e0c40f2)
