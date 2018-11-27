@@ -10,3 +10,4 @@
 ### [http缓存与cdn缓存配置指南](https://juejin.im/post/5be3f486e51d45053d5c38ca)
 ### [浅谈浏览器缓存机制](https://juejin.im/post/5be4e76f5188250e8601b4a6)
 ### [浅聊HTTP缓存 (HTTP Cache)](https://juejin.im/post/5bf3c28ee51d4514df5b7625)
+### [f5到底刷新了点什么，你知道吗](https://juejin.im/post/5bfcd79e6fb9a04a08215cf3)
