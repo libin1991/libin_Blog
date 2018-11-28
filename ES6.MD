@@ -10,3 +10,4 @@
 ### [ES9已经来了 Are you ready?](https://juejin.im/post/5b685ed1e51d4533f52859e8)
 ### [ES6核心，值得驻足花一天时间来学习](https://juejin.im/post/5b6d6f8ae51d453509566974#heading-25)
 ### [ES6 系列之 Generator 的自动执行](https://juejin.im/post/5bc88f4ef265da0af1617162)
+### [ES6 完全使用手册](https://juejin.im/post/5bfe05505188252098022400#heading-52)
