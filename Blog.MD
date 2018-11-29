@@ -11,3 +11,4 @@
 # [某大厂面试题与解析（欢迎纠错，优化）](https://juejin.im/post/5be2fcd7f265da616d53aad0)
 # [kailian.github.io](http://kailian.github.io/)
 # [react + node + express + ant + mongodb 的简洁兼时尚的博客网站](https://juejin.im/post/5bf60810f265da6124151529)
+# [JavaScript深入之史上最全](https://juejin.im/post/5bfe8fc5e51d4514e0515b90)
