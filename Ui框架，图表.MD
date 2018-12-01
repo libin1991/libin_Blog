@@ -24,7 +24,7 @@
 ---
 ## weex
 ### [基于weex的有赞无线开发框架](https://juejin.im/post/5bd7feb85188257100456a85)
-
+### [Weex Eros快速入门](https://juejin.im/post/5c01f249e51d4566754074c2)
 ---
 ## charts
 ### [Vue.js 轻量级组件化 SVG 图表库](https://github.com/libin1991/laue)
