@@ -2,3 +2,4 @@
 ### [TouchEvent实现前端录音打分功能](https://juejin.im/post/5acec44451882579ef4f5654)
 ### [前端简洁并实用的工具类](https://juejin.im/post/5ad2d9a751882510fd401114)
 ### [JavaScript如何实现UTF-16编码转换为UTF-8编码——utfx.js源码解析](https://juejin.im/post/5ad35e3a6fb9a028c14ae93d)
+### [理解DOM到底是什么](https://juejin.im/post/5c01e2b051882518eb1f785a)
