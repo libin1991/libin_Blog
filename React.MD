@@ -46,3 +46,4 @@
 ## [高阶组件HOC + New Context API = ?](https://juejin.im/post/5bc40f4ef265da0af40735cb)
 ### [Context - React跨组件访问数据的利器](https://juejin.im/post/5be10e436fb9a04a053f21f5)
 ### [30分钟精通React今年最劲爆的新特性——React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014)
+### [React中，我们为什么需要写 super(props)？](https://juejin.im/post/5c034e0f6fb9a04a016410c6)
