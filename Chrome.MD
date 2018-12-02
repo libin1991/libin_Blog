@@ -5,3 +5,4 @@
 ### [如何实现一个 鼠标点击特效的 chrome插件](https://juejin.im/post/5bea918c51882516b9377c4f)
 ### [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 ### [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
+### [chrome devtools使用详解——Performance](https://juejin.im/post/5c009115f265da612859d8e2)
