@@ -1,4 +1,5 @@
 ### [React组件生命周期详解](https://juejin.im/post/5b077f04f265da0dc073caa6)
+### [react设计--他怎么知道是类组件还是函数组件](https://juejin.im/post/5c04bc0ae51d456888143973)
 ## [React Hooks 可以为我们带来什么，及为什么我觉得React才是前端的未来](https://juejin.im/post/5bdda5356fb9a049fe349570)
 ##  [当初要是看了这篇，React高阶组件早会了。](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484443&idx=1&sn=1c6e95022ab7ad96aa236bf667c26a0f&chksm=fbb58fd2ccc206c466144af329606a654d034f20e0504434b1e047790595f2dda7dc65970032&token=753322155&lang=zh_CN&rd2werd=1#wechat_redirect)
 ### [关于React面试题汇总](https://juejin.im/post/5b2215f76fb9a00e8f795cd1)
