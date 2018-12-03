@@ -15,3 +15,4 @@
 ### [Canvas环形倒计时组件](https://juejin.im/post/5beabe026fb9a049b829ff6f)
 ## [图片纯前端JS压缩的实现](https://juejin.im/post/5bec3c6cf265da614312a0fa)
 ## [用canvas实现一个vue弹幕组件](https://juejin.im/post/5bfe3f7c6fb9a04a0c2e250b)
+## [canvas压缩图片以及卡片制作](https://juejin.im/post/5c03bd0ce51d4524d9252e1e)
