@@ -6,3 +6,4 @@
 ## [Vue一个案例引发「动画」的使用总结](https://juejin.im/post/5bfcf3eaf265da61542d50e3)
 ### [在移动端使用vue-router和keep-alive](https://juejin.im/post/5c01f6f4e51d45551f2c0b6e)
 ## [用 vue + d3 画一棵树](https://juejin.im/post/5c039491e51d4529db2aa26e)
+## [如何在vue项目中优雅的使用SVG](https://juejin.im/post/5c049a28f265da61273d2317)
