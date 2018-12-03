@@ -49,3 +49,4 @@
 ### [30分钟精通React今年最劲爆的新特性——React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014)
 ### [React中，我们为什么需要写 super(props)？](https://juejin.im/post/5c034e0f6fb9a04a016410c6)
 ### [我们为什么要写 super(props)?](https://juejin.im/post/5c04fea5f265da6133565696)
+# [react设计--他怎么知道是类组件还是函数组件](https://juejin.im/post/5c04bc0ae51d456888143973)
