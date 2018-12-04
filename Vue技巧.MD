@@ -7,3 +7,4 @@
 ### [在移动端使用vue-router和keep-alive](https://juejin.im/post/5c01f6f4e51d45551f2c0b6e)
 ## [用 vue + d3 画一棵树](https://juejin.im/post/5c039491e51d4529db2aa26e)
 ## [如何在vue项目中优雅的使用SVG](https://juejin.im/post/5c049a28f265da61273d2317)
+### [vue中async-await的使用误区](https://juejin.im/post/5bfa4bb951882558ae3c171e#comment)
