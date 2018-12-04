@@ -6,3 +6,4 @@
 ### [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 ### [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
 ### [chrome devtools使用详解——Performance](https://juejin.im/post/5c009115f265da612859d8e2)
+### [Chrome 72 开发者工具新特性](https://juejin.im/post/5c06878c5188257c3045d003)
