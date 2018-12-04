@@ -7,3 +7,4 @@
 ### [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
 ### [chrome devtools使用详解——Performance](https://juejin.im/post/5c009115f265da612859d8e2)
 ### [Chrome 72 开发者工具新特性](https://juejin.im/post/5c06878c5188257c3045d003)
+### [[萌]chrome性能分析面板](https://juejin.im/post/5c05b95e6fb9a049e307dd37)
