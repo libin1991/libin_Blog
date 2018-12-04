@@ -1,4 +1,5 @@
 ### [前端练手小项目](https://github.com/libin1991/Web-Project)
+## [木易杨，网易高级前端工程师](https://github.com/yygmind/blog)
 ### [个人博客](https://github.com/chenjigeng/blog)
 ## [My-Code](https://github.com/HongqingCao/My-Code)
 ### [前端笔记](https://denzel.netlify.com/)
