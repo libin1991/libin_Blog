@@ -13,3 +13,4 @@
 ### [ES6 完全使用手册](https://juejin.im/post/5bfe05505188252098022400#heading-52)
 ### [ES6/ES7/ES8/ES9资料整理(个人整理)](https://juejin.im/post/5c02b106f265da61764aa0c1#heading-0)
 ### [JavaScript 遍历、枚举与迭代的骚操作（下篇）](https://juejin.im/post/5c07b764e51d450c457199f9)
+### [使用 ES6 Proxy 代理的一些问题记录](https://juejin.im/post/5c064a0ae51d451dce59ceed)
