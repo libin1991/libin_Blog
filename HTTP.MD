@@ -13,3 +13,4 @@
 ### [f5到底刷新了点什么，你知道吗](https://juejin.im/post/5bfcd79e6fb9a04a08215cf3)
 ## [缓存从入门到放弃](https://juejin.im/post/5bfe879a51882531b81b0891)
 ## [HTTP 缓存](https://aotu.io/notes/2016/09/22/http-caching/)
+### [作为前端的你了解多少tcp的内容](https://juejin.im/post/5c078058f265da611c26c235)
