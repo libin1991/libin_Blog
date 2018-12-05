@@ -1,4 +1,5 @@
 ### [20个Chrome DevTools调试技巧](https://blog.fundebug.com/2018/08/22/art-of-debugging-with-chrome-devtools/)
+### [Chrome 调试工具的一些高阶功能](http://eux.baidu.com/blog/fe/Chrome%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AB%98%E9%98%B6%E5%8A%9F%E8%83%BD)
 ### [chorme devtools使用详解——Elements篇](https://juejin.im/post/5b8e4820f265da438151b753)
 ### [如何使用原生 JavaScript 构建简单的 Chrome 扩展程序](https://juejin.im/post/5b98a58b6fb9a05cec4d92e0)
 ### [网站性能调优开发工具: Lighthouse, Puppeteer 以及进阶部分丨 Google 开发者大会 2018](https://juejin.im/post/5ba73d1de51d450e551a0d08)
