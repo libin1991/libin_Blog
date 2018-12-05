@@ -12,3 +12,4 @@
 ### [浅聊HTTP缓存 (HTTP Cache)](https://juejin.im/post/5bf3c28ee51d4514df5b7625)
 ### [f5到底刷新了点什么，你知道吗](https://juejin.im/post/5bfcd79e6fb9a04a08215cf3)
 ## [缓存从入门到放弃](https://juejin.im/post/5bfe879a51882531b81b0891)
+## [HTTP 缓存](https://aotu.io/notes/2016/09/22/http-caching/)
