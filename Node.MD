@@ -2,6 +2,7 @@
 ### [你不知道的Node.js性能优化](https://zhuanlan.zhihu.com/p/50055740)
 ## [Node中fs模块 API详解](https://juejin.im/post/5b9768b2e51d450e9942eb98)
 ### [七天学不会nodejs——流](https://juejin.im/post/5b54a7f95188251afc257dac)
+### [Node.js Streams 基础总结](https://juejin.im/post/5bf7b53c6fb9a04a06048354)
 ### [Node.js 中间件模式](https://juejin.im/post/5b1e3f28e51d4506bd72db7c)
 ### [express使用笔记](https://github.com/chyingp/Express-learning-guide)
 ### [Node.js中的事件循环（Event Loop），计时器（Timers）以及process.nextTick](https://github.com/libin1991/libin_Blog/issues/516)
