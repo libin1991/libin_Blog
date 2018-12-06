@@ -9,3 +9,4 @@
 ### [chrome devtools使用详解——Performance](https://juejin.im/post/5c009115f265da612859d8e2)
 ### [Chrome 72 开发者工具新特性](https://juejin.im/post/5c06878c5188257c3045d003)
 ### [[萌]chrome性能分析面板](https://juejin.im/post/5c05b95e6fb9a049e307dd37)
+### [浏览器开发者工具详解](https://juejin.im/post/5c08b1826fb9a049a81f1d49)
