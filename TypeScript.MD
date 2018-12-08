@@ -2,3 +2,4 @@
 ### [使用typescript+vue 编写电影信息小项目！](https://juejin.im/post/5bc2fd06e51d450e7903c783)
 ### [Typescript配合React实践](https://juejin.im/post/5bc49b59e51d450e5162d8ae)
 ### 5星级[Ts + React + Mobx 实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2)
+### [小邵教你玩转Typescript、ts版React全家桶脚手架](https://juejin.im/post/5c04d3f3f265da612e28649c#heading-13)
