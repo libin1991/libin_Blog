@@ -10,3 +10,4 @@
 ### [Chrome 72 开发者工具新特性](https://juejin.im/post/5c06878c5188257c3045d003)
 ### [[萌]chrome性能分析面板](https://juejin.im/post/5c05b95e6fb9a049e307dd37)
 ### [浏览器开发者工具详解](https://juejin.im/post/5c08b1826fb9a049a81f1d49)
+### [【译】你不知道的Chrome调试工具技巧 第一天：console中的'$'](https://juejin.im/post/5c09a80151882521c81168a2)
