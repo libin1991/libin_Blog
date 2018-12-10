@@ -1,5 +1,6 @@
 ### [ES6的Set和Map数据结构，由你制造](https://juejin.im/post/5acc57eff265da237f1e9f7c)
 ### [ES6中常用的10个新特性讲解](https://juejin.im/post/5b1d1fd6f265da6e410e137c)
+### [ES6面试、复习干货知识点汇总（全）](https://juejin.im/post/5c061ed2f265da61357258ee)
 ### [简单了解ES6/ES2015 Symbol() 方法](http://www.zhangxinxu.com/wordpress/2018/04/known-es6-symbol-function/)
 ### [你知道为什么会有 Generator 吗](https://juejin.im/post/5adae8246fb9a07aa541e150)
 ### [双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
