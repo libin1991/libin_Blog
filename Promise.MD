@@ -2,3 +2,4 @@
 ### [原生es6封装一个Promise对象](https://juejin.im/post/5bfc9e4ee51d451dca4794af)
 ### [TS 版 Promise 详解](https://juejin.im/post/5c010de86fb9a049b41c3285)
 ### [手写实现满足 Promise/A+ 规范的 Promise](https://juejin.im/post/5c0a3d696fb9a04a0604ad44)
+### [老生常谈-实现一个Promise](https://juejin.im/post/5c0dc1bd6fb9a049e06328f7)
