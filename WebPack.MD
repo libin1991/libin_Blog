@@ -23,3 +23,4 @@
 ## [webpack雪碧图生成](https://juejin.im/post/5bee2b1ce51d45787a4bc441)
 ## [webpack系列之一总览](https://juejin.im/post/5bf7c2186fb9a049fd0f7e8a)
 ## [从Webpack源码探究打包流程，萌新也能看懂～](https://juejin.im/post/5c0206626fb9a049bc4c6540)
+### [用于前端开发的webpack4配置[带注释]](https://juejin.im/post/5be45723e51d45305c2ceaf0)
