@@ -13,3 +13,4 @@
 ### [超详实Git简明教程与命令大全](https://juejin.im/post/5bd2a0d8e51d457a4e0d4fd5)
 ### [利用emoji让的 git commit 生动清晰起来](https://juejin.im/post/5bf8f5fe518825158c533e22#comment)
 ### [Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+### [花点时间顺顺Git（上）](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484483&idx=1&sn=db181ee210f9490379af3e4a74f0cde8&chksm=fbb58f8accc2069cbe9afda4fcf0222791aee3eefa56e3471d05f4ca7390464ea2ab66e472a0&token=942885247&lang=zh_CN&rd2werd=1#wechat_redirect)
