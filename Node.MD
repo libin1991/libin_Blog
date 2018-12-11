@@ -46,3 +46,4 @@
 ### [教你如何用node.js开发微信公众号（一）](https://juejin.im/post/5be3af8ae51d4554b54b0a0d)
 ## [Node.js 10 LTS 值得关注的特性](https://zhuanlan.zhihu.com/p/49429391)
 ## [【手把手撸一个脚手架】第一步, 创建第一个命令](https://juejin.im/post/5bead1b25188251e1a1f4d34)
+### [教你在Nodejs中如何获取当前函数被调用的行数及文件名](https://juejin.im/post/5c0f97dcf265da616f6fd065)
