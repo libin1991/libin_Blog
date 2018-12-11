@@ -4,6 +4,7 @@
 当超过10层后，有的机型是点击无反应，有的机型会出现一些未知错误
 ```
 ## [JavaScript数组所有API全解密](http://louiszhai.github.io/2017/04/28/array/#concat)
+## [JavaScript字符串所有API全解密](http://louiszhai.github.io/2016/01/12/js.String/)
 ### [二分查找、二分边界查找算法的模板代码总结](https://segmentfault.com/a/1190000016825704)
 ### [深度广度解析 call 和 apply 原理、使用场景及实现](https://juejin.im/post/5c060585e51d45480061b05f)
 ### 移动端关闭虚拟键盘
