@@ -4,3 +4,4 @@
 ### [JavaScript如何实现UTF-16编码转换为UTF-8编码——utfx.js源码解析](https://juejin.im/post/5ad35e3a6fb9a028c14ae93d)
 ### [理解DOM到底是什么](https://juejin.im/post/5c01e2b051882518eb1f785a)
 ### [ 只有 20 行的 JavaScript 模板引擎](https://juejin.im/post/5c0e5042f265da61524d3a43)
+### [JavaScript强制类型转换的抽象操作](https://juejin.im/post/5c0f3f885188257abf1d55ee)
