@@ -5,3 +5,4 @@
 ### [理解DOM到底是什么](https://juejin.im/post/5c01e2b051882518eb1f785a)
 ### [ 只有 20 行的 JavaScript 模板引擎](https://juejin.im/post/5c0e5042f265da61524d3a43)
 ### [JavaScript强制类型转换的抽象操作](https://juejin.im/post/5c0f3f885188257abf1d55ee)
+### [OMG,这些鲜为人知的JavaScript 特性！](https://segmentfault.com/a/1190000017303869#articleHeader3)
