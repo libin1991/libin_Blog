@@ -4,3 +4,4 @@
 ### [[译] 究竟什么是DOM？](https://juejin.im/post/5c0a2ea4f265da616c656ace)
 ### [移动端页面自定义input唤起键盘return，换行键为搜索](https://juejin.im/post/5c09ec23518825653a233a38)
 ### [移动端适配总结](https://juejin.im/post/5c0dd7ac6fb9a049c43d7edc)
+### [DOM操作成本到底高在哪儿？](https://juejin.im/post/5c1069a16fb9a049e0632fb6)
