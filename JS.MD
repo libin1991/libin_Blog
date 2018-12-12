@@ -6,3 +6,4 @@
 ### [ 只有 20 行的 JavaScript 模板引擎](https://juejin.im/post/5c0e5042f265da61524d3a43)
 ### [JavaScript强制类型转换的抽象操作](https://juejin.im/post/5c0f3f885188257abf1d55ee)
 ### [OMG,这些鲜为人知的JavaScript 特性！](https://segmentfault.com/a/1190000017303869#articleHeader3)
+### [JS单行、多行文本字符去重和行去重](https://juejin.im/post/5c10b53f6fb9a049c9658940)
