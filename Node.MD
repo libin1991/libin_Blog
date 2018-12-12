@@ -1,6 +1,7 @@
 ### [一点感悟：《Node.js学习笔记》star数突破1000+](https://juejin.im/post/5b1717a86fb9a01e3e5ce540)
 ### [你不知道的Node.js性能优化](https://zhuanlan.zhihu.com/p/50055740)
 ## [Node中fs模块 API详解](https://juejin.im/post/5b9768b2e51d450e9942eb98)
+## [将node.js的终端输出重定向到浏览器控制台中](https://blog.suisuijiang.com/node-js-console-log-redirect-to-browser/)
 ### [七天学不会nodejs——流](https://juejin.im/post/5b54a7f95188251afc257dac)
 ### [Node.js Streams 基础总结](https://juejin.im/post/5bf7b53c6fb9a04a06048354)
 ### [Node.js 中间件模式](https://juejin.im/post/5b1e3f28e51d4506bd72db7c)
