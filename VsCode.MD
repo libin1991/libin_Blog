@@ -9,3 +9,5 @@
 ### [一个vue前端的VSCODE插件分享（2018）](https://juejin.im/post/5be53004f265da615b70f7a0)
 ### [vscode下的vue文件格式化](https://juejin.im/post/5bfcdee25188251d9e0c40f2)
 ### [推荐一个很好用的vscode插件：一个可以给出vuex中store定义信息的vscode插件](https://juejin.im/post/5c0d14d9518825793d15c5a8)
+### [提高 JavaScript 开发效率的高级 VSCode 扩展](https://segmentfault.com/a/1190000017339754)
+### [提高效率的VScode插件](https://segmentfault.com/a/1190000012067159)
