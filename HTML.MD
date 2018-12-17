@@ -1,4 +1,5 @@
 ### [合适的meta，你选对了吗?](https://juejin.im/post/5c08bb31518825371057fcd0)
+## [js读取excel文件,绘制echarts图形---数据处理](https://juejin.im/post/5c15f3055188254caf189baf)
 ### [前端接受后端文件流并下载的几种方法](https://juejin.im/post/5c1610cae51d455c627a967e)
 ### [2018年前端面试总结](https://juejin.im/post/5bee888fe51d4557fe34e356)
 ### [Canvas 实现画中画动画效果--网易娱乐年度盘点H5动画解密](https://juejin.im/post/5bfbcb1e5188252e8966a298#comment)
