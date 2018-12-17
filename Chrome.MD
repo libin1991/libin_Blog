@@ -13,3 +13,4 @@
 ### [【译】你不知道的Chrome调试工具技巧 第一天：console中的'$'](https://juejin.im/post/5c09a80151882521c81168a2)
 ### [【译】你不知道的 Chrome 调试工具技巧 第九天：给 console 计时](https://juejin.im/post/5c11809ef265da61141c76f1)
 ### [【译】你不知道的 Chrome 调试工具技巧 第十二天：忍者日志打印！(the ninja logs)](https://juejin.im/post/5c16d943518825566d2365f3)
+### [一篇文章教你顺利入门和开发chrome扩展程序（插件）](https://juejin.im/post/5c135a275188257284143418)
