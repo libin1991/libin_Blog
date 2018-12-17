@@ -7,3 +7,4 @@
 ### [移动端适配总结](https://juejin.im/post/5c0dd7ac6fb9a049c43d7edc)
 ### [DOM操作成本到底高在哪儿？](https://juejin.im/post/5c1069a16fb9a049e0632fb6)
 ### [你（可能）不知道的web api](https://juejin.im/post/5c1606d9f265da613d7bf7a4)
+### [一个表情引发的思考](https://mp.weixin.qq.com/s?__biz=MzUxMDYxNTgwMA==&mid=2247484243&idx=1&sn=1a8c021816f01f22571fe659e4fc0d1a&chksm=f9010ac4ce7683d2a3452a5278f5528a5a6da8a54173c1ea32269396e79b2aa1b83b77d11dc2&token=1735694303&lang=zh_CN#rd)
