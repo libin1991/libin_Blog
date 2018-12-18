@@ -12,4 +12,5 @@
 ### [你（可能）不知道的web api](https://juejin.im/post/5c1606d9f265da613d7bf7a4)
 ### [一个表情引发的思考](https://mp.weixin.qq.com/s?__biz=MzUxMDYxNTgwMA==&mid=2247484243&idx=1&sn=1a8c021816f01f22571fe659e4fc0d1a&chksm=f9010ac4ce7683d2a3452a5278f5528a5a6da8a54173c1ea32269396e79b2aa1b83b77d11dc2&token=1735694303&lang=zh_CN#rd)
 ## [HTML5 Audio的兼容性问题和优化](https://mp.weixin.qq.com/s?__biz=MzUxMDYxNTgwMA==&mid=2247484212&idx=1&sn=561ecda7a649360239952fff0869fd75&chksm=f9010aa3ce7683b51da033148b6d98d76eefffb09a786cf62fef359f23fae221ff12b078fb6e&token=1735694303&lang=zh_CN#rd)
+## [HTML5中Audio使用踩坑汇总](https://juejin.im/post/5c17a2886fb9a049e7020593)
 ### [网页后退不刷新的N种解决方案](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/17)
