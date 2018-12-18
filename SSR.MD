@@ -9,3 +9,4 @@
 ### [Vue SSR（ Vue2 + Koa2 + Webpack4）配置指南](https://juejin.im/post/5be85c7af265da612909b436)
 ### [Vue 服务端渲染（SSR）、Nuxt.js - 从入门到实践](https://juejin.im/post/5be4e31ef265da616623f770#comment)
 ## [React 服务端渲染方案完美的解决方案](https://juejin.im/post/5bf3cb59f265da612b1336e2#comment)
+### [如何用 React 做服务端渲染](https://juejin.im/post/5c18c34ef265da615114ae78)
