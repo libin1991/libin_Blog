@@ -1,4 +1,5 @@
 ## [面试官问：你了解HTTP2.0吗？](https://juejin.im/post/5c0ce870f265da61171c8c66)
+### [网页后退不刷新的N种解决方案](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/17)
 ## [Post,Get接口傻傻分不清？](https://juejin.im/post/5c0e610be51d45707261b10a)
 ### [看图学HTTPS](http://blog.liuxuan.site/2018/05/21/learn_https_through_photos/)
 ### [从头到尾谈一下HTTPS](https://juejin.im/post/5b2a4d2951882574ba42123f)
