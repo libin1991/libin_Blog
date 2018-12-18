@@ -15,3 +15,4 @@
 ### [【译】你不知道的 Chrome 调试工具技巧 第十二天：忍者日志打印！(the ninja logs)](https://juejin.im/post/5c16d943518825566d2365f3)
 ### [一篇文章教你顺利入门和开发chrome扩展程序（插件）](https://juejin.im/post/5c135a275188257284143418)
 ### [Chrome插件开发先看这篇：如何实现一键上班赖皮](https://juejin.im/post/5c14e64a5188256e047d8e44)
+### [【译】你不知道的 Chrome 调试工具技巧 第十四天：其他快捷键~](https://juejin.im/post/5c18b375f265da614e2c02e1)
