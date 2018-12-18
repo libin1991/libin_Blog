@@ -1,4 +1,5 @@
 ## [Webpack揭秘——走向高阶前端的必经之路](https://juejin.im/post/5badd0c5e51d450e4437f07a#comment)
+## [webpack源码分析](https://juejin.im/post/5c1859745188254fef232ead)
 # [webpack4之splitchunksPlugin拆拆拆--项目实践](https://juejin.im/post/5c00916f5188254caf186f80)
 ## [webpack-tapable-0.2.8 源码分析](https://juejin.im/post/5c0f2953e51d451dd71e2f36)
 ### [值得了解的webpack高级技能](https://juejin.im/post/5aefc770f265da0b9c108c40)
