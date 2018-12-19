@@ -8,3 +8,4 @@
 ### [OMG,这些鲜为人知的JavaScript 特性！](https://segmentfault.com/a/1190000017303869#articleHeader3)
 ### [JS单行、多行文本字符去重和行去重](https://juejin.im/post/5c10b53f6fb9a049c9658940)
 ### [JavaScript骚操作之操作符](https://juejin.im/post/5c15dc47e51d457b00691be5)
+## [【译】JavaScript的工作原理：内存管理和4种常见的内存泄漏](https://juejin.im/post/5c1737876fb9a049c43d935c)
