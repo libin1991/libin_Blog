@@ -4,3 +4,4 @@
 ### [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
 ### [Eruda 一个被人遗忘的调试神器](https://juejin.im/post/5c15b7b7f265da613e2223c9)
 ### [慎用try catch](https://juejin.im/post/5c17dad7f265da611510b63f)
+### [驳《慎用 try catch》](https://juejin.im/post/5c199882f265da617464c745)
