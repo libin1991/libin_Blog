@@ -5,3 +5,4 @@
 ### [老生常谈-实现一个Promise](https://juejin.im/post/5c0dc1bd6fb9a049e06328f7)
 ### [面试高频点-Promise解析和实现](https://juejin.im/post/5c10d77ee51d4536425c852e)
 ### [前端杂谈: 如何实现一个 Promise?](https://juejin.im/post/5c121b82f265da612061b225)
+### [站住，你这个Promise！](https://juejin.im/post/5c179aad5188256d9832fb61)
