@@ -4,3 +4,4 @@
 ## [CPM - 轻量的NPM私有源程序搭建](https://juejin.im/post/5bf62141e51d4509cc6c9b0f)
 ### [npm私有库服务搭建及规范定制](https://juejin.im/post/5c184e2a5188257abf1d691c)
 ### [[译]635000 个 npm 包中我应该用哪个](https://juejin.im/post/5c1b5cabe51d4548ec65ce3b)
+## [npm使用技巧](https://juejin.im/post/5c1b0e55e51d4550442a31b1)
