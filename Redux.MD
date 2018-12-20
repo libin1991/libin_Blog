@@ -2,3 +2,5 @@
 ### [逐行阅读redux源码（二）combineReducers](https://juejin.im/post/5bebf227518825170d1aa30b)
 ### [redux 入门到实践](https://juejin.im/post/5c0e3ff6f265da61553aa8b6#heading-21)
 ### [深入浅出redux-middleware](https://juejin.im/post/5c0e61836fb9a049cd5408c2)
+### [为什么Redux 需要 reducers是纯函数？](https://juejin.im/post/5b7eb925f265da43445f63c6)
+### [为什么redux要返回一个新的state引发的血案](https://juejin.im/post/5c1b6925e51d455ac91d6bac)
