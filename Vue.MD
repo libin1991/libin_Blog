@@ -22,6 +22,7 @@
 ## [Vue.js中MVVM的原理和实现](https://juejin.im/post/5b2f0769e51d45589f46949e)
 ## [vuex指北](https://juejin.im/post/5b2fbb47e51d45589e7bd727)
 ## [vue项目中keep-alive的使用，从详情页返回列表时保存浏览位置](https://juejin.im/post/5b30854a51882574ac7856aa)
+### [VUE缓存：动态keep-alive](https://juejin.im/post/5c1cc517e51d45778a5c72c6)
 ### [用vue做项目的一些总结](https://juejin.im/post/5b1e2b01f265da6e494def6b)
 ### [你或许不知道Vue的这些小技巧](https://juejin.im/post/5b1230c1f265da6e603933ad)
 ### [Vue2.4组件间通信新姿势](http://shellming.com/2017/07/23/new-component-communication-methods-in-vue2_40/)
