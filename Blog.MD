@@ -1,4 +1,6 @@
 # [吊炸天简历http://resume.caodj.cn/](http://resume.caodj.cn/)
+### [吊炸天git@github.com:libin1991/resume.git](git@github.com:libin1991/resume.git)
+---
 ### [OBKoro1前端积累](http://obkoro1.com/web_accumulate/)
 # [全栈工程师自我修养](https://segmentfault.com/blog/jianshu)
 # [百度FEX](http://fex.baidu.com/)
