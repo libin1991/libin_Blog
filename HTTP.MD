@@ -21,3 +21,4 @@
 ### [浏览器缓存机制剖析](http://louiszhai.github.io/2017/04/07/http-cache/)
 ### [浅解强缓存和协商缓存](https://juejin.im/post/5c0891f35188252bf829dc47)
 ### [前端技术演进（二）：前端与协议](https://juejin.im/post/5c137ee0e51d4530e83576f7#heading-6)
+### [搞懂 HTTP 1.0 /1.1/2.0 协议差别 #18](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/18)
