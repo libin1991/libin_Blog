@@ -1,4 +1,5 @@
 # [吊炸天简历http://resume.caodj.cn/](http://resume.caodj.cn/)
+### [OBKoro1前端积累](http://obkoro1.com/web_accumulate/)
 # [全栈工程师自我修养](https://segmentfault.com/blog/jianshu)
 # [百度FEX](http://fex.baidu.com/)
 # [百度EUX](http://eux.baidu.com/)
