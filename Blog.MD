@@ -1,3 +1,4 @@
+# [吊炸天简历http://resume.caodj.cn/](http://resume.caodj.cn/)
 # [全栈工程师自我修养](https://segmentfault.com/blog/jianshu)
 # [百度FEX](http://fex.baidu.com/)
 # [百度EUX](http://eux.baidu.com/)
