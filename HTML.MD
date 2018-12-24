@@ -1,4 +1,6 @@
 ### [合适的meta，你选对了吗?](https://juejin.im/post/5c08bb31518825371057fcd0)
+### [你应该要知道的重绘与重排](https://juejin.im/post/5c0c7f28f265da612e2875de)
+### [浏览器重绘(reflow)重排(repaint)与优化[浏览器机制]](https://juejin.im/post/5c15f797f265da61141c7f86)
 ## [js如何读取excel文件，绘制echarts图形。](https://juejin.im/post/5c15e1a6e51d4571a1577973)
 ## [js读取excel文件,绘制echarts图形---数据处理](https://juejin.im/post/5c15f3055188254caf189baf)
 ### [前端接受后端文件流并下载的几种方法](https://juejin.im/post/5c1610cae51d455c627a967e)
