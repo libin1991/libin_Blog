@@ -1,4 +1,5 @@
 ## [JavaScript模块化原理浅析](https://juejin.im/post/5c1083186fb9a049ec6aed5e)
+## [如何在 ES5 环境下实现一个const ？](https://juejin.im/post/5c2042e95188255e9b620964)
 ### [ES6的Set和Map数据结构，由你制造](https://juejin.im/post/5acc57eff265da237f1e9f7c)
 ### [ES6中常用的10个新特性讲解](https://juejin.im/post/5b1d1fd6f265da6e410e137c)
 ### [ES6面试、复习干货知识点汇总（全）](https://juejin.im/post/5c061ed2f265da61357258ee)
