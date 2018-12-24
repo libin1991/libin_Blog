@@ -11,3 +11,4 @@
 ### [推荐一个很好用的vscode插件：一个可以给出vuex中store定义信息的vscode插件](https://juejin.im/post/5c0d14d9518825793d15c5a8)
 ### [提高 JavaScript 开发效率的高级 VSCode 扩展](https://segmentfault.com/a/1190000017339754)
 ### [提高效率的VScode插件](https://segmentfault.com/a/1190000012067159)
+### [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
