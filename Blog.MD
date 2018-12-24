@@ -1,5 +1,5 @@
 # [吊炸天简历http://resume.caodj.cn/](http://resume.caodj.cn/)
-### [吊炸天git@github.com:libin1991/resume.git](git@github.com:libin1991/resume.git)
+### [吊炸天git@github.com:libin1991/resume.git](https://github.com/libin1991/resume)
 
 ---
 ### [OBKoro1前端积累](http://obkoro1.com/web_accumulate/)
