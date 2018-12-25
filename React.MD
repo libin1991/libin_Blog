@@ -1,4 +1,5 @@
 ### [React组件生命周期详解](https://juejin.im/post/5b077f04f265da0dc073caa6)
+### [React 路由和 React 组件的爱恨情仇,回到顶部](https://juejin.im/post/5c2217abe51d4570f1453cad)
 ### [react设计--他怎么知道是类组件还是函数组件](https://juejin.im/post/5c04bc0ae51d456888143973)
 ### [React 是如何分辨函数式组件和类组件的？](https://juejin.im/post/5c0fa1755188257e2a7b4538#comment)
 ### [[译] React 是如何区分 Class 和 Function 的 ?](https://juejin.im/post/5c088c4ce51d451d8b7bd8de)
