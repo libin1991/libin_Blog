@@ -1,5 +1,6 @@
 ### [移动端 web 开发的设计稿与工作流](https://juejin.im/post/5c072b586fb9a049f06a09e7)
 ### [你该知道的《css揭秘》--背景与边框条纹篇](https://juejin.im/post/5c1f9a7e5188252ea66b4044#heading-4)
+### [你该知道的《css揭秘》--形状篇,切角](https://juejin.im/post/5c20bf74e51d4550442a4ecd)
 ## [【译】22个必备的CSS小技巧](https://juejin.im/post/5c1101875188257afc713809)
 ### [你可能不知道的 CSS —— CSS规范阅读分享](https://juejin.im/post/5c2058886fb9a049a711d2d7)
 ### [CSS变量在前端复杂布局和交互上的探索](https://juejin.im/post/5c1bb250e51d453af43abe80)
