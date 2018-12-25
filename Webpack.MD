@@ -3,6 +3,7 @@
 ## [Webpack揭秘——走向高阶前端的必经之路](https://juejin.im/post/5badd0c5e51d450e4437f07a#comment)
 ## [webpack源码分析](https://juejin.im/post/5c1859745188254fef232ead)
 # [webpack4之splitchunksPlugin拆拆拆--项目实践](https://juejin.im/post/5c00916f5188254caf186f80)
+### [webpack.optimize.CommonsChunkPlugin 详解](https://juejin.im/post/5c2205e15188257507558c5a#comment)
 ## [webpack-tapable-0.2.8 源码分析](https://juejin.im/post/5c0f2953e51d451dd71e2f36)
 ### [值得了解的webpack高级技能](https://juejin.im/post/5aefc770f265da0b9c108c40)
 ## [基于webpack4[.3+]构建可预测的持久化缓存方案[5星级]](https://juejin.im/post/5b977a19f265da0ac4469057)
