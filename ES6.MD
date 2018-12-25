@@ -19,3 +19,4 @@
 ### [使用 ES6 Proxy 代理的一些问题记录](https://juejin.im/post/5c064a0ae51d451dce59ceed)
 ### [菜鸟也谈js（一）——ES6解构对象篇](https://juejin.im/post/5c0b1aaa6fb9a049c30b0ee5)
 ### [ES6 Symbol之浅入解读😂](https://juejin.im/post/5c124eb76fb9a049ee8054c6)
+### [深入理解Javascript之Module](https://juejin.im/post/5c20f3cee51d450d9706f65d)
