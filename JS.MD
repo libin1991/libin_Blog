@@ -13,3 +13,4 @@
 ### [JS与内存](https://juejin.im/post/5c189120f265da611204f194)
 ## [深度剖析0.1 +0.2===0.30000000000000004的原因](https://juejin.im/post/5c023084f265da613e21fb54)
 ## [如何解决0.1 +0.2===0.30000000000000004类问题](https://juejin.im/post/5c05dbfb5188251da07df3bc)
+### [JS中如何理解浮点数？](https://juejin.im/post/5c22fcbe6fb9a049ba419d4c)
