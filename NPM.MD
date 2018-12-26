@@ -6,3 +6,4 @@
 ### [[译]635000 个 npm 包中我应该用哪个](https://juejin.im/post/5c1b5cabe51d4548ec65ce3b)
 ## [npm使用技巧](https://juejin.im/post/5c1b0e55e51d4550442a31b1)
 ### [package.json的所有配置项及其用法，你都熟悉么](https://juejin.im/post/5c21847ef265da6143131652)
+### [极简NPM指南与常用命令](https://juejin.im/post/5c2328e7e51d4516da711843)
