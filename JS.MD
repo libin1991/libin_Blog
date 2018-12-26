@@ -11,3 +11,5 @@
 ## [【译】JavaScript的工作原理：内存管理和4种常见的内存泄漏](https://juejin.im/post/5c1737876fb9a049c43d935c)
 ### [JavaScript防抖节流原理](http://blog.poetries.top/2018/12/21/js-debounce/#at?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 ### [JS与内存](https://juejin.im/post/5c189120f265da611204f194)
+## [深度剖析0.1 +0.2===0.30000000000000004的原因](https://juejin.im/post/5c023084f265da613e21fb54)
+## [如何解决0.1 +0.2===0.30000000000000004类问题](https://juejin.im/post/5c05dbfb5188251da07df3bc)
