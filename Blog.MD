@@ -2,6 +2,9 @@
 ### [https://qishaoxuan.github.io/css_tricks/](https://qishaoxuan.github.io/css_tricks/)
 ### [前端蜗牛路](https://ggwork.github.io/)
 ---
+## JS
+### [https://qishaoxuan.github.io/js_tricks/](https://qishaoxuan.github.io/js_tricks/)
+---
 # [吊炸天简历http://resume.caodj.cn/](http://resume.caodj.cn/)
 ### [吊炸天git@github.com:libin1991/resume.git](https://github.com/libin1991/resume)
 ### [http://alloween.top/](http://alloween.top/)
