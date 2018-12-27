@@ -9,3 +9,6 @@
 ### [22分钟学会书写正则](https://segmentfault.com/a/1190000016964825)
 ## [正则表达式详解及实战](https://juejin.im/post/5bf174396fb9a049ca36f13d)
 ### [浅谈JavaScript正则表达式](https://juejin.im/post/5c203a49e51d455de377202b#heading-16)
+### [高亮：单关键词、多关键词、多组多关键词，从简单到复杂实现满足多方面需求的页面关键词高亮](https://juejin.im/post/5c2434856fb9a049f362269f#heading-33)
+### [JavaScript实现段落文本高亮](https://www.cnblogs.com/libo0125ok/p/7810982.html)
+### [javascript 查找文本并高亮显示](https://www.cnblogs.com/joyho/articles/3510388.html)
