@@ -21,3 +21,4 @@
 ### [ES6 Symbol之浅入解读😂](https://juejin.im/post/5c124eb76fb9a049ee8054c6)
 ### [深入理解Javascript之Module](https://juejin.im/post/5c20f3cee51d450d9706f65d)
 ### [继承 JavaScript 类中的静态属性](https://juejin.im/post/5c2217fc6fb9a049b348039d)
+### [浅谈class私有变量](https://juejin.im/post/5c25faf3f265da61380f4b17)
