@@ -18,3 +18,4 @@
 ## [HTML5中Audio使用踩坑汇总](https://juejin.im/post/5c17a2886fb9a049e7020593)
 ### [网页后退不刷新的N种解决方案](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/17)
 ### [又双叒叕是一个动态简历](https://juejin.im/post/5c1fd3f1f265da61171cb8bf)
+### [也许你对 Fetch 了解得不是那么多（上）](https://juejin.im/post/5c2715ae6fb9a049a42f209f)
