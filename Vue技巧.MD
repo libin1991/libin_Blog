@@ -10,3 +10,4 @@
 ### [vue中async-await的使用误区](https://juejin.im/post/5bfa4bb951882558ae3c171e#comment)
 ### [vue权限路由实现方式总结二](https://juejin.im/post/5c0b2130f265da615c5913d9)
 ### [vue组件的那点事](https://juejin.im/post/5c1304645188257c3045eb12#heading-4)
+### [关于v-for的一点小总结](https://juejin.im/post/5c2746b4e51d450d50306db2)
