@@ -8,3 +8,4 @@
 ### [站住，你这个Promise！](https://juejin.im/post/5c179aad5188256d9832fb61)
 ### [Promise 源码分析](https://juejin.im/post/5c1cb4b0e51d455fb3109f48)
 ### [面试官眼中的Promise](https://juejin.im/post/5c233a8ee51d450d5a01b712)
+### [实现一个Promise(基于Promise/A+规范)](https://juejin.im/post/5c2b34a15188257abf1d96eb)
