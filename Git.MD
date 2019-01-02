@@ -1,5 +1,6 @@
 ### [上传项目到 GitHub：如何用同一个 github 帐号在两台电脑上同步开发？/ 如何协同开发？](https://blog.csdn.net/zeqiao/article/details/75124532)
 ### [码云代码克隆检测工具](https://copycat.gitee.com/)
+### [打开Git的正确姿势](https://juejin.im/post/5c2743f7e51d45673971ce6c)
 ### [Git 必知必会](https://zhuanlan.zhihu.com/p/30355251)
 ### [Git 详细教程](https://juejin.im/entry/59b22efb6fb9a024a04b3726#_label3_2_3_2)
 ### [更优雅的使用 Git](https://juejin.im/post/5af152c1518825673e359539)
