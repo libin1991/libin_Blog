@@ -9,6 +9,7 @@
 ### [多端统一开发框架 Taro 1.0 正式发布](https://juejin.im/post/5ba2222be51d450e8a65fd4a)
 ### [一只基于Vue2.x的移动端&微信UI。 -YDUI Touch](http://vue.ydui.org/)
 ### [🥒 黄瓜 UI: 一个即插即用的 React 组件库](https://juejin.im/post/5c233564e51d455d382ebeaa#comment)
+### [uni-app 1.4 发布，一套代码，发行小程序（微信/支付宝/百度）、H5、App多个平台](https://juejin.im/post/5c2dc4aef265da612c5e02d7)
 ---
 ## PC
 ### [https://2ue.github.io/vui/#/select](https://2ue.github.io/vui/#/select)
