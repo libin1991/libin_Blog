@@ -16,6 +16,7 @@
 ### [https://github.com/museui/muse-ui](https://github.com/museui/muse-ui)
 ### [HeyUI](https://github.com/heyui/heyui)
 ### [vue-ydui](https://github.com/libin1991/vue-ydui)
+### [不厌其烦，又一个Vue组件库](https://juejin.im/post/5c2cc6616fb9a049b07d765a)
 ---
 
 ## 框架
