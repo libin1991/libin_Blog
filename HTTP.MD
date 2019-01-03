@@ -26,3 +26,4 @@
 ### [前端技术演进（二）：前端与协议](https://juejin.im/post/5c137ee0e51d4530e83576f7#heading-6)
 ### [搞懂 HTTP 1.0 /1.1/2.0 协议差别 #18](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/18)
 ### [深入浅出HTTPS工作原理](https://juejin.im/post/5c1913a46fb9a049db73119a)
+### [前端必知必会HTTP请求系列](https://juejin.im/post/5c2db028f265da61273d8186)
