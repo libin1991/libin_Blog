@@ -6,3 +6,4 @@
 ### [为什么redux要返回一个新的state引发的血案](https://juejin.im/post/5c1b6925e51d455ac91d6bac)
 ### [使用react-hook 重写 react-redux](https://juejin.im/post/5c230aa2e51d4529355bc2e0)
 ### [React的上下文-Context](https://juejin.im/post/5c2c99d0f265da61736a65be)
+### [彻彻底底教会你使用Redux-saga(包含样例代码)](https://segmentfault.com/a/1190000015583055)
