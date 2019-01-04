@@ -1,4 +1,5 @@
 ### [「Vue」与「React」--使用上的区别](https://juejin.im/post/5c2de832f265da6172659b45#heading-4)
+### [利用 JavaScript Profiler 分析 Vue 性能问题](https://juejin.im/post/5c2ebae16fb9a049be5d9e49)
 ### [奇技淫巧 - Vue Mixins 高级组件 与 Vue HOC 高阶组件 实践](https://juejin.im/post/5c08c6ac6fb9a04a0e2cfe0a#comment)
 ### [Vue实现函数防抖组件](https://juejin.im/post/5c2dc7a9e51d4573c8491e77)
 ### [以vue组件或者插件的形式，实现throttle或者debounce](https://juejin.im/post/5c18a7b7f265da61553ac179)
