@@ -12,3 +12,4 @@
 ### [高亮：单关键词、多关键词、多组多关键词，从简单到复杂实现满足多方面需求的页面关键词高亮](https://juejin.im/post/5c2434856fb9a049f362269f#heading-33)
 ### [JavaScript实现段落文本高亮](https://www.cnblogs.com/libo0125ok/p/7810982.html)
 ### [javascript 查找文本并高亮显示](https://www.cnblogs.com/joyho/articles/3510388.html)
+### [正则实现数组滤重](https://juejin.im/post/5c2f0220e51d455023415955)
