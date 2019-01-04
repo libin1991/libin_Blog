@@ -19,3 +19,4 @@
 ### [花点时间顺顺Git（下）](https://mp.weixin.qq.com/s/K7004_PVFW0kj8vcFh0s6Q)
 ### [Gitlab-CI 初级篇 - Gitlab Runner](https://juejin.im/post/5c227af6e51d452baa77d473)
 ### [git rebase](https://yrq110.me/post/tool/git-rebase-submodule-and-flow/)
+# [关于高效、高质和高产](https://juejin.im/post/5c2f2fd66fb9a049ff4e43f0)
