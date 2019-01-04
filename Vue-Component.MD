@@ -9,3 +9,4 @@
 ### [弹弹弹，弹走鱼尾纹的弹出菜单（vue）](https://juejin.im/post/5b976bfcf265da0ac372ef14)
 ### [在Vue3.0之前，回顾Vue2.0新特性的使用](https://juejin.im/post/5c204c98e51d454637699e33)
 ### [通过几个问题深入浅出Vue](https://juejin.im/post/5c206fb8f265da61141c9c89)
+### [（译）函数式组件在Vue.js中的运用](https://juejin.im/post/5c2d7030f265da613a54236f)
