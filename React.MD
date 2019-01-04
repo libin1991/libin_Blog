@@ -63,4 +63,4 @@
 ## [React-router4(新版)源码浅析](https://juejin.im/post/5c1b376ff265da614273db13)
 ### [React组件的State](https://juejin.im/post/5c1c87246fb9a049d747aa0a)
 ### [你可能不知道的React高级用法🔥（一）](https://juejin.im/post/5c26c7f7e51d4511fb7da3ca)
-## [html里列表滑动删除的实现如此简单](https://juejin.im/post/5c2f270d6fb9a049ea3916c3)
+## [html里列表左滑动删除的实现如此简单](https://juejin.im/post/5c2f270d6fb9a049ea3916c3)
