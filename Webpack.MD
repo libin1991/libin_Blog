@@ -35,3 +35,4 @@
 ## [webpack性能榨汁机](https://juejin.im/post/5c1c92276fb9a04a102f4254)
 ### [Webpack 是怎样运行的？(一)](https://juejin.im/post/5c2331fd6fb9a04a0a5f3a96#heading-2)
 ### [webpack系列之二Tapable](https://juejin.im/post/5c25f920e51d45593b4bc719)
+### [JavaScript性能优化之tree-shaking](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490230&idx=1&sn=7c407256e1d144631ea143f593311153&chksm=f951aff5ce2626e3c362361ac5473dcc231ffee12c8e5e9e34fd5b9b664b2cce3122b517e992&mpshare=1&scene=1&srcid=0106DfqJpO0QezcItmI4zZkl#rd)
