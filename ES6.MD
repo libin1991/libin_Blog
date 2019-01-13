@@ -22,3 +22,4 @@
 ### [深入理解Javascript之Module](https://juejin.im/post/5c20f3cee51d450d9706f65d)
 ### [继承 JavaScript 类中的静态属性](https://juejin.im/post/5c2217fc6fb9a049b348039d)
 ### [浅谈class私有变量](https://juejin.im/post/5c25faf3f265da61380f4b17)
+### [使用ES6的新特性Proxy来实现一个数据绑定实例](https://juejin.im/post/5c34a86a6fb9a049f81976d8)
