@@ -26,3 +26,4 @@
 ## [在单页应用中，如何优雅的监听url的变化](https://juejin.im/post/5c26ec2f51882501cd6f497a)
 ### [浏览器渲染原理（性能优化之如何减少重排和重绘）](https://juejin.im/post/5c35cf62f265da615e05a67d)
 # [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
+### [二进制数组实战 - 纯前端导出Excel文件](https://juejin.im/post/5c31a5086fb9a04a102f6f50)
