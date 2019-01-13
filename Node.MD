@@ -50,3 +50,4 @@
 ## [Node.js 10 LTS 值得关注的特性](https://zhuanlan.zhihu.com/p/49429391)
 ## [【手把手撸一个脚手架】第一步, 创建第一个命令](https://juejin.im/post/5bead1b25188251e1a1f4d34)
 ### [教你在Nodejs中如何获取当前函数被调用的行数及文件名](https://juejin.im/post/5c0f97dcf265da616f6fd065)
+### [在Node.js中发起HTTP请求的5种方法](https://juejin.im/post/5c35775f6fb9a049c6440789)
