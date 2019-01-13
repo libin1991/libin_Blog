@@ -6,3 +6,4 @@
 ### [js-xlsx + handsontable + echarts实现excel上传编辑然后显示成图表](https://juejin.im/post/5b924d096fb9a05cf67a6971)
 ### [Vue实现导出excel表格](https://juejin.im/post/5abb7855518825555d475215)
 ### [前端实现导出数据到excel文件](https://blog.csdn.net/github_36704158/article/details/78145732)
+### [js 实现纯前端将数据导出excel两种方式，亲测有效](https://blog.csdn.net/hhzzcc_/article/details/80419396)
