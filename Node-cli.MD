@@ -3,3 +3,4 @@
 ### [教你从零开始搭建一款前端脚手架工具](https://juejin.im/post/5c237d1a5188256b9e0f21e1)
 ### [用node开发并发布一个cli工具](https://juejin.im/post/5c2c6eb4e51d452626299036)
 ## [Node.js项目配置文件教程](https://www.2cto.com/kf/201710/690294.html)
+### [脚手架的开发总结](https://juejin.im/post/5c36f2f86fb9a049ea3925dd)
