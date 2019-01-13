@@ -9,3 +9,4 @@
 ### [Service Worker学习与实践（二）——PWA简介](https://github.com/xingbofeng/xingbofeng.github.io/issues)
 ### [深入理解 PWA](https://juejin.im/post/5c07493951882516cd70d213)
 ### [[译]前端离线指南（上）](https://juejin.im/post/5c0788a65188250808259ae4)
+### [利用ServiceWorker实现页面的快速加载和离线访问](https://juejin.im/post/5c36b6f76fb9a04a0d570c62)
