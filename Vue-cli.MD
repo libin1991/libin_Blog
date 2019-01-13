@@ -2,3 +2,4 @@
 ### [webpack build后生成的app、vendor、manifest三者有何职能不同？](https://juejin.im/post/5c17b9805188251e663ec239)
 ### [为vue的项目添加单元测试](https://juejin.im/post/5c17a4bd6fb9a049fb4392f2)
 ### [Vue CLI 3.0脚手架如何在本地配置mock数据](https://www.modenng.com/2018/11/27/vue-mock/)
+### [【vue-cli3升级】老项目提速50%（一）](https://juejin.im/post/5c395e7a51882523995dfc16)
