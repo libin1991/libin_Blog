@@ -40,6 +40,7 @@
 ---
 ## 小程序
 ### [Taro + 小程序云开发实战](https://juejin.im/post/5bd7f93f6fb9a05cff326537)
+### [在小程序中使用 React with Hooks](https://juejin.im/post/5c3bea2651882523785596a0)
 ---
 
 ## API
