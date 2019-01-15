@@ -8,3 +8,4 @@
 ## [在控制台使用debugger断点调试移动端h5页面的js代码](https://www.mobiledebug.com/Help/debugger.shtml)
 ## [https://www.mobiledebug.com/](https://www.mobiledebug.com/)
 ### [【译】远程调试 iOS Safari](http://scarletsky.github.io/2019/01/10/wireless-remote-debugging-with-safari-on-ios/)
+### [如何优雅地查看 JS 错误堆栈？](https://juejin.im/post/5c3d5929f265da6174650f93)
