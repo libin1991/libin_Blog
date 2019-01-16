@@ -5,3 +5,4 @@
 ### [小邵教你玩转Typescript、ts版React全家桶脚手架](https://juejin.im/post/5c04d3f3f265da612e28649c#heading-13)
 ## [关于依赖注入（typescript）](https://juejin.im/post/5c16004ae51d45485a098ef8)
 ### [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
+### [2.TypeScript 基础入门（二）](https://juejin.im/post/5c3eca17f265da61461e6707)
