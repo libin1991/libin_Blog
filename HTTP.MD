@@ -30,3 +30,4 @@
 ### [前端必知必会HTTP请求系列](https://juejin.im/post/5c2db028f265da61273d8186)
 ### [海绵宝宝也懂的HTTPS](https://juejin.im/post/5c341549e51d45524860cf99)
 ## [从前端角度理解缓存](https://juejin.im/post/5c4044cd51882524f23032eb)
+### [浅谈HTTP之URL](https://juejin.im/post/5c402c85f265da611b589a82)
