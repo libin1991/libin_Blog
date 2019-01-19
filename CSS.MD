@@ -1,4 +1,5 @@
 ## [(?<=p)与:nth-child()的相似性分析](https://juejin.im/post/5c2da434e51d45467145251a#heading-6)
+## [实现一个回到顶部CSS tab选项卡](https://libin1991.github.io/2017/11/16/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%9B%9E%E5%88%B0%E9%A1%B6%E9%83%A8/)
 ### [【译】CSS Shapes 简介,CSS 文字环绕](https://juejin.im/post/5c3740efe51d455211594993)
 # [CSS 动作路径标准 Motion Path 简介](https://juejin.im/post/5c35ead4f265da614171c3bb)
 ### [移动端 web 开发的设计稿与工作流](https://juejin.im/post/5c072b586fb9a049f06a09e7)
@@ -107,3 +108,5 @@ class,属性选择器和伪类选择器，权重:10;
 ### [炫酷的柱状图滑动效果](https://juejin.im/post/5c1ee0d8e51d4548ac6f5c42)
 ### [炫酷的圆环加载及数字滚动效果（下）](https://juejin.im/post/5c1d04f86fb9a049e231fe19)
 ### [不可思议的纯 CSS 滚动进度条效果](https://juejin.im/post/5c35953ce51d45523f04b6d2)
+### [CSS Scroll Indicator —— 纯CSS 滚动指示器,顶部进度条](https://juejin.im/post/59bc84936fb9a00a652af5a4)
+### [19个CSS level 4 选择器](https://juejin.im/post/5c42c657e51d4551ec60c283)
