@@ -1,4 +1,5 @@
 ## [面试官问：你了解HTTP2.0吗？](https://juejin.im/post/5c0ce870f265da61171c8c66)
+### [前端之浏览器缓存，一次搞定](https://juejin.im/post/5c417993f265da61285a6075)
 ### [深入研究：HTTP2 的真正性能到底如何](https://juejin.im/post/5c2cba45e51d455fb310e18b)
 ### [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
 ## [Post,Get接口傻傻分不清？](https://juejin.im/post/5c0e610be51d45707261b10a)
