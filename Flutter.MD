@@ -3,3 +3,4 @@
 ### [手把手教你编译Flutter engine](https://juejin.im/post/5c24acd5f265da6164141236)
 ### [如何实现一个简单的雨滴动画？手把手告诉你](https://juejin.im/post/5c24a5acf265da613572a294)
 ### [Flutter 44集免费基础视频教程](https://juejin.im/post/5c452bac6fb9a049af6d919a)
+### [用前端 最舒服的躺姿 "搞定" Flutter （组件篇）](https://juejin.im/post/5c41af466fb9a04a0e2d7d51)
