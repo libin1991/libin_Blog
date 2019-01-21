@@ -22,3 +22,4 @@ setTimeout(function () {
 ### [hey，你的Event Loop](https://juejin.im/post/5b63b4cb6fb9a04fb4017f5a)
 ### [麻烦把JS的事件环给我安排一下！！！](https://juejin.im/post/5b69b07d6fb9a04f86065596)
 ### [JavaScript运行机制：event-loop](https://juejin.im/post/5b6aea43f265da0f894b956b)
+### [一次弄懂Event Loop（彻底解决此类面试问题）](https://juejin.im/post/5c3d8956e51d4511dc72c200)
