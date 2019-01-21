@@ -8,3 +8,4 @@
 ### [package.json的所有配置项及其用法，你都熟悉么](https://juejin.im/post/5c21847ef265da6143131652)
 ### [极简NPM指南与常用命令](https://juejin.im/post/5c2328e7e51d4516da711843)
 ### [不敢阅读 npm 包源码？带你揭秘 taro init 背后的哲学](https://juejin.im/post/5c21f4e5f265da61117a54a0#comment)
+## [pkg版本规范管理自动化最佳实践](https://juejin.im/post/5c4454146fb9a04a0164a289)
