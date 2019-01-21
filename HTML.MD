@@ -29,3 +29,4 @@
 # [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
 ### [二进制数组实战 - 纯前端导出Excel文件](https://juejin.im/post/5c31a5086fb9a04a102f6f50)
 ## [开源 UI 库中，唯一同时实现了大表格虚拟化和树表格的 Table 组件](https://juejin.im/post/5c41543a51882525da2656f9)
+## [优化关键渲染路径](https://juejin.im/post/5c458bb9e51d4551e653aeb6)
