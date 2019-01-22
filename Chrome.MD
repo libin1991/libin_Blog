@@ -17,3 +17,4 @@
 ### [Chrome插件开发先看这篇：如何实现一键上班赖皮](https://juejin.im/post/5c14e64a5188256e047d8e44)
 ### [【译】你不知道的 Chrome 调试工具技巧 第十四天：其他快捷键~](https://juejin.im/post/5c18b375f265da614e2c02e1)
 ### [【译】你不知道的 Chrome 调试工具技巧 第十三天：对象 & 方法](https://juejin.im/post/5c18b2d66fb9a049d235fc82)
+### [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
