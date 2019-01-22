@@ -23,3 +23,4 @@
 ### [Web数据可视化-手把手教你实现热力图](https://juejin.im/post/5c37ed836fb9a049d81c0f82)
 ## [前端庆祝节日的方法](https://juejin.im/post/5c2b766051882575f560553b)
 ### [又双叒叕是一个 canvas 动画](https://juejin.im/post/5c460109e51d4505171c7001)
+### [解锁canvas导出图片跨域的N种姿势～](https://juejin.im/post/5c46b58cf265da617265c876)
