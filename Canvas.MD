@@ -1,4 +1,5 @@
 ### [使用 Canvas 生成公众号头图](https://juejin.im/post/5b72d73ee51d4566205fe67b)
+# [Canvas实用库Fabric.js使用手册](https://juejin.im/post/5c4591bee51d4507fb1d79be)
 ### [玩转「Canvas」](https://juejin.im/post/5bfba4d6e51d452fd80f0f0d)
 ## [h5使用canvas画布实现手势解锁](http://www.wuhuan.me/2018/11/02/canvas-picture-unlock/)
 ### [学习 canvas 的 globalCompositeOperation 做出的神奇效果](https://juejin.im/post/5b87de766fb9a01a175dce1e)
