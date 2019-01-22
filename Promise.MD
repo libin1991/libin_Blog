@@ -11,3 +11,4 @@
 ### [实现一个Promise(基于Promise/A+规范)](https://juejin.im/post/5c2b34a15188257abf1d96eb)
 ### [Promise进阶——如何实现一个Promise库](https://juejin.im/post/5c2c718ce51d4558bf39860d)
 ### [你能手写一个Promise吗？Yes I promise。](https://juejin.im/post/5c41297cf265da613356d4ec)
+### [原生es5封装的Promise对象](https://juejin.im/post/5c4576cf6fb9a04a06052f3f#heading-12)
