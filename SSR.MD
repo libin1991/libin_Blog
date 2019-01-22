@@ -11,3 +11,4 @@
 ## [React 服务端渲染方案完美的解决方案](https://juejin.im/post/5bf3cb59f265da612b1336e2#comment)
 ### [如何用 React 做服务端渲染](https://juejin.im/post/5c18c34ef265da615114ae78)
 ### [VueJS SSR 后端绘制内存泄漏的相关解决经验](https://juejin.im/post/5c1b019a6fb9a049fb439d33)
+### [深入学习Vue SSR服务端渲染 用Nuxt.js打造CNode社区](https://juejin.im/post/5c45f13f6fb9a049e12a86fb)
