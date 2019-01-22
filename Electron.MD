@@ -3,3 +3,4 @@
 ## [从零开始用 electron 手撸一个截屏工具](https://juejin.im/post/5bbac5cee51d450e7042ad2c)
 ### [前端构造桌面级应用（QQ音乐）](https://juejin.im/post/5bfcb417e51d452e5e70ea8a)
 ## [用于Electron/Nodejs的数据持久缓存库](https://juejin.im/post/5c1728dd518825741e7c0eab)
+### [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
