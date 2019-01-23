@@ -24,3 +24,4 @@
 ### [浅谈class私有变量](https://juejin.im/post/5c25faf3f265da61380f4b17)
 ### [使用ES6的新特性Proxy来实现一个数据绑定实例](https://juejin.im/post/5c34a86a6fb9a049f81976d8)
 ### [[前端怪谈_1] 从 for of 聊到 Generator](https://juejin.im/post/5c40484bf265da61171cfb4d)
+### [使用 Proxy 来监测 Javascript 中的类](https://juejin.im/post/5c484b76e51d45522b4f5f7d#heading-4)
