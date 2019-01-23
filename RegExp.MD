@@ -13,3 +13,5 @@
 ### [JavaScript实现段落文本高亮](https://www.cnblogs.com/libo0125ok/p/7810982.html)
 ### [javascript 查找文本并高亮显示](https://www.cnblogs.com/joyho/articles/3510388.html)
 ### [正则实现数组滤重](https://juejin.im/post/5c2f0220e51d455023415955)
+### [正则表达式-数字每隔3位加入逗号](https://blog.csdn.net/emilyorchid/article/details/47859823)
+### [使用正则表达式每3位数字加逗号](http://www.cnblogs.com/mcshell/p/5655797.html)
