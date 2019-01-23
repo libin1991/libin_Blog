@@ -69,3 +69,4 @@
 ### [知根知底setState](https://juejin.im/post/5c3055e4f265da61542dc54f)
 # [PureComponent 使用注意事项以及源码解析](https://juejin.im/post/5c3ef5ff6fb9a049cd54776d)
 ### [[译] 使用 Recompose 来构建高阶组件](https://juejin.im/post/5c484a43e51d452ec621b6a9)
+### [结合具体场景，聊聊 React 的状态管理方案](https://juejin.im/post/5c47e3246fb9a049ad776355#heading-5)
