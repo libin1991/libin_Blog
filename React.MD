@@ -68,3 +68,4 @@
 ### [如何测试 React Hooks ？](https://juejin.im/post/5c321bdd6fb9a049f3624142)
 ### [知根知底setState](https://juejin.im/post/5c3055e4f265da61542dc54f)
 # [PureComponent 使用注意事项以及源码解析](https://juejin.im/post/5c3ef5ff6fb9a049cd54776d)
+### [[译] 使用 Recompose 来构建高阶组件](https://juejin.im/post/5c484a43e51d452ec621b6a9)
