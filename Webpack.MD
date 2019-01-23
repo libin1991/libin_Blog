@@ -4,6 +4,7 @@
 ### [使用webpack4提升180%编译速度](http://louiszhai.github.io/2019/01/04/webpack4/)
 ### [如何利用webpack来提升前端开发效率（二）？](https://juejin.im/post/5c41a4866fb9a049f7467d73)
 ### [精读《如何编译前端项目与组件》](https://juejin.im/post/5c451ab06fb9a049fe357481)
+### [webapck4 玄妙的 SplitChunks Plugin](https://juejin.im/post/5c08fe7d6fb9a04a0d56a702)
 ---
 ## [Vue项目Webpack优化实践，构建效率提高50%](https://juejin.im/post/5c1fa158f265da613c09cb36)
 ### [你可能还没试过的 react modern build 构建优化！](https://github.com/Weiyu-Chen/blog/issues/6)
