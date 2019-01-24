@@ -2,3 +2,4 @@
 ### [WebSocket 快速入门](https://juejin.im/post/5c0d0e466fb9a049f66beefe)
 ### [利用WebSocket和EventSource实现服务端推送](https://juejin.im/post/5c121c77f265da614a3a5e07)
 ### [WebSocket 协议 1~4 节](https://juejin.im/post/5c3ff78451882524a23f2d9a)
+### [小心 ！跨站点websocket劫持！](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665515571&idx=1&sn=0d0b7dea7f77e8f1844b366f1af9667f&chksm=80d67270b7a1fb66d93bae6cb36eabb52671ca9c4fcfcbd4b99a0f97477ea3d7f7ef87f086f3&token=1745763505&lang=zh_CN#rd)
