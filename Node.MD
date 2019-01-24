@@ -1,4 +1,5 @@
 ### [一点感悟：《Node.js学习笔记》star数突破1000+](https://juejin.im/post/5b1717a86fb9a01e3e5ce540)
+### [Node.js 进程平滑离场剖析](https://juejin.im/post/5c4937eee51d452a167bd158)
 ### [用 Node.js 快速开发出多功能的多人在线的文章分享平台](https://juejin.im/post/5c184e396fb9a049dc022ab5#comment)
 ### [你不知道的Node.js性能优化](https://zhuanlan.zhihu.com/p/50055740)
 ## [Node中fs模块 API详解](https://juejin.im/post/5b9768b2e51d450e9942eb98)
