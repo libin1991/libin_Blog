@@ -1,6 +1,7 @@
 ### [浏览器是如何解析html的？](https://juejin.im/post/5c1dde33f265da61776bf49a)
 ## [这应该是你见过的最全前端下载总结,下载保存](https://juejin.im/post/5c3c4b3551882524a5420119)
 ### [深入浅出浏览器渲染原理](https://juejin.im/post/5c24d736f265da614b120d4a)
+## [Webnovel 不用照顾 Edge 浏览器性能？想多了！](https://juejin.im/post/5c499f3cf265da615f77986a)
 ### [合适的meta，你选对了吗?](https://juejin.im/post/5c08bb31518825371057fcd0)
 # [HTML5中手势原理分析与数学知识的实践](https://juejin.im/post/5c2ecd2ee51d45517334489e)
 ### [那些你不知道的meta标签](https://juejin.im/post/5c288546e51d451a6b51554a)
