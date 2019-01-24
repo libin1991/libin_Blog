@@ -1,4 +1,5 @@
 ### [浏览器是如何解析html的？](https://juejin.im/post/5c1dde33f265da61776bf49a)
+## [chrome  window.open 弹窗在双屏情况下left居中定位异常分析](https://juejin.im/post/5c49354de51d45227a466980)
 ## [这应该是你见过的最全前端下载总结,下载保存](https://juejin.im/post/5c3c4b3551882524a5420119)
 ### [HTML5拍照、摄像机功能实战](https://juejin.im/post/5c4916c251882524fe52cf5e)
 ### [深入浅出浏览器渲染原理](https://juejin.im/post/5c24d736f265da614b120d4a)
