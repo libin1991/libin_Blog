@@ -19,7 +19,7 @@
 ### [Hexo 最常用的几个命令](https://blog.csdn.net/dxxzst/article/details/76135935)
 > 同样在_config.yml文件中，找到Deployment，然后按照如下修改：
 
-
+### [如何使用Github+Hexo快速搭建个人博客](https://juejin.im/post/5c4dac03f265da613c0a2811)
 ```
 deploy:
   type: git
