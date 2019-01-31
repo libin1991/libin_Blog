@@ -11,6 +11,7 @@
 ### [🥒 黄瓜 UI: 一个即插即用的 React 组件库](https://juejin.im/post/5c233564e51d455d382ebeaa#comment)
 ### [uni-app 1.4 发布，一套代码，发行小程序（微信/支付宝/百度）、H5、App多个平台](https://juejin.im/post/5c2dc4aef265da612c5e02d7)
 ### [一个基于Vue2的小型移动端组件库](https://github.com/libin1991/im-vuer)
+### [一个基于Vue2.0的移动端UI组件库](https://github.com/xiaojun1994/unique-ui)
 ---
 ## PC
 ### [https://2ue.github.io/vui/#/select](https://2ue.github.io/vui/#/select)
