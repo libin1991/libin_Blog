@@ -42,6 +42,7 @@
 ### [我扒下了某音乐的 😂😂😂 V2.0](https://juejin.im/post/5c372e31518825253208edf2)
 ---
 ## 小程序
+### [wux-weapp](https://github.com/libin1991/wux-weapp)
 ### [Taro + 小程序云开发实战](https://juejin.im/post/5bd7f93f6fb9a05cff326537)
 ### [在小程序中使用 React with Hooks](https://juejin.im/post/5c3bea2651882523785596a0)
 ### [TaroEcharts-各种图表在Taro中的实践](https://juejin.im/post/5c3f1ae0e51d455249760c8f)
