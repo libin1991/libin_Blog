@@ -3,3 +3,4 @@
 ### [解析vue2.0的diff算法](https://github.com/aooy/blog/issues/2)
 ### [详解vue的diff算法](https://juejin.im/post/5affd01551882542c83301da)
 ### [理解virtual dom的实现细节-snabbdom](https://juejin.im/post/5c2ad7f951882565986a2517)
+### [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
