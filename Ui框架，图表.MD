@@ -21,6 +21,7 @@
 ### [HeyUI](https://github.com/heyui/heyui)
 ### [vue-ydui](https://github.com/libin1991/vue-ydui)
 ### [不厌其烦，又一个Vue组件库](https://juejin.im/post/5c2cc6616fb9a049b07d765a)
+### [开源接口管理工具 YApi 1.5.1 版本发布](https://juejin.im/post/5c63e81af265da2d914d7305)
 ---
 
 ## 框架
