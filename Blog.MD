@@ -4,6 +4,7 @@
 ### [Star 就是最大的鼓励👏👏👏](https://github.com/z2014/Blog)
 ### [https://jsonz1993.github.io/](https://jsonz1993.github.io/)
 ### [【译】30 Seconds of ES6 （一）](https://juejin.im/post/5c458913e51d4542253fee3a)
+### [番茄技术小栈](http://fanqieto.top/)
 ---
 ## JS
 ### [https://qishaoxuan.github.io/js_tricks/](https://qishaoxuan.github.io/js_tricks/)
