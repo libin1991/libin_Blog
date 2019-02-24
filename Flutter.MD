@@ -6,3 +6,4 @@
 ### [用前端 最舒服的躺姿 "搞定" Flutter （组件篇）](https://juejin.im/post/5c41af466fb9a04a0e2d7d51)
 ### [移动跨平台技术方案总结](https://juejin.im/post/5c469f56e51d456e4138f911)
 ### [bugly的flutter版已完成，欢迎使用](https://juejin.im/post/5c45676c518825255008057f)
+### [基于 Flutter 的CityPickers 城市选择器](https://juejin.im/post/5c642830e51d45016463781f)
