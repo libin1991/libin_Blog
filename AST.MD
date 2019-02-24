@@ -3,3 +3,4 @@
 ## [前端与编译原理——用JS写一个JS解释器](https://segmentfault.com/a/1190000017241258)
 ### [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/)
 ### [AST in JS](https://juejin.im/post/5c2714fb51882575f560503c)
+### [实现一个简单的 JavaScript 编译器](https://juejin.im/post/5c6faa25e51d4501377ba82a)
