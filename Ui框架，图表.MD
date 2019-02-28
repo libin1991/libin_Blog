@@ -48,6 +48,7 @@
 ### [Taro + 小程序云开发实战](https://juejin.im/post/5bd7f93f6fb9a05cff326537)
 ### [在小程序中使用 React with Hooks](https://juejin.im/post/5c3bea2651882523785596a0)
 ### [TaroEcharts-各种图表在Taro中的实践](https://juejin.im/post/5c3f1ae0e51d455249760c8f)
+### [小程序原生高颜值组件库--ColorUI组件库](https://juejin.im/post/5c773b746fb9a049f43bff0f)
 ---
 
 ## API
