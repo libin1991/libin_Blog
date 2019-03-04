@@ -4,3 +4,4 @@
 ### [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/)
 ### [AST in JS](https://juejin.im/post/5c2714fb51882575f560503c)
 ### [实现一个简单的 JavaScript 编译器](https://juejin.im/post/5c6faa25e51d4501377ba82a)
+### [精读《syntax-parser 源码》](https://juejin.im/post/5c7c7658f265da2db912888c)
