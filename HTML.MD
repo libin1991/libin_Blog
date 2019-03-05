@@ -1,3 +1,4 @@
+### [👍👍👍如何在 Web 关闭页面时发送 Ajax 请求beforeunload和unload](https://juejin.im/post/5c7e541b6fb9a049e06415a5)
 ### [浏览器是如何解析html的？](https://juejin.im/post/5c1dde33f265da61776bf49a)
 ## [chrome  window.open 弹窗在双屏情况下left居中定位异常分析](https://juejin.im/post/5c49354de51d45227a466980)
 ## [这应该是你见过的最全前端下载总结,下载保存](https://juejin.im/post/5c3c4b3551882524a5420119)
