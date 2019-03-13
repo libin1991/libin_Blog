@@ -22,3 +22,8 @@
 ### [git rebase](https://yrq110.me/post/tool/git-rebase-submodule-and-flow/)
 # [关于高效、高质和高产](https://juejin.im/post/5c2f2fd66fb9a049ff4e43f0)
 ## [2018(农历年)封山之作，和我一起嚼烂Git(两万字长文)](https://juejin.im/post/5c33f49de51d45523070f7bb#comment)
+
+
+
+---
+### [github emoji 表情列表](https://github.com/caiyongji/emoji-list)
