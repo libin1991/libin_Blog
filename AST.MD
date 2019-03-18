@@ -5,3 +5,4 @@
 ### [AST in JS](https://juejin.im/post/5c2714fb51882575f560503c)
 ### [实现一个简单的 JavaScript 编译器](https://juejin.im/post/5c6faa25e51d4501377ba82a)
 ### [精读《syntax-parser 源码》](https://juejin.im/post/5c7c7658f265da2db912888c)
+### [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf#heading-12)
