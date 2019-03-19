@@ -7,7 +7,7 @@
 ### [精读《syntax-parser 源码》](https://juejin.im/post/5c7c7658f265da2db912888c)
 ### [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf#heading-12)
 ### [[AST实战]从零开始写一个wepy转VUE的工具](https://juejin.im/post/5c877cd35188257e3b14a1bc)
-
+### [通过分析AST自动重构three.js的老旧代码 ](https://github.com/hujiulong/blog/issues/10)
 
 
 
