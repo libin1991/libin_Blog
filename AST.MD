@@ -10,7 +10,7 @@
 ### [通过分析AST自动重构three.js的老旧代码 ](https://github.com/hujiulong/blog/issues/10)
 
 
-
+### [细谈 vue 核心- vdom 篇](https://juejin.im/post/5cab347fe51d456e7a303b3d)
 
 
 
