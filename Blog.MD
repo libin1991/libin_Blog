@@ -13,6 +13,7 @@
 ### [吊炸天git@github.com:libin1991/resume.git](https://github.com/libin1991/resume)
 ### [http://alloween.top/](http://alloween.top/)
 ### [全栈工程师自我修养](https://segmentfault.com/blog/jianshu)
+### [https://blog.seosiwei.com/file](https://blog.seosiwei.com/file)
 ---
 ### [OBKoro1前端积累](http://obkoro1.com/web_accumulate/)
 # [全栈工程师自我修养](https://segmentfault.com/blog/jianshu)
