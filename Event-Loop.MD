@@ -25,3 +25,4 @@ setTimeout(function () {
 ### [一次弄懂Event Loop（彻底解决此类面试问题）](https://juejin.im/post/5c3d8956e51d4511dc72c200)
 ### [浏览器与Node的事件循环(Event Loop)有何区别?](https://juejin.im/post/5c337ae06fb9a049bc4cd218)
 ### [JS 事件机制 Event Loop](https://juejin.im/post/5c48380f5188252533160295)
+### [浅析JavaScript的事件循环机制](https://juejin.im/post/5caaad5ce51d452b270ec317)
