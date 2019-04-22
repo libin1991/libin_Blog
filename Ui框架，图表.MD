@@ -14,6 +14,9 @@
 ### [一个基于Vue2的小型移动端组件库](https://github.com/libin1991/im-vuer)
 ### [一个基于Vue2.0的移动端UI组件库](https://github.com/xiaojun1994/unique-ui)
 ### [Chameleon快速上手简易教程](https://juejin.im/post/5c63eefa6fb9a049a42f8ad4)
+### [轻量级移动端Vue组件库 (A Vue.js 2.0 UI Toolkit for Mobile Web) https://nutui.jd.com](https://github.com/libin1991/nutui)
+
+
 ---
 ## PC
 ### [https://2ue.github.io/vui/#/select](https://2ue.github.io/vui/#/select)
