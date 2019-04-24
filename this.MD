@@ -2,3 +2,4 @@
 ### [this全面解析](https://juejin.im/post/5c22dbd0518825438f6bb6fc#heading-13)
 ### [「前端面试题系列4」this的原理以及用法](https://juejin.im/post/5c428ce0f265da612b13dca7)
 ### [JavaScript中的this详解](https://juejin.im/post/5c45c3cb518825538d0f420b)
+### [JS 的 this 指来指去到底指哪去了？（call, apply, bind 改变 this 指向）](https://juejin.im/post/5cbda5266fb9a03214376078)
