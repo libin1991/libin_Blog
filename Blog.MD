@@ -7,7 +7,7 @@
 ### [番茄技术小栈](http://fanqieto.top/)
 ---
 ## JS
-### 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍[打造最好的面试图谱](https://yuchengkai.cn/docs/)
+### 👍👍👍👍👍[打造最好的面试图谱](https://yuchengkai.cn/docs/)
 ### [https://qishaoxuan.github.io/js_tricks/](https://qishaoxuan.github.io/js_tricks/)
 ---
 # [吊炸天简历http://resume.caodj.cn/](http://resume.caodj.cn/)
