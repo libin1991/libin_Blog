@@ -1,4 +1,5 @@
 ### [hexo next主题深度优化](https://mmmmmm.me/archives/)
+### [大道至简——Hexo简洁主题推荐](https://www.haomwei.com/technology/maupassant-hexo.html)
 ### [简洁轻便的博客平台: Hexo详解](https://blog.csdn.net/kingice1014/article/details/52924523)
 ### [Hexo博客主题推荐](https://www.jianshu.com/p/bcdbe7347c8d)
 ### [hexo的Next创建tags](https://blog.csdn.net/lcyaiym/article/details/76762105?locationNum=5&fps=1)
