@@ -9,7 +9,7 @@
 ### [[AST实战]从零开始写一个wepy转VUE的工具](https://juejin.im/post/5c877cd35188257e3b14a1bc)
 ### [通过分析AST自动重构three.js的老旧代码 ](https://github.com/hujiulong/blog/issues/10)
 
-
+### [「译」什么是抽象语法树](https://juejin.im/post/5d05b794518825282e2c3802)
 ### [细谈 vue 核心- vdom 篇](https://juejin.im/post/5cab347fe51d456e7a303b3d)
 
 
