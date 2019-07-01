@@ -5,9 +5,9 @@
 
 
 
-
-
-
+```
+还有其他插件，例如dom-to-image、rasterizehtml，可以根据需求使用
+```
 ### [HTML截图-html2canvas使用记录](https://juejin.im/post/5d1820296fb9a07f070e41b2)
 
 
