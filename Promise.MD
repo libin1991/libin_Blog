@@ -1,4 +1,5 @@
 ### [Promise的分层解析及实现](https://juejin.im/post/5be93f6ff265da6153044d88)
+### [Promise 中的三兄弟 .all(), .race(), .allSettled()](https://juejin.im/post/5d534ff16fb9a06b1027209c)
 ### [原生es6封装一个Promise对象](https://juejin.im/post/5bfc9e4ee51d451dca4794af)
 ### [TS 版 Promise 详解](https://juejin.im/post/5c010de86fb9a049b41c3285)
 ### [手写实现满足 Promise/A+ 规范的 Promise](https://juejin.im/post/5c0a3d696fb9a04a0604ad44)
