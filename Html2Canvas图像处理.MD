@@ -4,7 +4,7 @@
 ### [移动端js模拟截屏生成图片并下载功能的实现方案+踩坑过程](https://juejin.im/post/5c415691e51d45518d46eb9c)
 
 
-
+ 
 ```
 还有其他插件，例如dom-to-image、rasterizehtml，可以根据需求使用
 ```
