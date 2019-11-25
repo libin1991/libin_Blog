@@ -2,5 +2,8 @@
 
 
 ### [Mac OS 终端强化美化：iterm2 + zsh + oh~my~zsh 设置教程](https://www.cnblogs.com/toulanboy/p/9609365.html)
+### [ITerm2配置-让你的mac命令行更加丰富高效](https://www.jianshu.com/p/405956cdaca6)
+
+
 ### [iterm2 Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
