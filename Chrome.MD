@@ -20,3 +20,15 @@
 ### [【译】你不知道的 Chrome 调试工具技巧 第十三天：对象 & 方法](https://juejin.im/post/5c18b2d66fb9a049d235fc82)
 ### [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
 ### [[译] Chrome 73 开发者工具新特性](https://juejin.im/post/5c493745e51d453211567ae8)
+
+
+
+---
+
+### [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+
+Video Speed Controller ，一个可配置播放速度的 Chrome 插件，可配置快捷键，赖宅的我一般使用 D 来增加播放速度，特别提醒，该插件只支持 H5 播放器，Flash 是不支持的👀 比如某酷，对腾讯视频友好。Video Speed Controller 会将当前视频播放速度先是在左上角，Chrome 地址：https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdkchrome.google.com/webstore/detai...
+
+最后如果你听的是某人的演讲，建议倍数在 1.25 - 1.5，一个 2x 速度的煲剧党路过。
+
+
