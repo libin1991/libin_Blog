@@ -82,3 +82,8 @@ hexo deploye
 # 当然你也可以执行下面的组合命令
 hexo d -g
 ```
+
+
+
+
+### [hexo博客主题「paper」的设计与开发](https://juejin.im/post/5df4cc44e51d45581f5eebfd)
