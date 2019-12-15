@@ -13,7 +13,7 @@
 
 
 
-### [高质量前端快照方案：来自页面的「自拍」](https://juejin.im/post/5df2e8ab6fb9a0163770816d)
+### html2canvas[高质量前端快照方案：来自页面的「自拍」](https://juejin.im/post/5df2e8ab6fb9a0163770816d)
 
 
 
